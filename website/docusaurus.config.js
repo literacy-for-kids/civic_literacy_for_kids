@@ -142,6 +142,15 @@ const config = {
             ],
           },
           {
+            title: 'Literacy for Kids',
+            items: [
+              {
+                label: 'Project Hub',
+                href: 'https://zcohen-nerd.github.io/literacy_for_kids/',
+              },
+            ],
+          },
+          {
             title: 'Community',
             items: [
               {
