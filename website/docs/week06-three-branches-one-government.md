@@ -1,0 +1,244 @@
+---
+sidebar_position: 8
+sidebar_label: "Week 6: Three Branches, One Government"
+title: "Week 6: Three Branches, One Government"
+description: "Learn how the U.S. government is divided into three branches — legislative, executive, and judicial — and why power is separated."
+---
+
+# Week 6: Three Branches, One Government  
+*Why Power Is Divided*
+
+Last week we learned that the Constitution is the highest set of rules in the country — and that the Bill of Rights protects individual freedoms.
+
+But the Constitution also answers another critical question:
+
+**How should the government be organized?**
+
+The answer the founders chose was to split the government into **three separate branches**, each with its own job. No single branch can do everything alone.
+
+This week we explore **why** power is divided and **how** each branch works.
+
+The big idea:
+
+**When no one person or group has all the power, it's much harder for anyone to abuse it.**
+
+---
+
+:::info Caregiver Snapshot
+- You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
+- If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
+- The independent session works best after the learner has already explored the main idea with you once.
+:::
+
+:::tip Quick Navigation
+- [Teacher Preparation](#teacher-preparation)
+- [Guided Session 1](#guided-session-1)
+- [Guided Session 2](#guided-session-2)
+- [Independent Session](#independent-session)
+:::
+
+## Teacher Preparation
+
+:::info Before You Begin
+- Prepare a whiteboard or paper for drawing a three-branch diagram.
+- Bookmark [Ben's Guide: Branches of Government](https://bensguide.gpo.gov/) for optional exploration.
+- Have examples ready of each branch in action (a law being proposed, a president signing something, a court making a decision).
+- Prepare a visual timer for sessions.
+:::
+
+:::tip Teaching Mindset
+Avoid making this a memorization exercise. The goal is for the student to understand **why** power is divided, not just **what** each branch is called. Use analogies and real examples to keep it concrete.
+:::
+
+---
+
+## Guided Session 1
+### Who Does What?
+#### Learning Goal
+By the end of this session, the student can:
+
+- identify the three branches of government and their primary jobs
+- analyze why each branch has a different role
+- compare the three branches using concrete examples
+
+---
+
+#### Activities
+**1. The Three Jobs** *(5 minutes)*
+
+Ask:
+
+> "If you were running a country, what jobs would need to be done?"
+
+Guide the discussion toward three essential tasks:
+
+1. **Making the rules** (laws)
+2. **Carrying out the rules** (enforcing and managing)
+3. **Settling disagreements about the rules** (judging what's fair)
+
+Explain:
+
+> "The Constitution assigns each of these jobs to a different part of the government. These are called the **three branches**."
+
+---
+
+**2. Meet the Branches** *(12 minutes)*
+
+Remember the island community from Week 2? Your islanders had to figure out who makes the rules, who enforces them, and who settles arguments. The United States answered that same question by creating three separate branches.
+
+| Branch | Job | Who's In It | Where |
+|--------|-----|------------|-------|
+| **Legislative** (Congress) | Makes the laws | Senators and Representatives | Capitol Building |
+| **Executive** | Carries out the laws | President and their team | White House |
+| **Judicial** | Interprets the laws and settles disputes | Judges and the Supreme Court | Courthouses |
+
+For each branch, give a simple example:
+
+- **Legislative:** Congress votes on whether to create a new national park.
+- **Executive:** The President signs the law and tells government agencies to build the park.
+- **Judicial:** If someone sues because the park is on their land, a court decides what's fair.
+
+:::info A Quick Look at Courts
+Courts handle two main types of cases: **civil cases** (disputes between people or organizations — like the park example above) and **criminal cases** (when someone is accused of breaking a law). In most trials, a group of ordinary citizens called a **jury** listens to both sides and decides the outcome. One of the most important rules in American courts is that everyone is **innocent until proven guilty** — the accuser has to prove their case. You'll learn much more about courts in the [Bonus Module: Understanding Courts](week-bonus-1-understanding-courts).
+:::
+
+---
+
+**3. The School Analogy** *(8 minutes)*
+
+Make it relatable:
+
+| Government Branch | School Equivalent |
+|---|---|
+| Legislative (makes rules) | School board decides the rules |
+| Executive (carries out rules) | Principal enforces the rules |
+| Judicial (interprets rules) | A teacher or mediator decides who's right in a dispute |
+
+Ask:
+
+> "What would happen if the principal could also make the rules AND decide who's right in every disagreement?"
+
+Help the student see: **Giving one person all three jobs is dangerous.**
+
+---
+
+#### Reflection Questions
+- "Why did the founders split government into three branches instead of giving one person all the power?"
+- "Which branch do you think has the hardest job? Why?"
+- "How is the three-branch system similar to how your school is organized?"
+
+---
+
+## Guided Session 2
+### Why Not Just One Leader?
+#### Learning Goal
+By the end of this session, the student can:
+
+- evaluate the risks of concentrating all power in one person or group
+- justify why separated powers protect citizens better than a single authority
+- create a simple diagram showing how the three branches interact
+
+---
+
+#### Activities
+**1. The One-Person Thought Experiment** *(10 minutes)*
+
+Ask:
+
+> "What if one person could make all the laws, enforce all the laws, AND decide who is right or wrong?"
+
+This builds on what we explored in Week 2: when one person on the island tried to control everything, it wasn't fair to the others. Now imagine that at the scale of an entire country.
+
+Let the student think about what could go wrong.
+
+Prompt with questions:
+
+- Could that person make a law that benefits only themselves?
+- Could they punish people who disagree with them?
+- Could they change the rules whenever they want?
+
+Explain:
+
+> "Throughout history, when one person or one group has had all the power, the result is almost always the same: **the people with the least power get treated the worst.**"
+
+This is exactly why the founders split the government into three branches.
+
+---
+
+**2. Real Examples (Simplified)** *(10 minutes)*
+
+Share simple examples of the branches working:
+
+**Example 1:** Congress passes a law saying schools must provide free lunch.
+- The President signs it and tells the Department of Education to carry it out.
+- If a school says "we won't do it," a court can decide whether they have to.
+
+**Example 2:** The President wants to create a new federal agency to protect national parks.
+- Congress has to approve the funding.
+- If someone believes the agency's rules violate their rights, they can challenge it in court.
+
+Ask:
+
+> "In both examples, does any one branch get to decide everything alone?"
+
+The answer is no — and that's the point.
+
+---
+
+**3. Draw the Three Branches** *(8 minutes)*
+
+Together, draw a diagram showing the three branches:
+
+```
+        The Constitution
+       /       |       \
+Legislative  Executive  Judicial
+ (Makes)    (Carries    (Judges)
+             out)
+```
+
+For each branch, write:
+- Its main job
+- Who leads it
+- One thing it **cannot** do alone
+
+This diagram becomes a reference for next week's lessons on checks and balances.
+
+---
+
+#### Reflection Questions
+- "What specific danger does the three-branch system prevent?"
+- "Why is it important that no branch can act alone?"
+- "If you were designing a government from scratch, would you use three branches? Why or why not?"
+
+---
+
+## Independent Session
+### Branch Explorer
+#### Instruction
+Create a **Three Branches Poster** or explainer that shows how the U.S. government is organized.
+
+Your poster should include:
+
+1. **The name of each branch** and its main job.
+2. **Who leads each branch** (at least one key role).
+3. **One real-world example** of each branch in action.
+4. **A title and a sentence** explaining why power is divided.
+
+You can draw it, write it, or combine both. Make it clear enough that someone who doesn't know about the branches could learn from your poster.
+
+---
+
+#### Skills Reinforced
+- identifying the three branches and their roles
+- analyzing why separation of powers matters
+- communicating civic concepts clearly through visual or written explanation
+- connecting government structure to real-world examples
+
+---
+
+#### Setup
+- large paper or poster board
+- markers, crayons, or colored pencils
+- notes from today's sessions
+- visual timer
