@@ -67,6 +67,25 @@ const sidebars = {
         'week-bonus-2-the-mock-trial',
       ],
     },
+    {
+      type: 'category',
+      label: 'Resources and Guides',
+      collapsed: true,
+      items: [
+        'how-to-use',
+        'assessment-framework',
+        'scope-and-sequence',
+        'glossary',
+        {
+          type: 'category',
+          label: 'Printable Resources',
+          collapsed: true,
+          items: [
+            'resources/local-civic-toolkit',
+          ],
+        },
+      ],
+    },
     'license',
   ],
 };
