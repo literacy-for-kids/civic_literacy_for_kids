@@ -249,3 +249,56 @@ Be ready to share what you discovered.
 - paper and writing supplies
 - access to the internet for research or iCivics (optional)
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Bill** — A written idea for a new law that hasn't been approved yet.
+- **Law** — A rule that has been officially approved by Congress and signed by the President.
+- **Debate** — When people discuss different sides of an idea before making a decision.
+- **Compromise** — When both sides give up a little bit of what they want so they can agree on something together.
+- **Committee** — A small group of lawmakers who study a bill closely before the full Congress votes on it.
+- **Vote** — When people officially choose yes or no to make a decision.
+:::
+
+:::tip Kid-Friendly Summary
+Every law starts as someone's idea for how to solve a problem. That idea gets written down as a bill, and then lots of people discuss it, change it, and vote on it before it can become an official law. It's kind of like how your class might suggest a new rule — everyone gets a say, and the final version is usually a little different from the first idea.
+:::
+
+## Check for Understanding
+
+- What is the difference between a bill and a law?
+- Why does the lawmaking process have so many steps instead of just letting one person decide?
+- What is compromise, and why is it important when making laws?
+- At which point in the process can the President stop a bill from becoming law? What can Congress do about it?
+
+## Core vs. Stretch
+
+**Core (All Learners):**
+- Trace the basic steps a bill takes from idea to law (problem → bill → committee → vote → President signs).
+- Explain why debate and compromise are part of the process.
+- Participate in the mini classroom lawmaking simulation or write your own bill about a problem you care about.
+
+**Stretch (Older or Advanced Learners):**
+- Look up a real bill on Congress.gov and summarize what problem it addresses and where it is in the process.
+- Write a bill with two arguments for it and two arguments against it, then propose a compromise version.
+- Explain what a presidential veto is and describe how Congress can override it. Why do you think this power exists?
+
+## Offline Option
+
+:::info
+Draw the bill-to-law flowchart on paper or a whiteboard. Use the bike helmet law example from the lesson as your story — walk through each step together without any technology. The debate activity (Side A vs. Side B) and the mini classroom lawmaking simulation both work perfectly offline. For the independent session, "Create your own bill" and "Write three things you learned" require only paper and pencil. Skip the iCivics game and Congress.gov options if no internet is available.
+:::
+
+## Local Adaptation Note
+
+- Ask: "Has your city or town passed a new rule or law recently? What problem was it trying to solve?"
+- Look into how your local city council or school board makes decisions — do they follow a process similar to Congress?
+- Connect to the learner's life: "If you wanted to change a rule at your school, who would you talk to first? What steps would you follow?"
+
+:::caution Facilitator Notes
+- Lawmaking can feel abstract and hard to visualize for kids. Use the school-rule analogy throughout: proposing a new rule at school, debating it in class, getting it approved by the principal. This makes every step of the Congressional process feel familiar.
+- Follow one specific example (like the bike helmet law) through every step rather than teaching the process in the abstract. Stories stick better than diagrams alone.
+- Kids may ask "why does it take so long to make a law?" This is a great teaching moment — the many steps exist on purpose to prevent bad or unfair laws from being rushed through.
+- Encourage the learner to argue for the side they disagree with during the debate activity. This builds the crucial skill of understanding different perspectives.
+:::

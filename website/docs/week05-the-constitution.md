@@ -239,3 +239,56 @@ Be ready to share what you created and explain your reasoning.
 - paper and writing supplies
 - access to the internet for research (optional)
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Constitution** — The highest set of rules for a country that says how the government works and what it can and cannot do.
+- **Amendment** — A change or addition to the Constitution.
+- **Preamble** — The opening statement of the Constitution that explains its purpose.
+- **Bill of Rights** — The first ten amendments to the Constitution that protect people's individual freedoms.
+- **Founding document** — An important paper from the beginning of a country that helps set up how things work.
+- **Ratify** — To officially approve something, like when the states voted to accept the Constitution.
+:::
+
+:::tip Kid-Friendly Summary
+The Constitution is like the ultimate rulebook for the United States — it tells the government what it can do and what it can't do. The Bill of Rights is a special part that protects your freedoms, like being able to speak your mind and being treated fairly. Even though it was written a long time ago, it still matters every single day.
+:::
+
+## Check for Understanding
+
+- In your own words, what is a constitution and why does a country need one?
+- Name two things the Bill of Rights protects. Why do those protections matter?
+- How is the Constitution similar to the island agreement you created in Week 2?
+- Why is it important that the Constitution can be amended (changed) over time?
+
+## Core vs. Stretch
+
+**Core (All Learners):**
+- Explain in your own words what the Constitution is and why it matters.
+- Identify at least three rights from the Bill of Rights and describe what they protect.
+- Compare the Island Agreement from Week 2 to the U.S. Constitution.
+
+**Stretch (Older or Advanced Learners):**
+- Research one amendment beyond the Bill of Rights and explain why it was added.
+- Write a short argument for which right in the Bill of Rights you think is most important and defend your choice.
+- Investigate who was left out of the Constitution's original protections and explain how that changed over time.
+
+## Offline Option
+
+:::info
+Print or copy out a simplified version of the Preamble and the Bill of Rights before the session. Use the comparison chart (Island Agreement vs. Constitution) on paper or a whiteboard. For the independent session, all three activity choices — writing a family preamble, creating a Kid's Bill of Rights, or summarizing an amendment — can be done with paper and pencil alone. No internet is required if you prepare the reference materials in advance.
+:::
+
+## Local Adaptation Note
+
+- Ask the learner: "Does your state have its own constitution? How might it be different from the U.S. Constitution?"
+- Look up one right or rule from your state constitution and compare it to the Bill of Rights.
+- Connect to local experience: "Are there rules at your school or in your town that remind you of the Bill of Rights? For example, do students have a right to speak up at school?"
+
+:::caution Facilitator Notes
+- The Constitution can feel distant and abstract to kids. Keep every idea connected to their daily experience — school rules, family agreements, and the Island Challenge from Week 2 all help make it real.
+- When discussing "the founders," be honest that they were a specific group of men, mostly wealthy and white. The Constitution initially excluded many people — women, enslaved people, and others could not vote or were not fully protected. This is important context, not something to skip.
+- Don't try to cover the entire Constitution. Focus on two big ideas: (1) it sets up how government works, and (2) the Bill of Rights limits what the government can do to individuals.
+- Let kids express strong opinions about which rights matter most. There is no wrong answer — the goal is to get them thinking about why rights exist.
+:::

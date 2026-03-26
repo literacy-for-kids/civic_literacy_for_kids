@@ -297,3 +297,57 @@ Your election must include:
 - a box, hat, or envelope for ballot collection
 - family members or friends to participate (optional but encouraged)
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Election** — An event where people vote to choose their leaders or make decisions about important issues.
+- **Ballot** — The paper or screen where you mark your choices when you vote.
+- **Candidate** — A person who is running for a position in an election and asking people to vote for them.
+- **Voting rights** — The legal right to participate in elections, which has expanded over time to include more and more Americans.
+- **Campaign** — The effort a candidate makes to convince voters to choose them, including speeches, posters, and meetings.
+- **Democracy** — A system of government where the people have the power to choose their leaders and influence decisions.
+:::
+
+:::tip Kid-Friendly Summary
+Elections are how people in a democracy choose their leaders. When you vote, you get to help decide who's in charge and what the government does. A long time ago, only a few people were allowed to vote, but over many years, brave people fought so that almost every adult citizen now has that right. Voting is one of the most important ways regular people can have a say.
+:::
+
+## Check for Understanding
+
+- Why do democracies use elections instead of just letting someone pick themselves as leader?
+- Name two ways that voting rights have expanded since the United States was founded.
+- What is a secret ballot, and why is it important?
+- How does voting connect to the idea that "Power Flows from the People"?
+
+## Core vs. Stretch
+
+**Core (All Learners):**
+- Explain why elections exist and what problem they solve.
+- Describe at least two milestones in the history of voting rights in the United States.
+- Participate in the mock election and reflect on what made it fair or unfair.
+
+**Stretch (Older or Advanced Learners):**
+- Research the Electoral College and explain how it works. Write a short argument for or against it.
+- Compare how elections work at the local, state, and federal levels. What is different about each one?
+- Investigate a historical voting rights movement (such as women's suffrage or the civil rights movement) and create a short presentation about what happened and why it mattered.
+
+## Offline Option
+
+:::info
+The mock election is the heart of this lesson and works perfectly offline. Prepare two candidate profiles on paper, have the learner make campaign posters by hand, and use paper ballots with a hat or box for collection. For the voting rights timeline, draw the "expanding circle" on a whiteboard or large sheet of paper and walk through each milestone together. The independent session — designing a fair election — needs only paper, pencils, and willing participants. Skip the iCivics game and Ben's Guide links if no internet is available.
+:::
+
+## Local Adaptation Note
+
+- Ask: "When is the next election in our town, city, or state? What positions are being voted on?"
+- Look up your local polling place — where would your family go to vote?
+- Discuss: "Are there any local issues being decided by voters right now, like a school budget or a new park? That's democracy in action in your own neighborhood."
+- Connect to the learner's life: "Even though you can't vote yet, what are ways you can participate in your community right now?"
+
+:::caution Facilitator Notes
+- This lesson must be **strictly nonpartisan**. Do not reference any current candidates, political parties, or partisan issues. Use only the fictional candidates provided (Jordan Park and Riley Chen) or create your own. If a child mentions a real politician, gently redirect: "Great that you're paying attention! For today, let's focus on how the process works rather than specific people."
+- When teaching the history of voting rights, be honest that this history includes painful exclusions. Many groups — Black Americans, women, Native Americans, and others — were deliberately kept from voting for a long time. Frame each expansion as a victory, but don't sugarcoat the struggle that made it necessary.
+- The Electoral College can be confusing. For younger learners, a brief mention is enough. For older or more curious learners, use the "For Curious Learners" tip box in the lesson to go deeper. Avoid framing it as good or bad — present it as a system people have different opinions about.
+- End on an empowering note. Kids can't vote yet, but they can learn, speak up, volunteer, and be ready. The goal is for them to leave feeling like future participants, not bystanders.
+:::
