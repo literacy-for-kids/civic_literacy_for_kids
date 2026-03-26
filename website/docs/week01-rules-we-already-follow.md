@@ -244,3 +244,63 @@ Be ready to explain your thinking to someone else.
 - paper, markers, or crayons for drawing
 - writing tools
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Rule** — An instruction that tells people what they should or should not do.
+- **Consequence** — What happens because of something you did, like a reward or a punishment.
+- **Fairness** — When everyone is treated in a way that makes sense and nobody is left out.
+- **Community** — A group of people who live, work, or spend time together.
+- **Safety** — Being protected from things that could hurt you.
+:::
+
+:::tip Kid-Friendly Summary
+This week is all about noticing the rules you already follow every single day — at home, at school, and out in the world. You'll discover that rules aren't random; they exist to keep people safe, make things fair, and help everything run smoothly. You'll even get to design your own rule to solve a real problem!
+:::
+
+---
+
+## Check for Understanding
+- Why do most rules exist? Can you name at least two reasons?
+- Pick a rule you follow at home or school. What problem does that rule solve?
+- If you could remove one rule for a day, what do you think would happen? Would things get better or worse?
+- What makes a rule fair? What would make a rule unfair?
+
+---
+
+## Core vs. Stretch
+
+**Core (All Learners):**
+- Brainstorm a list of rules from everyday life and sort them into Safety, Fairness, and Order categories.
+- Explain in their own words why at least two rules exist.
+- Draw or write about one rule they would create to solve a real problem.
+
+**Stretch (Older or Advanced Learners):**
+- Analyze rules that fit into more than one category and explain why they overlap.
+- Compare the rules at two different places (for example, school vs. a sports team) and describe what they have in common.
+- Write a short argument for or against a rule they think is unfair, including what they would replace it with.
+
+---
+
+## Offline Option
+
+:::info
+This lesson works great without any technology. Use paper and markers to list rules, sticky notes or slips of paper to sort them into categories, and verbal discussion for the "Why?" game and reflection questions. The independent session only needs drawing or writing supplies — no internet required.
+:::
+
+---
+
+## Local Adaptation Note
+Think about the rules in your own household, school, or neighborhood. What local rules does your learner already know well? Are there community-specific rules — like pool rules, library rules, or park rules — that would make great examples? Swap in those real, familiar rules wherever the lesson calls for examples.
+
+---
+
+## Facilitator Notes
+
+:::caution
+- Some kids may push back on the idea that rules are helpful, especially if they've experienced rules that felt unfair or were enforced inconsistently. That's okay — acknowledge their feelings and use it as a discussion point about what makes a rule good or bad.
+- Avoid framing rule-following as blind obedience. The goal is for kids to understand *why* rules exist, not just to accept them without question.
+- If a child brings up a rule that genuinely seems unfair, take it seriously. Validating their critical thinking builds trust and keeps them engaged.
+- Keep the tone curious and playful. This week is about discovery, not discipline.
+:::

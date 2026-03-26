@@ -234,3 +234,64 @@ Be ready to explain why each rule is important and how it helps the community.
 - paper and writing/drawing supplies
 - the rules from Guided Sessions as reference
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Cooperation** — Working together with other people to get something done.
+- **Compromise** — When everyone gives up a little so the group can agree on a solution.
+- **Conflict** — A disagreement between people who want different things.
+- **Vote** — A way for each person to have a say in a group decision.
+- **Agreement** — A plan or set of rules that everyone in a group decides to follow.
+- **Constitution** — A written set of the most important rules for how a community or country works.
+:::
+
+:::tip Kid-Friendly Summary
+This week is all about imagining you're stranded on a deserted island with a group of people and no rules at all. You'll figure out what your community needs to survive, write rules together, and discover what happens when people disagree. The big lesson? Communities only work when people cooperate and make agreements — even when it's hard.
+:::
+
+---
+
+## Check for Understanding
+- Why did your island community need rules even though nobody was "in charge"?
+- What was the hardest part about creating rules for your island? Why?
+- Why is compromise important when people in a group disagree?
+- How is your island agreement similar to rules in your real life?
+
+---
+
+## Core vs. Stretch
+
+**Core (All Learners):**
+- Identify at least three basic needs a community must address (like food, shelter, and safety).
+- Write or draw at least three rules for their island community.
+- Explain what compromise means and give one example.
+
+**Stretch (Older or Advanced Learners):**
+- Compare different decision-making methods (voting, one leader, group discussion) and argue for the one they think is fairest.
+- Write a full Island Constitution with at least five rules, a decision-making process, and a consequence for rule-breaking.
+- Discuss what happens when a minority disagrees with the majority's decision and how a community can handle that fairly.
+
+---
+
+## Offline Option
+
+:::info
+This lesson is naturally hands-on and works perfectly offline. Use large paper or a whiteboard to brainstorm survival needs, write island rules on index cards or sticky notes, and hold the conflict discussion verbally. The Island Constitution can be written or drawn on poster board — no internet or devices needed.
+:::
+
+---
+
+## Local Adaptation Note
+Connect the island scenario to your learner's real world. Ask: "What agreements does your family have about chores or screen time? How did you decide on those?" or "Are there rules at your school that students helped create?" Local examples of cooperation — like neighborhood cleanup days or team sports — can make the lesson feel immediate and personal.
+
+---
+
+## Facilitator Notes
+
+:::caution
+- This week's magic comes from letting kids struggle with real decisions. Resist the urge to give them the "right" rules — the learning happens in the negotiation and trade-offs.
+- The fish-sharing conflict scenario can spark strong feelings about fairness. Let kids disagree and talk it through. There is no single correct answer, and that's the point.
+- If working with siblings or a small group, disagreements may get personal. Gently redirect by reminding them they're playing roles as island founders, not arguing about real-life grievances.
+- Some kids may want a single leader to decide everything. That's a valid starting point — use it to discuss what happens if that leader is unfair, which naturally leads to the value of shared decision-making.
+:::
