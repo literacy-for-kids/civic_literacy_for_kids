@@ -255,3 +255,64 @@ Put your answers on a single page — a fact sheet anyone could read to learn ab
 - your local government's website (search "[your city name] city government")
 - paper for the fact sheet
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Local government** — The group of leaders and workers who make decisions for your city, town, or county. They handle things like roads, parks, schools, and public safety.
+- **Mayor** — The elected leader of a city or town, similar to a president but for your local community.
+- **City council** — A group of elected people who vote on local laws (called ordinances) and decide how to spend the community's money.
+- **School board** — An elected or appointed group that makes decisions about local schools, including budgets and rules.
+- **Tax** — Money that people pay to the government so it can provide services like schools, roads, and fire departments.
+- **Budget** — A plan for how money will be spent. Local governments create budgets to decide how tax money is used.
+- **Ordinance** — A local law passed by a city council or town board. It only applies to that community.
+:::
+
+---
+
+:::tip Kid-Friendly Summary
+Your local government is the team of people who take care of your town — they fix the roads, run the schools, and keep the parks open. These leaders are your neighbors, and they were chosen by voters in your community. You can learn about them, attend their meetings, and even tell them what you think!
+:::
+
+---
+
+## Check for Understanding
+1. What are three things your local government is responsible for?
+2. How is a mayor similar to — and different from — the President of the United States?
+3. Why do communities collect taxes? What would happen if they didn't?
+4. If you could attend a city council meeting and ask one question, what would it be?
+
+---
+
+## Core vs. Stretch
+- **Core:** Identify the main roles in local government (mayor, city council, school board) and explain how local government affects daily life. Complete the budget activity.
+- **Stretch:** Research your own local government officials by name, find a recent meeting agenda, and compare your local structure to the federal three-branch model.
+
+---
+
+## Offline Option
+
+:::info Offline Alternative
+If internet access is not available for the independent session, use printed or verbal descriptions of local government instead of website research. The facilitator can share what they know about the local government structure — who the mayor is, how many council members there are, and when they meet. The student can build their fact sheet based on this conversation and any printed materials (like a local newspaper or community newsletter) available at home.
+:::
+
+---
+
+## Local Adaptation Note
+
+:::tip Make It Local
+This week is especially important to adapt to your own community. Every local government is a little different, and that's the whole point.
+
+- **"What is your local government called? Does your area have a mayor, a town manager, or something else?"**
+- Some communities have a city council; others have a board of selectmen, a board of trustees, or a county commission. Help the learner discover what applies to them.
+- Use real names and real places whenever possible — the more local, the more meaningful.
+:::
+
+---
+
+:::caution Facilitator Notes
+- **Local government structures vary widely.** Cities, towns, villages, counties, and townships can all work differently. Don't teach one model as "the" model — help the learner discover how *their* community is organized.
+- **The budget activity can spark strong opinions.** That's great! Let the learner wrestle with trade-offs. There are no wrong answers — the goal is to understand that every choice has consequences.
+- **Taxes can be a sensitive topic in some households.** Keep the discussion focused on the concept (pooling resources for shared services) rather than on whether taxes are too high or too low.
+- **If you can't find your local government's website,** check with your public library — librarians are excellent resources for local civic information.
+:::

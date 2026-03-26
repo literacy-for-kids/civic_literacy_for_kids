@@ -308,3 +308,64 @@ Write it up as an official-looking document. Give it a title like:
 - paper or card stock
 - pencil or pen
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Diplomacy** — The process of countries talking to each other to solve problems, make agreements, and build relationships — without using force.
+- **Treaty** — A formal, written agreement between two or more countries, like a contract. Examples include peace treaties and trade deals.
+- **Trade** — The buying and selling of goods and services between countries. Trade lets each country focus on what it does best.
+- **Ambassador** — A person sent by one country to represent it in another country. Ambassadors are the face of diplomacy.
+- **Ally** — A country that has agreed to support another country, often through a formal alliance for defense or cooperation.
+- **International** — Something that involves two or more countries. International cooperation means countries working together across borders.
+:::
+
+---
+
+:::tip Kid-Friendly Summary
+Countries can't do everything on their own — they need to trade with each other and work together to solve big problems. Diplomacy is how countries talk things out instead of fighting. When countries make agreements (called treaties), it's like writing a set of rules that everyone promises to follow. The same teamwork skills you use with friends work between nations too — just on a much bigger scale!
+:::
+
+---
+
+## Check for Understanding
+1. Why can't most countries produce everything they need on their own?
+2. What is the difference between a treaty and an alliance?
+3. In the Trade Game, what made a deal feel "fair"? What made it feel unfair?
+4. What happens when one country breaks a treaty? What tools do other countries have to respond?
+
+---
+
+## Core vs. Stretch
+- **Core:** Explain why countries need diplomacy and trade, participate in the Trade Game, and define key terms (treaty, alliance, imports, exports).
+- **Stretch:** Research a real international organization and create an information card, or design a detailed written trade agreement with terms for disputes and duration.
+
+---
+
+## Offline Option
+
+:::info Offline Alternative
+This week's activities are already well-suited for offline learning. The Trade Game is a hands-on activity using index cards and conversation — no technology needed. For the "Where Did It Come From?" activity, simply check the labels on items around the house. If the independent session's research option requires internet access, choose the trade agreement design option instead, or the facilitator can provide a brief verbal summary of one international organization (like the United Nations or the Red Cross) and have the learner create their information card from that description. A printed world map or hand-drawn map works well for locating countries.
+:::
+
+---
+
+## Local Adaptation Note
+
+:::tip Make It Local
+International connections are everywhere, even in your own neighborhood — you just have to look.
+
+- **"Does your area have any international connections — sister cities, trade, immigrant communities?"**
+- Check the labels on grocery items, clothing, and electronics around the house. Where were they made? Trace the supply chain back to other countries.
+- If your community has cultural festivals, international restaurants, or immigrant-owned businesses, these are real examples of global connections happening locally.
+- Talk about whether your area exports anything — agricultural products, manufactured goods, or services.
+:::
+
+---
+
+:::caution Facilitator Notes
+- **Global politics can bring up strong opinions.** That's natural, but keep the focus on *systems and processes* — how diplomacy works, why trade exists, what treaties do — rather than debating specific geopolitical controversies.
+- **Avoid taking sides on current international conflicts.** If the learner brings one up, acknowledge it and redirect: "That's a real example of why diplomacy is important. What tools could the countries involved use to resolve it?"
+- **The Trade Game works best when the facilitator plays along.** Take on the role of a country and negotiate genuinely — kids learn more when the activity feels real rather than scripted.
+- **Some learners may notice that trade isn't always fair in the real world.** That's a great observation. Acknowledge it honestly and connect it to why trade agreements and organizations like the WTO exist — to try to create fairer rules.
+:::

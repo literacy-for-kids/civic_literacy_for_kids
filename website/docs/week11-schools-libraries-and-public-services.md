@@ -248,3 +248,64 @@ Write your answers clearly — imagine presenting this to the 500 people in your
 - paper for writing answers
 - calculator (optional)
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Public service** — Something the government provides to everyone in a community, like schools, libraries, fire departments, and roads.
+- **Tax** — Money people pay to the government so it can fund public services that benefit the whole community.
+- **Library** — A public place where anyone can borrow books, use computers, and attend programs — for free, because it's funded by taxes.
+- **Public school** — A school that is free for all children to attend, paid for with tax money and managed by the school board.
+- **Community** — A group of people who live in the same area and share public services, spaces, and responsibilities.
+- **Budget** — A plan that decides how much money goes to each public service. Every community has limited money, so budgets involve tough choices.
+- **Free rider** — Someone who benefits from a shared service or system without contributing to it. This concept helps explain why participation and taxes matter.
+:::
+
+---
+
+:::tip Kid-Friendly Summary
+Public services are the things your community shares — like schools, libraries, parks, and fire trucks. Everyone chips in through taxes so that everyone can use them. You get to have opinions about which services matter most, and you can even help decide what your community should spend money on!
+:::
+
+---
+
+## Check for Understanding
+1. Name three public services you used today. Who provides them?
+2. What is the difference between a public service and a private service?
+3. Why might a community choose to make something a public service instead of leaving it private?
+4. If your town had to cut one service from its budget, which would you argue to keep — and why?
+
+---
+
+## Core vs. Stretch
+- **Core:** Identify public services in daily life, explain the difference between public and private services, and complete the budget challenge in the independent session.
+- **Stretch:** Design a new public service proposal with a written justification, or research a real public service in your community and find out how much it costs and who manages it.
+
+---
+
+## Offline Option
+
+:::info Offline Alternative
+If internet access is not available, skip any online research and instead have a discussion about public services the learner uses every single day. Walk through a typical day together — from waking up (clean water, electricity infrastructure) to going to bed (streetlights, safe roads). The service map activity and the budget challenge in the independent session are already fully offline-friendly and need only paper, a pencil, and conversation.
+:::
+
+---
+
+## Local Adaptation Note
+
+:::tip Make It Local
+Public services look different in every community, and this week is a great chance to explore what's unique about yours.
+
+- **"Which public services does your family use most? Are there services in your community that are missing?"**
+- Some communities have robust public transit; others don't. Some have community health clinics; others rely on private options. Help the learner see what their community actually offers — and what gaps exist.
+- If a service the lesson mentions (like a public bus system) doesn't exist in your area, talk about why it might not and whether people wish it did.
+:::
+
+---
+
+:::caution Facilitator Notes
+- **The "free rider" concept can spark debate.** That's healthy, but keep it focused on *systems*, not on blaming individual people. The goal is to understand why shared contribution matters, not to point fingers.
+- **Some kids may have personal experience with services being unavailable or underfunded** — a library that closed, a school program that was cut, or a park that isn't maintained. Be sensitive to these experiences and let them inform the discussion rather than dismissing them.
+- **The budget activity works best when there's no "right" answer.** Resist the urge to steer the learner toward your preferred choices. The learning is in the reasoning, not the result.
+- **Connect back to Week 10.** Remind the learner that the city council and school board are the people who make these public service decisions — and that citizens have a voice in the process.
+:::
