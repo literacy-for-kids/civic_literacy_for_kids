@@ -33,9 +33,9 @@ const sidebars = {
       label: 'Unit 3: Your Local Government',
       collapsed: false,
       items: [
-        'week09-your-town-your-rules',
-        'week10-schools-libraries-and-public-services',
-        'week11-seeing-government-in-action',
+        'week10-your-town-your-rules',
+        'week11-schools-libraries-and-public-services',
+        'week12-seeing-government-in-action',
       ],
     },
     {
@@ -43,7 +43,7 @@ const sidebars = {
       label: 'Unit 4: The Global Community',
       collapsed: false,
       items: [
-        'week12-why-countries-talk',
+        'week13-why-countries-talk',
         'week14-solving-problems-across-borders',
       ],
     },
@@ -65,6 +65,25 @@ const sidebars = {
       items: [
         'week-bonus-1-understanding-courts',
         'week-bonus-2-the-mock-trial',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Resources and Guides',
+      collapsed: true,
+      items: [
+        'how-to-use',
+        'assessment-framework',
+        'scope-and-sequence',
+        'glossary',
+        {
+          type: 'category',
+          label: 'Printable Resources',
+          collapsed: true,
+          items: [
+            'resources/local-civic-toolkit',
+          ],
+        },
       ],
     },
     'license',

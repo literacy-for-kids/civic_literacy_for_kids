@@ -239,3 +239,64 @@ Be ready to explain which layer of community affects you the most and why.
 - large paper or poster board
 - markers, crayons, or colored pencils
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Community** — A group of people who share a place, rules, or goals.
+- **Representative** — A person chosen to speak or make decisions for a larger group.
+- **Government** — The system of people and rules that manages a community, city, or country.
+- **Citizen** — A person who belongs to a community or country and has both rights and duties.
+- **Structure** — The way something is organized so it can work well.
+- **Scale** — How big or small something is, like the difference between a family and a whole country.
+:::
+
+:::tip Kid-Friendly Summary
+This week is all about understanding how communities grow — from your family all the way up to an entire country. You'll explore why a family can make decisions by talking at dinner, but a country with millions of people needs leaders, representatives, and written laws. The bigger the group, the more structure it needs to stay fair and organized.
+:::
+
+---
+
+## Check for Understanding
+- Why can't a country make decisions the same way a family does?
+- What is a representative, and why do bigger communities need them?
+- Can you name at least three layers of community you belong to and who makes the rules in each one?
+- In your own words, why does government exist?
+
+---
+
+## Core vs. Stretch
+
+**Core (All Learners):**
+- List at least four communities they belong to, from smallest to largest.
+- Explain who makes the rules in at least two of those communities.
+- Draw or describe the concentric circles showing their layers of community.
+
+**Stretch (Older or Advanced Learners):**
+- Compare how decisions are made in two communities of very different sizes and explain why the processes differ.
+- Research one local leader (like their mayor or school board member) and describe what that person does.
+- Write a short paragraph explaining why written laws became necessary as communities grew larger.
+
+---
+
+## Offline Option
+
+:::info
+This lesson works well without any screens. Draw the concentric circles on poster board or a large sheet of paper, and fill them in together with markers. Use verbal storytelling for the history of how communities grew, and discuss real-life examples of local leaders instead of looking them up online. A printed or hand-drawn map of your town can replace a digital one.
+:::
+
+---
+
+## Local Adaptation Note
+Ask your learner: "Who is the mayor of our town?" or "Do you know who is on our school board?" Connect the lesson to real people and places nearby. If you live in a small town, talk about how decisions happen in your community versus a big city. If you live in a large city, explore why your neighborhood might have its own council or representatives.
+
+---
+
+## Facilitator Notes
+
+:::caution
+- The concept of "scale" can feel abstract. Ground it in concrete comparisons: "Imagine trying to decide on pizza toppings with your family versus with your entire school." Physical analogies help it click.
+- Some kids may feel that government is far away and has nothing to do with them. The community layers activity is designed to close that gap — help them see that rules from every layer touch their daily life.
+- If a child asks about leaders who aren't fair or governments that don't work well, acknowledge it honestly. You can say: "That's a really important question. Part of understanding government is learning what to do when it isn't working the way it should."
+- Keep the storytelling section conversational. You don't need to be a history expert — the goal is to show that government grew gradually from the same kind of cooperation they practiced on their island in Week 2.
+:::

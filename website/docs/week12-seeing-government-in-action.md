@@ -258,3 +258,63 @@ Remember:
 - access to the internet to find your official's name and contact info
 - the letter format template from above
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Public meeting** — A government meeting that is open for any citizen to attend and observe, such as a city council or school board meeting.
+- **Public comment** — A time during a government meeting when regular citizens can stand up and share their opinions, usually for 2-3 minutes.
+- **Petition** — A written request signed by many people, asking the government to take action on an issue.
+- **Agenda** — A list of topics that will be discussed at a meeting. Government meeting agendas are usually published ahead of time so the public knows what's coming.
+- **Civic participation** — All the ways citizens take part in government and community life — voting, attending meetings, writing letters, volunteering, and more.
+- **Town hall** — A building where local government meets, or a type of open meeting where citizens can ask questions and share concerns directly with their leaders.
+:::
+
+---
+
+:::tip Kid-Friendly Summary
+Government isn't just something that happens far away — it happens right in your town, and you can be part of it! Citizens can attend meetings, speak up during public comment, write letters to leaders, and sign petitions. The people who show up are the people who get heard. You don't have to wait until you're old enough to vote to start participating.
+:::
+
+---
+
+## Check for Understanding
+1. Name at least three ways citizens can participate in government besides voting.
+2. Why do you think most government meetings are open to the public?
+3. What makes a good public comment? What should you include when speaking at a meeting?
+4. Why might writing a letter to an elected official be effective, even if you're a kid?
+
+---
+
+## Core vs. Stretch
+- **Core:** Identify multiple forms of civic participation, practice delivering a public comment, and watch or discuss a government meeting. Write a letter to an elected official (can be unsent).
+- **Stretch:** Actually send the letter (with a caregiver's help), find and read a real meeting agenda from your local government, or attend a public meeting in person or online.
+
+---
+
+## Offline Option
+
+:::info Offline Alternative
+If you cannot find or watch a recorded government meeting online, simulate one instead. The facilitator plays the role of the council chairperson, and the learner practices being a citizen giving public comment. Set up a table, create a simple agenda (3-4 topics), and walk through a mock meeting together. This hands-on practice is just as valuable — and sometimes more engaging — than watching a recording. The letter-writing activity in the independent session is already fully offline-friendly.
+:::
+
+---
+
+## Local Adaptation Note
+
+:::tip Make It Local
+This week is all about connecting to your actual local government, so take the time to make it real.
+
+- **"Where and when does your local governing body meet? Can you find the next meeting agenda?"**
+- If your city or town posts meeting recordings online, use a real one for the observation activity. If not, check if meetings are broadcast on a local cable channel.
+- Help the learner find the name and contact information for at least one real local official — that makes the letter-writing activity feel genuine rather than hypothetical.
+:::
+
+---
+
+:::caution Facilitator Notes
+- **If kids express frustration about government, validate their feelings.** It's okay to feel like government is slow, confusing, or unfair sometimes. Redirect the conversation toward civic tools — "What could a citizen *do* about that?" The focus should be on HOW to participate, not WHAT to advocate for.
+- **Keep the letter-writing activity nonpartisan.** The student should choose a topic they genuinely care about, but guide them toward specific, local issues (a park, a crosswalk, a school program) rather than divisive national debates.
+- **Public comment practice can feel awkward.** Normalize that! Speaking in front of a group is hard for adults too. Encourage the learner and praise the effort, not the polish.
+- **If the student wants to actually send the letter, help them.** Many elected officials respond to letters from young people, and getting a real reply can be a powerful civic experience.
+:::

@@ -253,3 +253,64 @@ Write clearly and persuasively. Imagine you are presenting this proposal to the 
 - access to the internet for research
 - the Sustainable Development Goals list (link above)
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **United Nations (UN)** — An international organization where nearly every country in the world is a member. It was created to promote peace, cooperation, and human rights.
+- **Climate change** — Long-term shifts in temperatures and weather patterns around the world, largely caused by burning fossil fuels. It's a global problem because emissions from any country affect the whole planet.
+- **Sustainable development** — Meeting the needs of people today without ruining things for future generations. The UN's Sustainable Development Goals are a plan for doing this.
+- **Border** — The official line between two countries. Some problems — like pollution, disease, and climate change — don't stop at borders.
+- **Cooperation** — Working together toward a shared goal. International cooperation means countries agreeing to act together on problems that affect everyone.
+- **Global** — Something that involves or affects the whole world, not just one country or region.
+:::
+
+---
+
+:::tip Kid-Friendly Summary
+Some problems are so big that no single country can fix them alone — things like pollution, disease, and climate change don't stop at borders. That's why countries work together through organizations like the United Nations. When countries cooperate, amazing things can happen — like healing the ozone layer and wiping out diseases. You can be part of the solution too, even as a kid!
+:::
+
+---
+
+## Check for Understanding
+1. Name two global challenges that cannot be solved by one country acting alone. Why not?
+2. What are the Sustainable Development Goals, and why did countries agree to them?
+3. What is the "free rider problem" in international cooperation? Why is it such a challenge?
+4. How can ordinary citizens — including kids — contribute to solving global problems?
+
+---
+
+## Core vs. Stretch
+- **Core:** Identify global challenges that cross borders, explain why international cooperation is necessary, and discuss the Sustainable Development Goals. Complete the Global Challenge Team activity.
+- **Stretch:** Write a full one-page proposal for a global solution (independent session), research a specific international agreement (like the Montreal Protocol), or connect a global issue to something happening in your own community.
+
+---
+
+## Offline Option
+
+:::info Offline Alternative
+If internet access is not available, the facilitator can verbally describe 3-4 of the UN Sustainable Development Goals (No Poverty, Clean Water, Climate Action, Quality Education) and have the learner discuss or write about them. Print the SDG list ahead of time if possible, or simply describe the goals in conversation. The Global Challenge Team activity and the free rider discussion are already fully hands-on and need no technology. For the independent session, the learner can write their global solution proposal on paper based on what they learned during the guided sessions.
+:::
+
+---
+
+## Local Adaptation Note
+
+:::tip Make It Local
+Global issues might feel far away, but they connect to your community in real ways.
+
+- **"Are there any global issues that affect your local area — weather, trade, pollution?"**
+- Climate change shows up locally as changing weather patterns, stronger storms, droughts, or flooding. Ask the learner if they've noticed any changes.
+- If your community relies on imports (food, fuel, manufactured goods), talk about how international trade affects local prices and availability.
+- Look for local organizations or school programs that work on global issues — recycling programs, food drives for international aid, or cultural exchange events.
+:::
+
+---
+
+:::caution Facilitator Notes
+- **Climate and global issues can feel overwhelming for kids.** Balance urgency with agency. Yes, these problems are serious — but people are working on solutions every day, and progress is real (the ozone layer, smallpox eradication, the International Space Station). Focus on what people CAN do.
+- **Avoid doom and gloom.** The goal is to build informed, empowered citizens — not anxious ones. If a learner seems worried, redirect toward action: "What's one thing you could do about that?"
+- **The free rider problem can frustrate kids who have a strong sense of fairness.** Use that energy! Ask them to brainstorm solutions — that's exactly what international negotiators do.
+- **This week wraps up Unit 4.** Take a moment to look back at the full arc: from local government (Weeks 10-12) to the global stage (Weeks 13-14). Help the learner see how the same cooperation principles scale from neighborhoods to the entire planet.
+:::

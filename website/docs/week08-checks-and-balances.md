@@ -18,7 +18,7 @@ The founders designed a system where each branch has the power to **check** (lim
 
 The big idea:
 
-**No branch of government can act alone. Each one has ways to stop the others from going too far. This is how the system protects the people.**
+**The three branches are designed to limit each other's power.** Each one has tools to check the others. This does not mean no branch can ever act independently — the President can issue executive orders, and courts make rulings on their own — but for major, lasting changes, the system usually requires more than one branch to agree.
 
 ---
 
@@ -260,3 +260,56 @@ Your explainer should be clear enough that someone who hasn't studied this could
 - notes from today's sessions
 - access to the internet for iCivics (optional)
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Checks and balances** — The system that lets each branch of government limit or stop the other branches from going too far.
+- **Veto** — When the President refuses to sign a bill, stopping it from becoming law.
+- **Override** — When Congress votes (with a two-thirds majority) to pass a law even after the President vetoes it.
+- **Judicial review** — The power of courts to decide whether a law follows the Constitution or not.
+- **Impeachment** — The process Congress uses to investigate and possibly remove a President or other official who has done something seriously wrong.
+- **Separation of powers** — The idea that government power should be divided among different branches so no one group has too much control.
+:::
+
+:::tip Kid-Friendly Summary
+Checks and balances are like a system of referees — each branch of government watches the others to make sure no one cheats or goes too far. If the President does something Congress disagrees with, Congress can push back. If Congress passes an unfair law, the courts can stop it. This way, no single branch gets to be the boss of everything.
+:::
+
+## Check for Understanding
+
+- What does "checks and balances" mean in your own words?
+- Give an example of one branch checking another. What would happen if that check didn't exist?
+- Why did the founders design the system so that no branch can act alone?
+- How can ordinary citizens act as a check on the government?
+
+## Core vs. Stretch
+
+**Core (All Learners):**
+- Explain what checks and balances are and why they exist.
+- Identify at least two specific examples of one branch checking another (e.g., veto, judicial review).
+- Describe how citizens can hold government accountable (voting, protesting, petitioning).
+
+**Stretch (Older or Advanced Learners):**
+- Draw a detailed diagram showing all the checks between the three branches, with arrows and labels for each one.
+- Research a real historical example where one branch checked another and explain what happened.
+- Write a short essay or create a presentation arguing which check you think is the most important and why.
+
+## Offline Option
+
+:::info
+Use the three-branch diagram from Week 6 as your starting point and add arrows showing each check. The scenario practice activity (identifying which check is being used) works entirely through discussion — no technology needed. For the independent session, drawing a checks-and-balances diagram or writing three short stories about checks in action both require only paper and markers. Skip the iCivics game if no internet is available and replace it with a role-play: assign each person a branch and act out a scenario where one branch tries to overstep and the others push back.
+:::
+
+## Local Adaptation Note
+
+- Ask: "Does your town or city have checks and balances? For example, can the mayor do anything they want, or does the city council have to approve it?"
+- Look up how your state government is organized — does it have three branches like the federal government?
+- Connect to school: "If the principal made a rule that seemed unfair, who could you talk to? That's like a check on power."
+
+:::caution Facilitator Notes
+- Kids may feel frustrated that the system seems slow — a bill can be vetoed, a law can be struck down, and everything takes multiple steps. Explain that this slowness is partly by design. The founders wanted to make it hard for any one group to rush through something unfair. Speed isn't always a good thing when it comes to making rules for millions of people.
+- Use the Broken Fence analogy to make the concept concrete. Abstract descriptions of government processes don't stick for this age group — stories and analogies do.
+- If students ask about real political situations, keep your answers focused on the process, not the people or parties involved. The goal is understanding how the system works, not debating current events.
+- Remind learners that citizens are part of the checks-and-balances system too. Voting, speaking up, and staying informed are all ways people keep the government accountable.
+:::

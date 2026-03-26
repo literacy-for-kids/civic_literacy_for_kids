@@ -237,3 +237,65 @@ This is a working document — you'll revise it in the coming weeks. Don't worry
 - notes from the Community Walk
 - access to the internet for research
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Community problem:** Something in your neighborhood or town that isn't working well and affects the people who live there.
+- **Civic issue:** A problem that involves how a community is run — things like roads, parks, safety, or public services.
+- **Stakeholder:** A person who is affected by a problem or who has a role in solving it. If a playground is broken, stakeholders include kids, parents, and the parks department.
+- **Public space:** A place that belongs to everyone in the community — like a park, library, sidewalk, or school.
+- **Observation:** Carefully looking at something and noticing the details. Good citizens observe their communities to spot what needs fixing.
+- **Evidence:** Facts, details, or examples that prove something is true. Saying "the sidewalk is cracked" is an observation; showing a photo of the crack is evidence.
+:::
+
+---
+
+:::tip Kid-Friendly Summary
+This week, you become a community detective! You take a walk through your neighborhood and look for things that could be better — like a broken sidewalk or a park that needs cleaning up. Then you pick one problem that you can actually help solve and start learning about who is in charge of fixing it.
+:::
+
+---
+
+## Check for Understanding
+- What makes a community problem "worth solving"? Why can't you pick any problem in the world?
+- Who are the stakeholders for the problem you chose? How does the problem affect them?
+- What is the difference between noticing a problem and doing something about it?
+- Why is it important to find out who is responsible for a problem before you try to fix it?
+
+---
+
+## Core vs. Stretch
+
+**Core:**
+- Complete the Community Walk and identify at least 3 problems
+- Apply the Feasibility Test to narrow your list
+- Write a clear problem statement for your chosen issue
+
+**Stretch:**
+- Research who in your local government is responsible for your chosen problem
+- Interview a neighbor or family member about the problem you noticed
+- Compare your community observations with a classmate's or sibling's list — did they notice different things?
+
+---
+
+## Offline Option
+
+:::info Offline Option
+The Community Walk is already a hands-on, offline activity — that's a strength of this week! If you don't have internet access for the research portion, use local newspaper clippings to learn about community issues, or try verbal interviews with neighbors, family members, or local shopkeepers. You can also visit your local library and ask a librarian to help you find information about your chosen problem.
+:::
+
+---
+
+## Local Adaptation Note
+
+> Walk your own neighborhood or town center. What problems do you notice?
+
+---
+
+:::caution Facilitator Notes
+- Help kids choose problems that are solvable and local, not global or abstract. "Fix climate change" is too big; "add a recycling bin at the park" is just right.
+- If a student picks an issue that is too large or politically charged, gently redirect them by asking: "Is there a smaller, more local version of that problem you could focus on?"
+- Some kids may struggle to notice problems at first. Give them the observation prompts from the Community Walk and model what it looks like to look at a familiar place with fresh eyes.
+- Younger learners (ages 8–9) may need you to walk with them and help them put their observations into words. That's perfectly fine — the goal is the process.
+:::

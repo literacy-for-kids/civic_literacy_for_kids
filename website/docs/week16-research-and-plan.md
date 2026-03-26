@@ -236,3 +236,65 @@ Remember: you're not writing the full proposal yet — that's next week. This se
 - Community Problem Statement from Week 15
 - notebook for additional notes
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Research:** The process of finding facts and information about a topic so you can understand it deeply before making a decision or proposal.
+- **Evidence:** Facts, numbers, quotes, or examples that support what you're saying. Evidence turns opinions into arguments.
+- **Proposal:** A written plan that describes a problem and suggests a specific solution. It's like saying, "Here's what's wrong and here's how I think we should fix it."
+- **Plan:** A step-by-step outline of what you want to do, how you'll do it, and what you'll need.
+- **Source:** Where your information comes from — a newspaper article, a website, a person you interviewed, or official data.
+- **Data:** Numbers, measurements, or facts that give you a clear picture of a problem. For example, "12 out of 20 students said the playground is unsafe" is data.
+:::
+
+---
+
+:::tip Kid-Friendly Summary
+This week, you dig into your community problem like a real researcher! You find facts, talk to people, and look at what other communities have done. Then you start planning a solution — thinking about what would actually work, what it might cost, and what someone might say against it.
+:::
+
+---
+
+## Check for Understanding
+- Why is it important to use facts and evidence in a proposal instead of just saying how you feel about a problem?
+- What makes a source reliable? How can you tell if information is trustworthy?
+- What is one objection someone might raise to your proposal, and how would you respond?
+- How did your understanding of the problem change after doing research?
+
+---
+
+## Core vs. Stretch
+
+**Core:**
+- Complete the Research Organizer with at least 4 answered questions
+- Identify 2-3 sources of information about your problem
+- Brainstorm at least 2 possible solutions and pick the strongest one
+
+**Stretch:**
+- Find an example of another community that solved a similar problem and summarize what they did
+- Interview someone who is affected by the problem or who works in a related area
+- Draft a rough cost estimate for your proposed solution
+
+---
+
+## Offline Option
+
+:::info Offline Option
+If you don't have internet access, you can still do great research! Visit your local library and ask a librarian for help finding information about your topic. Use phone calls to contact your city or town hall and ask questions about your issue. Look for printed materials like community newsletters, local newspaper archives, or flyers from town meetings. You can also interview people in person — neighbors, teachers, or local business owners often know a lot about community issues.
+:::
+
+---
+
+## Local Adaptation Note
+
+> Research your specific local government structure to find who handles your chosen issue.
+
+---
+
+:::caution Facilitator Notes
+- Research skills vary widely at this age. Some kids will jump right in; others will stare at a search bar and not know where to start. Model the process — show them how to type a search query, how to scan results, and how to pick a useful source.
+- Help them evaluate sources by asking simple questions: "Who wrote this? When? Does another source say the same thing?"
+- If a student can't find much information, help them brainstorm different search terms or suggest a different angle (for example, searching for the type of problem instead of the specific location).
+- Keep the energy up — research can feel tedious at this age. Celebrate each new fact they find and remind them that every piece of evidence makes their proposal stronger.
+:::

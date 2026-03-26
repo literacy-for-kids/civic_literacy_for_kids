@@ -255,3 +255,64 @@ Be ready to explain why the rights and responsibilities you chose are the most i
 - paper and writing/drawing supplies
 - notes from Guided Sessions as reference
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Social contract** — The unwritten deal between people and their government where both sides agree to do their part.
+- **Right** — Something you are allowed to do or have, like going to school or being safe.
+- **Responsibility** — Something you are expected to do in return, like following rules or being honest.
+- **Consent** — Agreeing to something by choice, not because you were forced.
+- **Freedom** — Being able to make your own choices without someone unfairly stopping you.
+- **Obligation** — Something you must do because it is part of an agreement or a duty.
+:::
+
+:::tip Kid-Friendly Summary
+This week is all about the big deal between people and their community — called the social contract. You get important things like safety, education, and fair treatment. In return, you agree to follow the rules, treat others with respect, and do your part. It's a two-way street: if either side stops holding up their end, the whole thing falls apart.
+:::
+
+---
+
+## Check for Understanding
+- In your own words, what is the social contract?
+- Can you give an example of one right you have and the responsibility that goes with it?
+- What happens when people take their rights but ignore their responsibilities?
+- Why is it important that both sides — the people and the government — keep their part of the deal?
+
+---
+
+## Core vs. Stretch
+
+**Core (All Learners):**
+- Match at least three rights to their corresponding responsibilities using the two-column chart.
+- Explain the social contract in their own words using a simple example from their life.
+- Create a personal social contract with at least three rights and three responsibilities.
+
+**Stretch (Older or Advanced Learners):**
+- Discuss what people can or should do when the government fails to protect their rights.
+- Compare two types of fairness (equal vs. equitable) and explain when each one applies using real examples.
+- Write a "Fairness Statement" for their school or family that defines what fairness means and how disagreements should be resolved.
+
+---
+
+## Offline Option
+
+:::info
+This lesson needs no technology at all. Draw the two-column Rights vs. Responsibilities chart on paper or a whiteboard. Run the Fairness Test scenarios as a verbal discussion or a thumbs-up/thumbs-down activity. For the independent session, the learner can write or draw their personal social contract on paper and sign it at the bottom — no printing or internet needed.
+:::
+
+---
+
+## Local Adaptation Note
+Ask your learner: "What rights do you have at school? What responsibilities come with them?" or "What does our town provide for us, and what do people do in return?" Use real local examples — like public libraries, parks, or crossing guards — to show the social contract in action right where you live.
+
+---
+
+## Facilitator Notes
+
+:::caution
+- The social contract can feel abstract for younger learners. Keep it concrete by anchoring every example to their daily life: "You get to go to school for free — that's a right. Showing up and trying your best — that's your responsibility."
+- Some kids may ask, "But I never agreed to this deal!" That's a great observation. Acknowledge that the social contract isn't something you literally sign, and use it as a chance to talk about consent and why communities revisit and update their agreements over time.
+- The fairness scenarios may spark strong opinions. Let kids disagree with each other or with you — the goal is to practice reasoning, not to arrive at one "correct" answer.
+- This is the wrap-up week for Unit 1. Take a few minutes at the end to celebrate what the learner has built: they can now explain why rules exist and why rights come with responsibilities. That's a big deal.
+:::

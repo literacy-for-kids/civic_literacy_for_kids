@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Civic Literacy Curriculum for Kids',
-  tagline: 'A curriculum to introduce young learners to civic knowledge, citizenship, and community engagement',
+  tagline: 'A structured, nonpartisan civic literacy curriculum for ages 8–12',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -105,6 +105,18 @@ const config = {
               {
                 label: 'Get Started',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Curriculum Overview',
+                to: '/docs/curriculum-overview',
+              },
+              {
+                label: 'How to Use This Curriculum',
+                to: '/docs/how-to-use',
+              },
+              {
+                label: 'Glossary',
+                to: '/docs/glossary',
               },
               {
                 label: 'License',

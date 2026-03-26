@@ -99,7 +99,7 @@ For each branch, give a simple example:
 - **Judicial:** If someone sues because the park is on their land, a court decides what's fair.
 
 :::info A Quick Look at Courts
-Courts handle two main types of cases: **civil cases** (disputes between people or organizations — like the park example above) and **criminal cases** (when someone is accused of breaking a law). In most trials, a group of ordinary citizens called a **jury** listens to both sides and decides the outcome. One of the most important rules in American courts is that everyone is **innocent until proven guilty** — the accuser has to prove their case. You'll learn much more about courts in the [Bonus Module: Understanding Courts](week-bonus-1-understanding-courts).
+Courts handle two main types of cases: **civil cases** (disputes between people or organizations — like the park example above) and **criminal cases** (when someone is accused of breaking a law). In most trials, a group of ordinary citizens called a **jury** listens to both sides and decides the outcome. One of the most important principles in American courts is that everyone is **presumed innocent until proven guilty** — the government must prove its case. This is the legal standard, though in practice, people without access to good legal representation sometimes face different outcomes. You'll learn much more about courts in the [Bonus Module: Understanding Courts](week-bonus-1-understanding-courts).
 :::
 
 ---
@@ -242,3 +242,56 @@ You can draw it, write it, or combine both. Make it clear enough that someone wh
 - markers, crayons, or colored pencils
 - notes from today's sessions
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Legislative branch** — The part of government that makes the laws (Congress).
+- **Executive branch** — The part of government that carries out the laws (led by the President).
+- **Judicial branch** — The part of government that interprets the laws and settles disagreements (the courts).
+- **Congress** — The group of elected people (Senators and Representatives) who write and vote on laws.
+- **President** — The leader of the executive branch who signs or vetoes laws and manages the government.
+- **Supreme Court** — The highest court in the country, where judges make final decisions about what the law means.
+:::
+
+:::tip Kid-Friendly Summary
+The U.S. government is split into three parts so no one person or group has all the power. One part makes the laws, one part carries them out, and one part decides if the laws are fair. It's like having three teammates who each have a different job — they have to work together, and no one can take over.
+:::
+
+## Check for Understanding
+
+- What are the three branches of government and what does each one do?
+- Why did the founders choose to split power into three branches instead of giving it all to one person?
+- Can you think of a real-world example where each branch does its job?
+- How is dividing government power similar to how jobs are divided at a school?
+
+## Core vs. Stretch
+
+**Core (All Learners):**
+- Name the three branches and describe each one's main job in your own words.
+- Explain why separating power is important using the school analogy or another example.
+- Create a simple poster or diagram that shows how the three branches are organized.
+
+**Stretch (Older or Advanced Learners):**
+- Research one branch in more detail and present three facts about it that weren't covered in the lesson.
+- Explain what could go wrong if two branches were combined into one. Give a specific example.
+- Find out who currently leads each branch (the President, the Speaker of the House, and the Chief Justice) and describe one thing each has done recently.
+
+## Offline Option
+
+:::info
+Draw the three-branch diagram on a whiteboard or large sheet of paper. Use the school analogy (school board = legislative, principal = executive, teacher/mediator = judicial) as your main teaching tool — it requires no technology. For the independent session, the Three Branches Poster can be created entirely with paper and markers. If you want an extra activity, have the learner act out a short skit where three people each play one branch and show how they do their jobs.
+:::
+
+## Local Adaptation Note
+
+- Ask: "Who is the mayor of our town or city? Which branch of government is that most like?"
+- Look up your local city council or town board — that's the legislative branch at the local level. How many members does it have?
+- Discuss: "Does your school have something like three branches? Who makes the rules, who enforces them, and who settles disagreements?"
+
+:::caution Facilitator Notes
+- Don't try to teach every detail of each branch. Kids don't need to know how many senators there are or how Supreme Court justices are confirmed — not yet. Focus on the core idea: power is divided so no one person or group can control everything.
+- Use the school analogy early and often. It is the most reliable way to make the concept click for this age group.
+- If students ask about specific people in government, keep answers brief and nonpartisan. The goal is understanding the structure, not the personalities.
+- Some kids may ask "which branch is the most powerful?" That's a great discussion question with no single right answer — lean into it.
+:::

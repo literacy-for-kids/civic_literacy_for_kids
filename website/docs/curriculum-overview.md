@@ -79,15 +79,15 @@ These mental models are scaffolded — earlier weeks introduce them simply, and 
 
 | Week | Title | Focus |
 |------|-------|-------|
-| 10 | [Your Town, Your Rules](week09-your-town-your-rules) | Mayors, city councils, school boards; taxes and budgets |
-| 11 | [Schools, Libraries, and Public Services](week10-schools-libraries-and-public-services) | Public services; how communities decide what to fund |
-| 12 | [Seeing Government in Action](week11-seeing-government-in-action) | Attending meetings, writing letters, speaking up |
+| 10 | [Your Town, Your Rules](week10-your-town-your-rules) | Mayors, city councils, school boards; taxes and budgets |
+| 11 | [Schools, Libraries, and Public Services](week11-schools-libraries-and-public-services) | Public services; how communities decide what to fund |
+| 12 | [Seeing Government in Action](week12-seeing-government-in-action) | Attending meetings, writing letters, speaking up |
 
 ### Unit 4: The Global Community (Weeks 13–14)
 
 | Week | Title | Focus |
 |------|-------|-------|
-| 13 | [Diplomacy and Trade](week12-why-countries-talk) | Why countries cooperate; treaties, trade, and supply chains |
+| 13 | [Diplomacy and Trade](week13-why-countries-talk) | Why countries cooperate; treaties, trade, and supply chains |
 | 14 | [Solving Problems Across Borders](week14-solving-problems-across-borders) | Global challenges; the UN Sustainable Development Goals |
 
 ### Unit 5: The Community Patch (Weeks 15–18)

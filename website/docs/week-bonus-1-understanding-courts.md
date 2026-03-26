@@ -279,3 +279,66 @@ Play the game on [iCivics](https://www.icivics.org/games/do-i-have-right). After
 - paper for the report or drawing
 - the courtroom role chart from today's session
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Court:** A place where legal disputes are settled and people accused of crimes have their cases heard. Courts are part of the judicial branch of government.
+- **Judge:** The person who runs the courtroom, makes sure the rules are followed, and sometimes decides the outcome of a case.
+- **Jury:** A group of ordinary citizens (usually 6-12 people) who listen to the evidence in a trial and decide whether someone is guilty or not guilty.
+- **Defendant:** The person who is accused of a crime or sued in a court case. The defendant has the right to defend themselves.
+- **Plaintiff:** In a civil case, the person who brings the complaint to court — the one who says "you wronged me."
+- **Verdict:** The jury's final decision — guilty or not guilty in a criminal case, or liable or not liable in a civil case.
+- **Rights of the accused:** The protections guaranteed by the Constitution to anyone accused of a crime, including the right to a lawyer, a fair trial, and the presumption of innocence.
+:::
+
+---
+
+:::tip Kid-Friendly Summary
+This week, you learn how courts work — who's who in a courtroom, what happens during a trial, and why everyone accused of a crime has important rights. Courts are where our society decides what's fair, and understanding them helps you understand justice.
+:::
+
+---
+
+## Check for Understanding
+- Why do we need courts? What would happen if there were no neutral place to settle disagreements?
+- What does "innocent until proven guilty" mean, and why is it important — even for people who might actually be guilty?
+- What is the difference between a civil case and a criminal case? Can you give an example of each?
+- Why do you think ordinary citizens (not just judges) serve on juries?
+
+---
+
+## Core vs. Stretch
+
+**Core:**
+- Learn the key courtroom roles (judge, jury, prosecutor, defense attorney, plaintiff, defendant)
+- Understand the difference between civil and criminal cases
+- Explain at least 3 rights of the accused from the Bill of Rights
+
+**Stretch:**
+- Research a real Supreme Court case and summarize what happened and why it matters
+- Draw and label a full courtroom diagram with all roles
+- Play the iCivics "Do I Have a Right?" game and write about what you learned
+
+---
+
+## Offline Option
+
+:::info Offline Option
+If you don't have internet access, use printed diagrams of a courtroom layout to learn the roles and setup. Discuss the court system and the rights of the accused verbally instead of watching videos — the conversation itself is a great way to learn! For the independent session, the "Design a Courtroom" option works perfectly with just paper and pencils. You can also act out courtroom roles together to bring the material to life before next week's mock trial.
+:::
+
+---
+
+## Local Adaptation Note
+
+> What courts exist in your area? Is there a local courthouse you could visit or learn about?
+
+---
+
+:::caution Facilitator Notes
+- Justice and courts can feel scary to kids, especially if their only exposure has been through dramatic TV shows or movies. Emphasize that the real system is designed to be fair and that everyone has rights — that's the whole point.
+- Some kids may have personal or family experience with the justice system. Be sensitive and avoid assumptions. If a student shares something personal, listen respectfully and focus on the protective aspects of the system (rights, fairness, due process).
+- Keep the tone hopeful and empowering: courts exist to protect people, not just to punish them.
+- If a student asks about cases where the system wasn't fair, acknowledge it honestly. You can say: "The system doesn't always work perfectly, and that's why citizens need to understand it — so they can help make it better."
+:::
