@@ -106,7 +106,7 @@ Explain the basic structure:
 - Hires the superintendent
 - Decides how education money is spent
 
-> "Notice something? **All of these people were either elected by voters or appointed by someone who was elected.** That means the people have a say."
+> "Notice something? **Some of these people were elected by voters. Others were appointed by elected officials.** Many more people who work in local government — like police officers, firefighters, and office staff — are hired employees, not elected or appointed. The elected leaders are supposed to oversee how government works, but the chain from voters to every government worker is not always direct."
 
 ---
 

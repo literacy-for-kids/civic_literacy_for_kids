@@ -18,7 +18,7 @@ The founders designed a system where each branch has the power to **check** (lim
 
 The big idea:
 
-**No branch of government can act alone. Each one has ways to stop the others from going too far. This is how the system protects the people.**
+**The three branches are designed to limit each other's power.** Each one has tools to check the others. This does not mean no branch can ever act independently — the President can issue executive orders, and courts make rulings on their own — but for major, lasting changes, the system usually requires more than one branch to agree.
 
 ---
 

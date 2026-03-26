@@ -99,7 +99,7 @@ For each branch, give a simple example:
 - **Judicial:** If someone sues because the park is on their land, a court decides what's fair.
 
 :::info A Quick Look at Courts
-Courts handle two main types of cases: **civil cases** (disputes between people or organizations — like the park example above) and **criminal cases** (when someone is accused of breaking a law). In most trials, a group of ordinary citizens called a **jury** listens to both sides and decides the outcome. One of the most important rules in American courts is that everyone is **innocent until proven guilty** — the accuser has to prove their case. You'll learn much more about courts in the [Bonus Module: Understanding Courts](week-bonus-1-understanding-courts).
+Courts handle two main types of cases: **civil cases** (disputes between people or organizations — like the park example above) and **criminal cases** (when someone is accused of breaking a law). In most trials, a group of ordinary citizens called a **jury** listens to both sides and decides the outcome. One of the most important principles in American courts is that everyone is **presumed innocent until proven guilty** — the government must prove its case. This is the legal standard, though in practice, people without access to good legal representation sometimes face different outcomes. You'll learn much more about courts in the [Bonus Module: Understanding Courts](week-bonus-1-understanding-courts).
 :::
 
 ---

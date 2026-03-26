@@ -146,7 +146,7 @@ Debrief:
 
 > "What if someone who didn't vote disagrees with the result? Does the election still count?"
 
-Key insight: **Elections work because everyone agrees to follow the rules — even if their candidate loses.** This is called the **peaceful transfer of power**, and it's one of the most important features of a democracy.
+Key insight: Elections depend on a powerful custom: **accepting the results — even if your candidate loses.** This is called the **peaceful transfer of power**, and it is one of the most important features of a democracy. This is not enforced by a single law — it is a norm that democracies must actively protect. When people stop honoring this norm, the system is in danger.
 
 ---
 
@@ -178,7 +178,7 @@ Start with a shocking fact:
 
 Let the student guess. Then reveal:
 
-> "Only **white men who owned property**. That's it. No women. No men without property. No Black Americans. No Native Americans. No one under 21."
+> "In most states, only **white men who owned property** could vote. The rules varied from state to state — in a few northern states, free Black men who owned property could also vote. But no women could vote anywhere, and Native Americans were almost entirely excluded. 'We the People' clearly did not include everyone."
 
 Make it concrete:
 
@@ -200,13 +200,13 @@ Walk through the major milestones. For each one, ask: *"Who was left out before 
 |------|-------------|-----|
 | **1870** | Black men gained the right to vote | **15th Amendment** — "The right to vote shall not be denied on account of race" |
 | **1920** | Women gained the right to vote | **19th Amendment** — after decades of marches, protests, and organizing by suffragists |
-| **1924** | Native Americans gained citizenship (and the right to vote) | **Indian Citizenship Act** — though many states still blocked them from voting for years |
+| **1924** | Native Americans granted U.S. citizenship | **Indian Citizenship Act** — but many states still denied Native Americans the right to vote for decades afterward |
 | **1964–1965** | Real enforcement of voting rights for Black Americans | **24th Amendment** (banned poll taxes) and **Voting Rights Act of 1965** (banned literacy tests and other barriers) |
 | **1971** | 18-year-olds gained the right to vote | **26th Amendment** — during the Vietnam War, people argued: "If you're old enough to fight, you're old enough to vote" |
 
 After the timeline, draw or describe the expanding circle:
 
-> "Imagine a circle. In 1789, it was tiny — just a few people. Over almost 200 years, that circle kept expanding until it included nearly every adult citizen. Every expansion happened because people fought for it."
+> "Imagine a circle. In 1789, it was tiny — just a few people. Over almost 200 years, that circle kept expanding. Today, **most adult U.S. citizens** have the right to vote — but access is not perfectly equal everywhere, and some groups still face barriers. Every expansion happened because people organized and fought for it, and that work is ongoing."
 
 Ask:
 
