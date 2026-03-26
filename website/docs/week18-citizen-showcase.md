@@ -252,3 +252,65 @@ Seal the letter in an envelope. Write your name and today's date on the outside.
 - an envelope
 - a quiet space for reflection
 - no timer needed — take your time
+
+---
+
+:::info Key Vocabulary
+- **Showcase:** A special event where you share your work with others. The Citizen Showcase is your chance to present what you've built and learned.
+- **Reflection:** Thinking carefully about what you've done, what you've learned, and how you've grown. Reflection is how learning sticks.
+- **Civic action:** Doing something to make your community better — like voting, volunteering, speaking up at a meeting, or writing a proposal.
+- **Community:** The group of people who live, work, and share a place together. Your community includes your neighbors, classmates, local businesses, and local government.
+- **Impact:** The difference something makes. When you ask "What impact did my project have?" you're asking "Did it change anything for the better?"
+- **Citizen:** A member of a community or country who has both rights and responsibilities. You don't have to be a grown-up to be an active citizen.
+:::
+
+---
+
+:::tip Kid-Friendly Summary
+This is the big finish! You present your Community Patch proposal to a real audience, answer their questions, and then look back at everything you've learned over the whole course. You also write a letter to your future self about what being a citizen means to you. Congratulations — you did it!
+:::
+
+---
+
+## Check for Understanding
+- Looking back at the whole course, what is the most important thing you learned about how communities work?
+- How has your idea of what it means to be a "citizen" changed since Week 1?
+- What civic skill that you practiced in this course do you think you'll use the most in your everyday life?
+- If you could give one piece of advice to a younger kid just starting this course, what would you say?
+
+---
+
+## Core vs. Stretch
+
+**Core:**
+- Deliver your Community Patch presentation to at least one person
+- Complete the Journey Map reflection activity
+- Write your letter to your future self
+
+**Stretch:**
+- Actually send your proposal to the responsible person or office in your community
+- Create a "civic toolkit" — a short list of things any kid can do to participate in their community
+- Present your proposal to a second audience or record a video version to share
+
+---
+
+## Offline Option
+
+:::info Offline Option
+The Citizen Showcase is already an in-person, offline activity — and that's what makes it powerful! If any part of your proposal or presentation was created digitally, you can easily adapt it: create a hand-drawn poster, write out your proposal neatly by hand, or use printed materials. The letter to your future self is designed to be handwritten. Everything about this week works beautifully without a screen.
+:::
+
+---
+
+## Local Adaptation Note
+
+> Consider inviting a local official, librarian, or community member to listen to the showcase.
+
+---
+
+:::caution Facilitator Notes
+- This week is a celebration, not a test. Create a warm, supportive atmosphere. Clap after every presentation. Treat this like a graduation.
+- Some kids may feel their project isn't "good enough" — especially if they compare themselves to others. Validate all effort and thinking. The process matters more than the polish.
+- If a student is too nervous to present, offer alternatives: they can read from their paper, have you read it for them, or present to just one trusted person. The goal is participation, not performance.
+- Consider making the showcase feel special — set up chairs, make a simple program, or give out "Citizen Certificates." Small touches make a big difference in how kids remember the experience.
+:::

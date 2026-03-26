@@ -272,3 +272,66 @@ Write down 5 observations about what you saw: What was familiar from your mock t
 - notes from the mock trial
 - access to internet for Option 3 (optional)
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Mock trial:** A pretend court case that uses real courtroom rules and roles so you can practice how the justice system works.
+- **Prosecution:** The side that argues the defendant is guilty. In a real criminal case, the prosecution represents the government.
+- **Defense:** The side that argues the defendant is not guilty. Everyone accused of a crime has the right to a defense.
+- **Witness:** A person who tells the court what they saw, heard, or know about the case. Witnesses answer questions from both lawyers.
+- **Testimony:** The spoken statement a witness gives in court, under oath, about what they know.
+- **Objection:** When a lawyer says a question or statement is unfair or breaks the rules. The judge decides whether to allow it or block it.
+- **Deliberation:** When the jury discusses the case in private to decide on a verdict. During deliberation, jurors weigh all the evidence they heard.
+:::
+
+---
+
+:::tip Kid-Friendly Summary
+This week, you run your own courtroom! You take on roles like judge, lawyer, witness, and jury, and you try a case together. You'll learn how hard it is to be fair, how important evidence is, and why the rules of a trial exist. It's like a play — but the ending isn't written yet.
+:::
+
+---
+
+## Check for Understanding
+- What does "beyond a reasonable doubt" mean? Why is the standard for finding someone guilty so high?
+- During the mock trial, what was the strongest piece of evidence for each side?
+- Was it harder to argue for the prosecution or the defense? Why?
+- What did the mock trial teach you about fairness that you couldn't learn just by reading about it?
+
+---
+
+## Core vs. Stretch
+
+**Core:**
+- Participate in the mock trial in at least one role
+- Prepare an opening or closing statement
+- Discuss the verdict and explain whether you think it was fair
+
+**Stretch:**
+- Write your own mock trial case with facts, witnesses, and evidence for both sides
+- Write a reflection essay about your experience and what you learned about justice
+- Watch a clip of a real court proceeding (such as Supreme Court oral arguments on C-SPAN) and compare it to your mock trial
+
+---
+
+## Offline Option
+
+:::info Offline Option
+The mock trial is entirely offline by design — and that's one of its greatest strengths! Everything you need is people, paper, and conversation. Prepare role cards and case summaries by hand. Set up your courtroom with whatever furniture you have. The power of this activity comes from speaking, listening, thinking, and deciding together — no screens required.
+:::
+
+---
+
+## Local Adaptation Note
+
+> Base the mock trial on a scenario that could happen in your community.
+
+---
+
+:::caution Facilitator Notes
+- During the mock trial, some kids may get very competitive — especially if they're playing the lawyers. Remind them regularly that the goal is understanding justice, not "winning." Both sides are essential to a fair trial.
+- If you have fewer participants, double up roles creatively. Even a two-person mock trial (one argues each side, then both discuss the verdict) is valuable.
+- After the verdict, spend real time on the debrief. The learning happens in the discussion, not just the performance. Ask: "Was the process fair? Did both sides get a real chance to be heard?"
+- If a student is upset by the verdict, use it as a teaching moment: "That feeling — that frustration when you think the outcome is wrong — is exactly why the justice system has appeals. You can always ask a higher court to review."
+:::

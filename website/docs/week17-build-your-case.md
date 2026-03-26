@@ -272,3 +272,65 @@ If everything is checked, you're ready.
 - materials for any visual aids
 - timer for practice
 - visual timer
+
+---
+
+:::info Key Vocabulary
+- **Proposal:** A formal plan that explains a problem and asks someone to take action to fix it. Your Community Patch proposal is a real civic document.
+- **Argument:** A set of reasons, supported by evidence, that explains why someone should agree with you. A strong argument uses facts, not just feelings.
+- **Evidence:** The facts, data, and examples that back up your argument. Without evidence, an argument is just an opinion.
+- **Presentation:** Sharing your ideas with an audience by speaking clearly, staying organized, and connecting with your listeners.
+- **Persuasion:** The skill of convincing someone that your idea is worth supporting. Persuasion works best when it's honest, clear, and backed by evidence.
+- **Audience:** The person or group you're speaking to. A good presenter thinks about what the audience needs to hear to be convinced.
+:::
+
+---
+
+:::tip Kid-Friendly Summary
+This week, you put everything together! You write your full proposal — explaining the problem, sharing your evidence, and describing your solution. Then you practice presenting it out loud so you're ready to share it with a real audience next week. Think of yourself as a lawyer making your best case!
+:::
+
+---
+
+## Check for Understanding
+- Why is it important to address objections in your proposal instead of ignoring them?
+- What is the difference between reading your proposal out loud and giving a presentation?
+- Which piece of evidence in your proposal do you think is the strongest? Why?
+- If you could add one more thing to make your proposal more convincing, what would it be?
+
+---
+
+## Core vs. Stretch
+
+**Core:**
+- Write a complete proposal following the template (all 7 sections)
+- Practice delivering your presentation at least once with a timer
+- Prepare bullet points or index cards for your spoken presentation
+
+**Stretch:**
+- Create a visual aid (poster, chart, or diagram) to support your presentation
+- Practice answering Q&A questions with a family member or friend
+- Revise your proposal after getting feedback from someone who hasn't seen it before
+
+---
+
+## Offline Option
+
+:::info Offline Option
+Writing your proposal and practicing your presentation are naturally offline activities — pen, paper, and your own voice are all you need! If the proposal template was originally digital, simply write it out by hand or use a printed copy. For visual aids, hand-drawn posters, charts, or diagrams work just as well (and often better) than digital slides. Use index cards for your speaking notes instead of a screen.
+:::
+
+---
+
+## Local Adaptation Note
+
+> Identify a real local person or office you could present your proposal to.
+
+---
+
+:::caution Facilitator Notes
+- Public speaking is stressful for some kids — and that's completely normal. Emphasize that the goal is communication, not perfection. If a student freezes or stumbles, that's part of learning.
+- Allow written or drawn alternatives for students who truly struggle with speaking. A well-written proposal or an illustrated poster is still civic participation.
+- During the practice run, focus your feedback on clarity and content, not on style or polish. Ask questions like "What did you mean by that part?" rather than "Stand up straighter."
+- Remind students that real civic advocates aren't perfect speakers — they're people who care enough to show up and try. That's what matters.
+:::
