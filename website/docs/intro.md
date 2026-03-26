@@ -108,4 +108,10 @@ The goal is to produce informed, engaged citizens — not to tell them what to b
 
 **Want the big picture first?** Read the [Curriculum Overview](curriculum-overview).
 
+**New to the curriculum?** See [How to Use This Curriculum](how-to-use) for a quick-start guide.
+
+**Looking for vocabulary help?** Check the [Glossary](glossary).
+
+**Want to track progress?** See the [Assessment Framework](assessment-framework).
+
 **Have feedback?** [Open an issue on GitHub](https://github.com/zcohen-nerd/civic_literacy_for_kids/issues).

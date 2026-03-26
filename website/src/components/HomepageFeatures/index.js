@@ -28,17 +28,17 @@ export default function HomepageFeatures() {
             />
             <FeatureCard
               title="How Government Works"
-              description="Weeks 5–8 cover the Constitution, three branches, how laws are made, and why checks and balances protect citizens."
+              description="Weeks 5–9 cover the Constitution, three branches, how laws are made, checks and balances, and elections."
             />
             <FeatureCard
               title="Your Local Government"
-              description="Weeks 9–11 bring it home — mayors, city councils, public services, budgets, and how to participate in local decisions."
+              description="Weeks 10–12 bring it home — mayors, city councils, public services, budgets, and how to participate in local decisions."
             />
           </div>
           <div className={styles.cardGrid}>
             <FeatureCard
               title="The Global Community"
-              description="Weeks 12–14 explore diplomacy, trade, treaties, and the global challenges that require countries to work together."
+              description="Weeks 13–14 explore diplomacy, trade, treaties, and the global challenges that require countries to work together."
             />
             <FeatureCard
               title="The Community Patch"

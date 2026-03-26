@@ -15,7 +15,7 @@ function HomepageHeader() {
           <p className={styles.kicker}>Free and open educational curriculum</p>
           <h1 className="hero__title">Civic Literacy for Kids</h1>
           <p className="hero__subtitle">
-            A free, open curriculum that teaches kids how communities and government actually work.
+            A structured, nonpartisan curriculum for ages 8–12 that teaches kids how communities and government actually work.
           </p>
           <p className={styles.heroLead}>
             Many children grow up in communities without understanding how decisions
@@ -52,7 +52,7 @@ export default function Home() {
   return (
     <Layout
       title="Welcome"
-      description="A curriculum website for teaching kids about civic knowledge, citizenship, and community engagement.">
+      description="A structured, nonpartisan civic literacy curriculum for ages 8–12 — teaching kids how communities organize, governments work, and citizens participate.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
