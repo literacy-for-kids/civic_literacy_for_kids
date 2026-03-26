@@ -47,9 +47,9 @@ Every lesson connects back to five ideas that build on each other throughout the
 | Unit | Weeks | Theme |
 |------|-------|-------|
 | **The Logic of Cooperation** | 1–4 | Why humans need rules, agreements, and systems |
-| **The Architecture of Government** | 5–8 | How the U.S. government is structured |
-| **Your Local Government** | 9–11 | Mayors, city councils, public services, and participation |
-| **The Global Community** | 12–14 | Trade, diplomacy, and international cooperation |
+| **The Architecture of Government** | 5–9 | How the U.S. government is structured and how leaders are chosen |
+| **Your Local Government** | 10–12 | Mayors, city councils, public services, and participation |
+| **The Global Community** | 13–14 | Trade, diplomacy, and international cooperation |
 | **The Community Patch** | 15–18 | Final project: identify a real problem and propose a solution |
 | **Bonus: The Justice System** | B1–B2 | Courts, trials, and the right to fairness |
 

@@ -33,9 +33,9 @@ const sidebars = {
       label: 'Unit 3: Your Local Government',
       collapsed: false,
       items: [
-        'week09-your-town-your-rules',
-        'week10-schools-libraries-and-public-services',
-        'week11-seeing-government-in-action',
+        'week10-your-town-your-rules',
+        'week11-schools-libraries-and-public-services',
+        'week12-seeing-government-in-action',
       ],
     },
     {
@@ -43,7 +43,7 @@ const sidebars = {
       label: 'Unit 4: The Global Community',
       collapsed: false,
       items: [
-        'week12-why-countries-talk',
+        'week13-why-countries-talk',
         'week14-solving-problems-across-borders',
       ],
     },
