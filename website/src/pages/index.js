@@ -32,7 +32,7 @@ function HomepageHeader() {
             </Link>
             <Link
               className="button button--outline button--lg"
-              to="https://github.com/zcohen-nerd/civic_literacy_for_kids">
+              to="https://github.com/literacy-for-kids/civic_literacy_for_kids">
               View on GitHub
             </Link>
           </div>
@@ -56,8 +56,8 @@ export default function Home() {
       description="A structured, nonpartisan civic literacy curriculum for ages 8–12 — teaching kids how communities organize, governments work, and citizens participate.">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
         <EcosystemLinks />
+        <HomepageFeatures />
       </main>
     </Layout>
   );

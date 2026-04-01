@@ -175,7 +175,7 @@ This curriculum references only free, publicly available resources:
 
 ## Pedagogical Approach
 
-This curriculum follows a similar pedagogical approach to its companion program, [Computer Literacy for Kids](https://github.com/zcohen-nerd/computer_literacy_for_kids):
+This curriculum follows a similar pedagogical approach to its companion program, [Computer Literacy for Kids](https://github.com/literacy-for-kids/computer_literacy_for_kids):
 
 - **Curiosity-driven:** Start with questions, not answers
 - **Constructivist:** Students build understanding through experience, not memorization

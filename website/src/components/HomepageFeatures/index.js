@@ -102,7 +102,7 @@ export default function HomepageFeatures() {
           </div>
           <p className={styles.feedbackPrompt}>
             Found a mistake or have a suggestion?{' '}
-            <Link to="https://github.com/zcohen-nerd/civic_literacy_for_kids/issues">
+            <Link to="https://github.com/literacy-for-kids/civic_literacy_for_kids/issues">
               Open an issue on GitHub.
             </Link>
           </p>

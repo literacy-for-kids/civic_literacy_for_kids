@@ -114,4 +114,4 @@ The goal is to produce informed, engaged citizens — not to tell them what to b
 
 **Want to track progress?** See the [Assessment Framework](assessment-framework).
 
-**Have feedback?** [Open an issue on GitHub](https://github.com/zcohen-nerd/civic_literacy_for_kids/issues).
+**Have feedback?** [Open an issue on GitHub](https://github.com/literacy-for-kids/civic_literacy_for_kids/issues).

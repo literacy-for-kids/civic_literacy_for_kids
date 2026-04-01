@@ -33,7 +33,7 @@ Each week uses three sessions (two teacher-led, one student-led) and can be adap
 
 ### Live Site
 
-Visit the curriculum: **[Civic Literacy for Kids](https://zcohen-nerd.github.io/civic_literacy_for_kids/)**
+Visit the curriculum: **[Civic Literacy for Kids](https://literacy-for-kids.github.io/civic_literacy_for_kids/)**
 
 ---
 
