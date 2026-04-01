@@ -5,6 +5,11 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
+import {createRequire} from 'module';
+
+const require = createRequire(import.meta.url);
+const navbarItems = require('literacy-site-theme/navbarItems');
+const footerConfig = require('literacy-site-theme/footerConfig');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -35,6 +40,44 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  themes: ['literacy-site-theme'],
+
+  plugins: [
+    function includeLiteracyThemeBabel() {
+      const path = require('path');
+      const themeSrc = path.resolve(
+        path.dirname(require.resolve('literacy-site-theme/package.json')),
+        'src',
+      );
+      return {
+        name: 'include-literacy-theme-babel',
+        configureWebpack(config) {
+          const jsRule = config.module.rules.find(
+            (rule) => rule.test instanceof RegExp && rule.test.test('.jsx'),
+          );
+          if (jsRule && typeof jsRule.exclude === 'function') {
+            const origExclude = jsRule.exclude;
+            jsRule.exclude = (modulePath) => {
+              if (modulePath.includes('literacy-site-theme')) return false;
+              return origExclude(modulePath);
+            };
+          }
+          return {
+            module: {
+              rules: [
+                {
+                  test: /\.[jt]sx?$/,
+                  include: [themeSrc],
+                  type: 'javascript/auto',
+                },
+              ],
+            },
+          };
+        },
+      };
+    },
+  ],
 
   presets: [
     [
@@ -89,6 +132,7 @@ const config = {
             label: 'Curriculum',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          ...navbarItems,
           {
             href: 'https://github.com/zcohen-nerd/civic_literacy_for_kids',
             label: 'GitHub',
@@ -96,76 +140,7 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Curriculum',
-            items: [
-              {
-                label: 'Get Started',
-                to: '/docs/intro',
-              },
-              {
-                label: 'Curriculum Overview',
-                to: '/docs/curriculum-overview',
-              },
-              {
-                label: 'How to Use This Curriculum',
-                to: '/docs/how-to-use',
-              },
-              {
-                label: 'Glossary',
-                to: '/docs/glossary',
-              },
-              {
-                label: 'License',
-                to: '/docs/license',
-              },
-            ],
-          },
-          {
-            title: 'License',
-            items: [
-              {
-                label: 'CC BY-NC-SA 4.0',
-                href: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
-              },
-              {
-                label: 'License Summary',
-                to: '/docs/license',
-              },
-              {
-                label: 'Source Repository',
-                href: 'https://github.com/zcohen-nerd/civic_literacy_for_kids',
-              },
-            ],
-          },
-          {
-            title: 'Literacy for Kids',
-            items: [
-              {
-                label: 'Project Hub',
-                href: 'https://zcohen-nerd.github.io/literacy_for_kids/',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'GitHub Discussions',
-                href: 'https://github.com/zcohen-nerd/civic_literacy_for_kids/discussions',
-              },
-              {
-                label: 'Issues',
-                href: 'https://github.com/zcohen-nerd/civic_literacy_for_kids/issues',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Zachary Cohen. Curriculum content is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. See the <a href="/civic_literacy_for_kids/docs/license">license page</a> for attribution, sharing, and adaptation details.`,
-      },
+      footer: footerConfig,
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,

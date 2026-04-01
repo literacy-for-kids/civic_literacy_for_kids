@@ -2,47 +2,10 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Layout from '@theme/Layout';
+import EcosystemLinks from '@theme/EcosystemLinks';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
-
-const literacyLinks = [
-  {
-    label: 'Decision Literacy',
-    emoji: '🧠',
-    description:
-      'How to think clearly, evaluate choices, and understand consequences.',
-    href: 'https://zcohen-nerd.github.io/decision_literacy_for_kids/',
-  },
-  {
-    label: 'Computer Literacy',
-    emoji: '💻',
-    description:
-      'How computers work and how to use them responsibly.',
-    href: 'https://zcohen-nerd.github.io/computer_literacy_for_kids/',
-  },
-  {
-    label: 'Media Literacy',
-    emoji: '📰',
-    description:
-      'How to evaluate information and recognize bias.',
-    href: 'https://zcohen-nerd.github.io/media_literacy_for_kids/',
-  },
-  {
-    label: 'Financial Literacy',
-    emoji: '💰',
-    description:
-      'How money works and how to make responsible financial decisions.',
-    href: 'https://zcohen-nerd.github.io/financial_literacy_for_kids/',
-  },
-  {
-    label: 'Civic Literacy',
-    emoji: '🏛',
-    description:
-      'How societies organize themselves and how citizens shape their communities.',
-    href: 'https://zcohen-nerd.github.io/civic_literacy_for_kids/',
-  },
-];
 
 function HomepageHeader() {
   const heroImageUrl = useBaseUrl('/img/hero-image.png');
@@ -86,50 +49,6 @@ function HomepageHeader() {
   );
 }
 
-function LiteracyProjectSection() {
-  return (
-    <section className={styles.projectSection}>
-      <div className="container">
-        <div className={styles.projectSectionHeader}>
-          <h2>Part of the Literacy for Kids Project</h2>
-          <p>
-            This curriculum is part of Literacy for Kids, a collection of
-            open-source curricula designed to help children ages 8–12 understand
-            the systems that shape the modern world.
-          </p>
-          <p>
-            Each curriculum focuses on a different foundational life skill.
-          </p>
-          <p>
-            You can explore the full curriculum collection here:{' '}
-            <Link href="https://zcohen-nerd.github.io/literacy_for_kids/">
-              Literacy for Kids Hub
-            </Link>
-          </p>
-        </div>
-        <div className={styles.projectSectionHeader}>
-          <h3>Explore the Other Literacies</h3>
-        </div>
-        <div className={styles.literacyGrid}>
-          {literacyLinks.map((literacy) => (
-            <Link
-              key={literacy.label}
-              className={styles.literacyCard}
-              href={literacy.href}>
-              <span className={styles.literacyLabel}>
-                <span aria-hidden="true">{literacy.emoji}</span> {literacy.label}
-              </span>
-              <span className={styles.literacyDescription}>
-                {literacy.description}
-              </span>
-            </Link>
-          ))}
-        </div>
-      </div>
-    </section>
-  );
-}
-
 export default function Home() {
   return (
     <Layout
@@ -138,7 +57,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
-        <LiteracyProjectSection />
+        <EcosystemLinks />
       </main>
     </Layout>
   );
