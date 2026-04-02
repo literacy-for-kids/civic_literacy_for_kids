@@ -138,11 +138,11 @@ Walk through the course together. Give the student only the unit names and ask t
 
 | Unit | Weeks | Can You Recall the Big Idea? |
 |------|-------|------------------------------|
-| **The Logic of Cooperation** | 1-4 | *(Let the student try first)* |
-| **The Architecture of Government** | 5-8 | *(Let the student try first)* |
-| **Your Local Government** | 9-11 | *(Let the student try first)* |
-| **The Global Community** | 12-14 | *(Let the student try first)* |
-| **The Community Patch** | 15-18 | *(Let the student try first)* |
+| **The Logic of Cooperation** | 1–4 | *(Let the student try first)* |
+| **The Architecture of Government** | 5–9 | *(Let the student try first)* |
+| **Your Local Government** | 10–12 | *(Let the student try first)* |
+| **The Global Community** | 13–14 | *(Let the student try first)* |
+| **The Community Patch** | 15–18 | *(Let the student try first)* |
 
 After each attempt, fill in together:
 
@@ -294,9 +294,53 @@ This is the big finish! You present your Community Patch proposal to a real audi
 
 ---
 
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- The presentation can be 2–3 minutes. Reading from their written proposal is fine — the act of presenting matters more than the style.
+- For the Journey Map, focus on just 2–3 units rather than all five. Ask: "What was your favorite week? What do you remember best?"
+- The letter to their future self can be shorter — even a few sentences with a drawing is meaningful.
+- Celebrate enthusiastically! At this age, the experience of completing a big project is the most important takeaway.
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Aim for the full 5-minute presentation with Q&A. Encourage them to present to at least 2–3 people.
+- For the Journey Map, challenge them to recall the big idea of all five units from memory before revealing the answers.
+- In the letter to their future self, push for specificity: "What exactly did you learn? What do you want to remember in a year?"
+- Strongly encourage actually sending the proposal to the responsible official. Help them find the contact information and draft a brief cover email or letter.
+:::
+
+---
+
+## Continuing Your Civic Journey
+
+:::info Beyond This Course
+The curriculum is over, but your civic life is just beginning. Here are ways to keep the skills you've built alive:
+
+**This Month:**
+- Find out when the next local government meeting is and put it on the calendar.
+- Pick one local news source and follow it — even checking once a week keeps you informed.
+- If you haven't sent your Community Patch proposal, consider doing it now.
+
+**This Year:**
+- Attend at least one public meeting (city council, school board, or town hall). You don't have to speak — just observe.
+- When an issue comes up that affects your community, practice the Civic Inquiry routine: *What is the claim? What is the evidence? Where did it come from? Can I check it?*
+- Write one more letter to an elected official about something you care about.
+
+**Ongoing Habits of an Active Citizen:**
+- **Notice.** Look at your community with a citizen's eye — the same way you did during the Community Walk.
+- **Ask questions.** When you hear a claim about government, ask: "Is that what the system actually allows, or is that what someone wants it to allow?"
+- **Show up.** The people who participate are the people who get heard. That's been true since Week 1.
+- **Keep learning.** The five mental models you've built — Rules Exist for Reasons, Rights Come with Responsibilities, Power Flows from the People, Shared Power Prevents Abuse, and Participation Keeps Communities Healthy — will keep working for you in every civic moment you encounter.
+
+You are not a bystander. You are a citizen. **Keep going.**
+:::
+
+---
+
 ## Offline Option
 
-:::info Offline Option
+:::info Offline Alternative
 The Citizen Showcase is already an in-person, offline activity — and that's what makes it powerful! If any part of your proposal or presentation was created digitally, you can easily adapt it: create a hand-drawn poster, write out your proposal neatly by hand, or use printed materials. The letter to your future self is designed to be handwritten. Everything about this week works beautifully without a screen.
 :::
 

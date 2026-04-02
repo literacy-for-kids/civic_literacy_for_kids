@@ -267,21 +267,37 @@ This week is all about understanding how communities grow — from your family a
 
 ## Core vs. Stretch
 
-**Core (All Learners):**
+**Core:**
 - List at least four communities they belong to, from smallest to largest.
 - Explain who makes the rules in at least two of those communities.
 - Draw or describe the concentric circles showing their layers of community.
 
-**Stretch (Older or Advanced Learners):**
+**Stretch:**
 - Compare how decisions are made in two communities of very different sizes and explain why the processes differ.
 - Research one local leader (like their mayor or school board member) and describe what that person does.
 - Write a short paragraph explaining why written laws became necessary as communities grew larger.
 
 ---
 
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- Keep the concentric circles to four layers (family, school, town, country) instead of six.
+- Use the drawing activity as the main output — coloring and labeling the layers is enough.
+- For "In Your Own Words," accept a single sentence: *"Government exists because…"*
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Add a sixth layer (the world) to preview Unit 4 on global cooperation.
+- Ask them to research one local leader by name and write 2–3 sentences about that person's job.
+- Challenge them to explain in writing why informal agreements stop working as groups grow, using a specific example.
+:::
+
+---
+
 ## Offline Option
 
-:::info
+:::info Offline Alternative
 This lesson works well without any screens. Draw the concentric circles on poster board or a large sheet of paper, and fill them in together with markers. Use verbal storytelling for the history of how communities grew, and discuss real-life examples of local leaders instead of looking them up online. A printed or hand-drawn map of your town can replace a digital one.
 :::
 
@@ -292,11 +308,9 @@ Ask your learner: "Who is the mayor of our town?" or "Do you know who is on our 
 
 ---
 
-## Facilitator Notes
-
-:::caution
-- The concept of "scale" can feel abstract. Ground it in concrete comparisons: "Imagine trying to decide on pizza toppings with your family versus with your entire school." Physical analogies help it click.
-- Some kids may feel that government is far away and has nothing to do with them. The community layers activity is designed to close that gap — help them see that rules from every layer touch their daily life.
-- If a child asks about leaders who aren't fair or governments that don't work well, acknowledge it honestly. You can say: "That's a really important question. Part of understanding government is learning what to do when it isn't working the way it should."
-- Keep the storytelling section conversational. You don't need to be a history expert — the goal is to show that government grew gradually from the same kind of cooperation they practiced on their island in Week 2.
+:::caution Facilitator Notes
+- "Scale" can feel abstract. Ground it with comparisons: "Imagine choosing pizza toppings with your family versus your entire school." Physical analogies help.
+- Some kids feel government has nothing to do with them. The community layers activity closes that gap — help them see that rules from every layer touch their daily life.
+- If a child asks about unfair leaders or broken governments, acknowledge it: "That's an important question. Part of understanding government is learning what to do when it isn't working."
+- Keep the storytelling conversational. You don't need to be a history expert — the goal is showing that government grew from the same cooperation they practiced on their island.
 :::

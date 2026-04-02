@@ -271,21 +271,38 @@ This week is all about noticing the rules you already follow every single day �
 
 ## Core vs. Stretch
 
-**Core (All Learners):**
+**Core:**
 - Brainstorm a list of rules from everyday life and sort them into Safety, Fairness, and Order categories.
 - Explain in their own words why at least two rules exist.
 - Draw or write about one rule they would create to solve a real problem.
 
-**Stretch (Older or Advanced Learners):**
+**Stretch:**
 - Analyze rules that fit into more than one category and explain why they overlap.
 - Compare the rules at two different places (for example, school vs. a sports team) and describe what they have in common.
 - Write a short argument for or against a rule they think is unfair, including what they would replace it with.
 
 ---
 
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- Focus on the drawing and sorting activities — **hands-on** works best at this age.
+- Keep the "Why?" game to 5–6 rules rather than 8–10.
+- For the independent session, choose the poster option. Use sentence starters like: *"This rule exists because…"*
+- Accept verbal explanations in place of written ones.
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Push the "Sort the Rules" activity further: ask them to find rules that fit into **more than one** category and explain why.
+- In the "Design a Rule" activity, ask them to write a **counter-argument** — why *shouldn't* this rule exist? Then respond to their own objection.
+- For the independent session, choose the "Write about a rule you would change" option and ask for a full paragraph explaining their reasoning.
+:::
+
+---
+
 ## Offline Option
 
-:::info
+:::info Offline Alternative
 This lesson works great without any technology. Use paper and markers to list rules, sticky notes or slips of paper to sort them into categories, and verbal discussion for the "Why?" game and reflection questions. The independent session only needs drawing or writing supplies — no internet required.
 :::
 
@@ -296,9 +313,7 @@ Think about the rules in your own household, school, or neighborhood. What local
 
 ---
 
-## Facilitator Notes
-
-:::caution
+:::caution Facilitator Notes
 - Some kids may push back on the idea that rules are helpful, especially if they've experienced rules that felt unfair or were enforced inconsistently. That's okay — acknowledge their feelings and use it as a discussion point about what makes a rule good or bad.
 - Avoid framing rule-following as blind obedience. The goal is for kids to understand *why* rules exist, not just to accept them without question.
 - If a child brings up a rule that genuinely seems unfair, take it seriously. Validating their critical thinking builds trust and keeps them engaged.

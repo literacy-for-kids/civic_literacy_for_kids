@@ -279,9 +279,42 @@ This week, you become a community detective! You take a walk through your neighb
 
 ---
 
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- Do the Community Walk together and model the observation process: "I notice that bench is broken. Who do you think is supposed to fix it?"
+- For the Feasibility Test, simplify to two filters: "Is it specific?" and "Is there someone who could fix it?"
+- The problem statement can be 2–3 sentences — focus on clarity, not length.
+- Expect to do more research together in Weeks 16–17 rather than sending them off independently.
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Let them lead the Community Walk — you observe and ask questions rather than directing.
+- Apply all three feasibility filters and ask them to rank their problems by impact and solvability.
+- Push for a more detailed problem statement that includes who is affected and why it matters.
+- For the "Who's in Charge?" activity, have them find the actual contact information for the responsible official or department.
+:::
+
+---
+
+## 🔍 Civic Inquiry Spotlight: Is This Problem What I Think It Is?
+
+Before committing to a problem for your project, practice checking your assumptions:
+
+**Example:** You noticed overflowing trash cans in the park and assumed the city doesn't care.
+
+1. **What do I observe?** Trash cans are overflowing.
+2. **What am I assuming?** The city isn't maintaining the park.
+3. **What else could explain this?** Maybe pickup was delayed by weather. Maybe the park had an unusual event. Maybe the budget for pickup was recently cut.
+4. **How can I find out?** Check the city's parks department website, call them, or look at recent council meeting minutes.
+
+**This week's skill:** Before jumping to conclusions about a problem, ask: *"What do I actually know, and what am I assuming? How can I find out more?"*
+
+---
+
 ## Offline Option
 
-:::info Offline Option
+:::info Offline Alternative
 The Community Walk is already a hands-on, offline activity — that's a strength of this week! If you don't have internet access for the research portion, use local newspaper clippings to learn about community issues, or try verbal interviews with neighbors, family members, or local shopkeepers. You can also visit your local library and ask a librarian to help you find information about your chosen problem.
 :::
 

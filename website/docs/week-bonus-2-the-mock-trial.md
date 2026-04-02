@@ -315,9 +315,40 @@ This week, you run your own courtroom! You take on roles like judge, lawyer, wit
 
 ---
 
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- Simplify the roles: one person argues "Alex did it," the other argues "We're not sure." The caregiver acts as judge.
+- Shorten the trial: skip formal opening/closing statements and just have each side explain their argument in 1–2 minutes, then discuss.
+- Focus the debrief on one question: "Do you think there was enough proof? Why or why not?"
+- The concept of "beyond a reasonable doubt" can be introduced simply: "Are you really, truly sure — or just guessing?"
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Run the full trial procedure with opening statements, witness examination, cross-examination, and closing arguments.
+- Assign distinct roles (even if doubling up) and encourage staying in character throughout.
+- Push the debrief deeper: "What evidence was missing that would have changed your mind? What would you need to see to be convinced?"
+- For the independent session, challenge them to write their own mock trial case where the answer is genuinely ambiguous.
+:::
+
+---
+
+## Discussion Norms for This Week
+
+:::info Ground Rules for the Mock Trial
+The mock trial can get competitive. Before starting:
+
+1. **Both sides are essential.** The defense isn't "helping the bad guy" — they're protecting everyone's right to a fair trial.
+2. **Stay in role, but stay kind.** Cross-examination means asking tough questions, not being mean to the person playing the witness.
+3. **The verdict is the group's decision.** If you disagree with it, use the debrief to explain why — that's exactly what appeals courts are for.
+4. **"Not guilty" doesn't mean "innocent."** It means the evidence wasn't strong enough. That distinction matters.
+:::
+
+---
+
 ## Offline Option
 
-:::info Offline Option
+:::info Offline Alternative
 The mock trial is entirely offline by design — and that's one of its greatest strengths! Everything you need is people, paper, and conversation. Prepare role cards and case summaries by hand. Set up your courtroom with whatever furniture you have. The power of this activity comes from speaking, listening, thinking, and deciding together — no screens required.
 :::
 

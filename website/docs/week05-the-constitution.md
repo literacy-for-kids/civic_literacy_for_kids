@@ -255,6 +255,8 @@ Be ready to share what you created and explain your reasoning.
 The Constitution is like the ultimate rulebook for the United States — it tells the government what it can do and what it can't do. The Bill of Rights is a special part that protects your freedoms, like being able to speak your mind and being treated fairly. Even though it was written a long time ago, it still matters every single day.
 :::
 
+---
+
 ## Check for Understanding
 
 - In your own words, what is a constitution and why does a country need one?
@@ -262,21 +264,62 @@ The Constitution is like the ultimate rulebook for the United States — it tell
 - How is the Constitution similar to the island agreement you created in Week 2?
 - Why is it important that the Constitution can be amended (changed) over time?
 
+---
+
 ## Core vs. Stretch
 
-**Core (All Learners):**
+**Core:**
 - Explain in your own words what the Constitution is and why it matters.
 - Identify at least three rights from the Bill of Rights and describe what they protect.
 - Compare the Island Agreement from Week 2 to the U.S. Constitution.
 
-**Stretch (Older or Advanced Learners):**
+**Stretch:**
 - Research one amendment beyond the Bill of Rights and explain why it was added.
 - Write a short argument for which right in the Bill of Rights you think is most important and defend your choice.
 - Investigate who was left out of the Constitution's original protections and explain how that changed over time.
 
+---
+
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- For the Preamble activity, focus on the simplified paraphrase — don't worry about the original 18th-century text.
+- In the Bill of Rights scenarios, work through just three or four scenarios instead of all six. Use the most relatable ones (speech, fair trial, unfair searches).
+- For the independent session, the "Kid's Bill of Rights" option works best — draw and label five rights with one sentence each.
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Read the original Preamble alongside the paraphrase and ask: *"What words did the founders choose, and why?"*
+- After ranking their top three rights, ask: *"If you had to give up one right to protect another, which would you choose — and why is that a hard choice?"*
+- Introduce the idea that the Constitution was a compromise: some delegates wanted a stronger federal government, others wanted states to keep more power. Ask: *"Does compromise ever mean leaving some things unfinished?"*
+:::
+
+---
+
+## 🔍 Civic Inquiry Spotlight: Where Does This Claim Come From?
+
+Starting this week, the curriculum introduces a simple **Civic Inquiry Routine** that you'll see again in future lessons. The goal is to build the habit of asking: *"How do I know this is true?"*
+
+**The routine:**
+
+> **Claim → Evidence → Source → Check**
+>
+> 1. **What is the claim?** (What is someone saying is true?)
+> 2. **What evidence supports it?** (What facts or examples back it up?)
+> 3. **Where does the information come from?** (Is it an official source, an opinion, or something else?)
+> 4. **How could I check?** (Where else could I look to confirm or challenge this?)
+
+**This week's practice:** The Constitution itself is a source. When someone says "You have the right to free speech," ask:
+
+- *Where in the Constitution does that come from?* (The First Amendment)
+- *Is that the actual text, or someone's interpretation of it?*
+- *Who decides what "free speech" means in practice?* (The courts — which you'll learn more about in Week 6)
+
+This is the beginning of learning to tell the difference between **what a document actually says** and **what people claim it says**. You'll practice this skill throughout the rest of the curriculum.
+
 ## Offline Option
 
-:::info
+:::info Offline Alternative
 Print or copy out a simplified version of the Preamble and the Bill of Rights before the session. Use the comparison chart (Island Agreement vs. Constitution) on paper or a whiteboard. For the independent session, all three activity choices — writing a family preamble, creating a Kid's Bill of Rights, or summarizing an amendment — can be done with paper and pencil alone. No internet is required if you prepare the reference materials in advance.
 :::
 

@@ -258,6 +258,8 @@ You can draw it, write it, or combine both. Make it clear enough that someone wh
 The U.S. government is split into three parts so no one person or group has all the power. One part makes the laws, one part carries them out, and one part decides if the laws are fair. It's like having three teammates who each have a different job — they have to work together, and no one can take over.
 :::
 
+---
+
 ## Check for Understanding
 
 - What are the three branches of government and what does each one do?
@@ -265,21 +267,54 @@ The U.S. government is split into three parts so no one person or group has all 
 - Can you think of a real-world example where each branch does its job?
 - How is dividing government power similar to how jobs are divided at a school?
 
+---
+
 ## Core vs. Stretch
 
-**Core (All Learners):**
+**Core:**
 - Name the three branches and describe each one's main job in your own words.
 - Explain why separating power is important using the school analogy or another example.
 - Create a simple poster or diagram that shows how the three branches are organized.
 
-**Stretch (Older or Advanced Learners):**
+**Stretch:**
 - Research one branch in more detail and present three facts about it that weren't covered in the lesson.
 - Explain what could go wrong if two branches were combined into one. Give a specific example.
 - Find out who currently leads each branch (the President, the Speaker of the House, and the Chief Justice) and describe one thing each has done recently.
 
+---
+
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- Lean heavily on the school analogy: school board = legislative, principal = executive, mediator = judicial. Work through all activities using this comparison first.
+- For the independent session, choose the "Three Branches Poster" — drawing and labeling is the best output at this age.
+- Simplify Key Vocabulary to three terms: the names of the branches and what each does.
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- After introducing the branches, ask: *"Who currently leads each branch?"* Have them look it up and write one sentence about each leader's role.
+- In the One-Person Thought Experiment, ask them to write a short paragraph: *"What specific rights could be at risk if one person controlled all three branches?"*
+- Preview checks and balances (Week 8): *"If the President proposes something Congress disagrees with, what happens?"*
+:::
+
+---
+
+## 🔍 Civic Inquiry Spotlight: Who Said That?
+
+Continue building the inquiry habit from Week 5. This week's focus: **distinguishing official roles from opinions.**
+
+When you hear a claim about what the government does — for example, "The President can make any law he wants" — practice the routine:
+
+1. **What is the claim?** "The President can make any law."
+2. **What evidence supports it?** Actually, the Constitution says Congress makes laws. The President signs or vetoes them.
+3. **Where does this come from?** Is someone stating a fact about how the system works, or stating their opinion about how it *should* work?
+4. **How could I check?** Look at the Constitution or a reliable government reference like [Ben's Guide](https://bensguide.gpo.gov/).
+
+**Key distinction this week:** An **official source** (like the Constitution, a government website, or a court ruling) tells you how the system actually works. An **opinion** tells you how someone *thinks* it should work. Both matter — but they're different.
+
 ## Offline Option
 
-:::info
+:::info Offline Alternative
 Draw the three-branch diagram on a whiteboard or large sheet of paper. Use the school analogy (school board = legislative, principal = executive, teacher/mediator = judicial) as your main teaching tool — it requires no technology. For the independent session, the Three Branches Poster can be created entirely with paper and markers. If you want an extra activity, have the learner act out a short skit where three people each play one branch and show how they do their jobs.
 :::
 

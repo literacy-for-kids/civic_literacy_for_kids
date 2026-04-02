@@ -314,10 +314,28 @@ This week, you put everything together! You write your full proposal — explain
 
 ---
 
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- The proposal can be shorter — 3–4 sections (Problem, Solution, Evidence, and Ask) is enough. Don't require all 7 sections.
+- For the presentation practice, aim for 2 minutes instead of 5. Use just 2–3 index cards.
+- Skip the "Devil's Advocate" Q&A — instead, ask one or two friendly questions: "What would you say if someone asked how much this costs?" and "Why should the city do this instead of something else?"
+- Focus on helping them say their main idea clearly in one sentence. If they can do that, the presentation will work.
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Require all 7 sections of the proposal, with at least 3 cited pieces of evidence.
+- For the presentation, aim for the full 5 minutes with a Q&A round after.
+- Run a full "Devil's Advocate" session with 3–4 tough objections. Encourage them to say "That's a great question — I'd need to research that further" when they don't know the answer, rather than making something up.
+- Challenge them to get feedback from someone outside the household — a neighbor, a teacher, a friend — and revise based on that feedback.
+:::
+
+---
+
 ## Offline Option
 
-:::info Offline Option
-Writing your proposal and practicing your presentation are naturally offline activities — pen, paper, and your own voice are all you need! If the proposal template was originally digital, simply write it out by hand or use a printed copy. For visual aids, hand-drawn posters, charts, or diagrams work just as well (and often better) than digital slides. Use index cards for your speaking notes instead of a screen.
+:::info Offline Alternative
+Writing your proposal and practicing your presentation are naturally offline activities — pen, paper, and your own voice are all you need! For visual aids, hand-drawn posters, charts, or diagrams work just as well (and often better) than digital slides. Use index cards for your speaking notes instead of a screen.
 :::
 
 ---

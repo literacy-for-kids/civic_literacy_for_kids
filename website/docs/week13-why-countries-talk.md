@@ -329,16 +329,49 @@ Countries can't do everything on their own — they need to trade with each othe
 ---
 
 ## Check for Understanding
-1. Why can't most countries produce everything they need on their own?
-2. What is the difference between a treaty and an alliance?
-3. In the Trade Game, what made a deal feel "fair"? What made it feel unfair?
-4. What happens when one country breaks a treaty? What tools do other countries have to respond?
+- Why can't most countries produce everything they need on their own?
+- What is the difference between a treaty and an alliance?
+- In the Trade Game, what made a deal feel "fair"? What made it feel unfair?
+- What happens when one country breaks a treaty? What tools do other countries have to respond?
 
 ---
 
 ## Core vs. Stretch
 - **Core:** Explain why countries need diplomacy and trade, participate in the Trade Game, and define key terms (treaty, alliance, imports, exports).
 - **Stretch:** Research a real international organization and create an information card, or design a detailed written trade agreement with terms for disputes and duration.
+
+---
+
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- Focus on the "Where Did It Come From?" activity — checking labels on real objects is the most concrete entry point for understanding trade.
+- Simplify the Trade Game to just two countries (Farmlandia and Technotopia) and one round of negotiation.
+- For the Shared River Problem, act it out with a piece of string (the river) and two toy figures (the countries). Physical props make the scenario tangible.
+- Skip the vocabulary pre-teach — introduce terms naturally as they come up in the activities.
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Run the full Trade Game with all four countries and multiple rounds of negotiation.
+- After the game, introduce the concept of trade *sanctions*: "What if Farmlandia refuses to trade with Mineralia? What happens to Mineralia?"
+- For the independent session, encourage the research option (international organization) and require them to name a specific accomplishment of the organization, not just its mission.
+- Ask: *"Can you think of a product at home that has a supply chain crossing three or more countries? Trace the chain."*
+:::
+
+---
+
+## 🔍 Civic Inquiry Spotlight: Who Benefits from This Agreement?
+
+When countries sign trade deals or treaties, it's worth asking who benefits:
+
+**Example claim:** *"This trade agreement is great for both countries!"*
+
+1. **What is the claim?** The deal benefits both sides equally.
+2. **How would I check?** Look at what each country gives and what it gets. Is the exchange roughly balanced, or does one side give up much more?
+3. **Who is saying this?** A leader from one of the countries? An independent analyst? A news outlet?
+4. **Key question:** *"Does 'good for the country' mean good for everyone in that country, or mainly good for certain groups?"*
+
+**This week's skill:** When someone says an agreement is "fair" or "good," ask: *"Good for whom? And compared to what?"*
 
 ---
 
@@ -364,8 +397,8 @@ International connections are everywhere, even in your own neighborhood — you 
 ---
 
 :::caution Facilitator Notes
-- **Global politics can bring up strong opinions.** That's natural, but keep the focus on *systems and processes* — how diplomacy works, why trade exists, what treaties do — rather than debating specific geopolitical controversies.
-- **Avoid taking sides on current international conflicts.** If the learner brings one up, acknowledge it and redirect: "That's a real example of why diplomacy is important. What tools could the countries involved use to resolve it?"
-- **The Trade Game works best when the facilitator plays along.** Take on the role of a country and negotiate genuinely — kids learn more when the activity feels real rather than scripted.
-- **Some learners may notice that trade isn't always fair in the real world.** That's a great observation. Acknowledge it honestly and connect it to why trade agreements and organizations like the WTO exist — to try to create fairer rules.
+- **Global politics can bring up strong opinions.** Keep the focus on *systems* — how diplomacy works, why trade exists, what treaties do — not specific geopolitical controversies.
+- **Avoid taking sides on current conflicts.** If a learner brings one up, redirect: "That's a real example of why diplomacy matters. What tools could those countries use?"
+- **The Trade Game works best when you play along.** Take on a country's role and negotiate genuinely — kids learn more when the activity feels real.
+- **Some learners may notice trade isn't always fair.** Great observation. Connect it to why trade agreements and organizations like the WTO exist — to create fairer rules.
 :::

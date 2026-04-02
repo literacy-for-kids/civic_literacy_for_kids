@@ -279,16 +279,63 @@ Government isn't just something that happens far away — it happens right in yo
 ---
 
 ## Check for Understanding
-1. Name at least three ways citizens can participate in government besides voting.
-2. Why do you think most government meetings are open to the public?
-3. What makes a good public comment? What should you include when speaking at a meeting?
-4. Why might writing a letter to an elected official be effective, even if you're a kid?
+- Name at least three ways citizens can participate in government besides voting.
+- Why do you think most government meetings are open to the public?
+- What makes a good public comment? What should you include when speaking at a meeting?
+- Why might writing a letter to an elected official be effective, even if you're a kid?
 
 ---
 
 ## Core vs. Stretch
 - **Core:** Identify multiple forms of civic participation, practice delivering a public comment, and watch or discuss a government meeting. Write a letter to an elected official (can be unsent).
 - **Stretch:** Actually send the letter (with a caregiver's help), find and read a real meeting agenda from your local government, or attend a public meeting in person or online.
+
+---
+
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- Focus on the public comment practice — keep it to 1 minute and use a very concrete topic ("I want a new slide at the park").
+- For the meeting observation, watch only 3–5 minutes of a recording and use the simplified observation sheet (just: "Who was there? What did they talk about? Did anyone vote?").
+- For the letter activity, write a shorter version — 3–4 sentences is fine. The act of addressing a real person is what matters.
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Run the full 2-minute public comment practice with the four-part structure (introduce, state concern, give reasons, make your ask).
+- Watch 8–10 minutes of a real meeting and fill out the complete observation sheet.
+- Challenge them to find the next upcoming meeting for your local governing body and read the agenda in advance.
+- For the letter activity, encourage them to actually send it (with caregiver help). Discuss: *"What makes a letter persuasive? What would make an official take this seriously?"*
+:::
+
+---
+
+## Discussion Norms for This Week
+
+:::info Ground Rules for Civic Participation Discussions
+This week involves practicing speaking up — which can feel vulnerable. Before starting:
+
+1. **Practice is practice.** Public comment practice is about building the skill, not performing perfectly.
+2. **Constructive feedback only.** When giving feedback on someone's public comment or letter, start with what worked well, then suggest one improvement.
+3. **Real opinions, respectful tone.** The topics for public comment practice should be things the learner genuinely cares about — but the tone should always be respectful, just like in a real meeting.
+4. **No topic is too small.** Wanting a bench at a bus stop or better lighting in a park are legitimate civic concerns.
+:::
+
+---
+
+## 🔍 Civic Inquiry Spotlight: Is This Source Official?
+
+When you research local government — meeting times, officials' names, policies — you need to know whether your source is official:
+
+**Example:** You search for "[your town] city council meeting schedule."
+
+| Source | Official? | How to Tell |
+|--------|-----------|-------------|
+| Your city's .gov website | ✅ Yes | Ends in .gov; published by the government itself |
+| A local news article | Mostly reliable | Reporters verify information, but details can be outdated |
+| A social media post | ❓ Maybe not | Anyone can post; check if it links to an official source |
+| A random blog | ❌ Probably not | No editorial oversight; may contain errors or opinions presented as facts |
+
+**This week's skill:** When looking up government information, start with the official .gov website. If you find information elsewhere, check it against the official source.
 
 ---
 
@@ -313,8 +360,8 @@ This week is all about connecting to your actual local government, so take the t
 ---
 
 :::caution Facilitator Notes
-- **If kids express frustration about government, validate their feelings.** It's okay to feel like government is slow, confusing, or unfair sometimes. Redirect the conversation toward civic tools — "What could a citizen *do* about that?" The focus should be on HOW to participate, not WHAT to advocate for.
-- **Keep the letter-writing activity nonpartisan.** The student should choose a topic they genuinely care about, but guide them toward specific, local issues (a park, a crosswalk, a school program) rather than divisive national debates.
-- **Public comment practice can feel awkward.** Normalize that! Speaking in front of a group is hard for adults too. Encourage the learner and praise the effort, not the polish.
-- **If the student wants to actually send the letter, help them.** Many elected officials respond to letters from young people, and getting a real reply can be a powerful civic experience.
+- **If kids express frustration about government, validate it.** Redirect toward civic tools: "What could a citizen *do* about that?" Focus on HOW to participate, not WHAT to advocate for.
+- **Keep letter-writing nonpartisan.** Guide toward specific, local issues (a park, a crosswalk, a school program) rather than divisive national debates.
+- **Public comment practice can feel awkward.** That's normal — it's hard for adults too. Praise the effort, not the polish.
+- **If the student wants to actually send the letter, help them.** Many officials respond to letters from young people, and a real reply can be a powerful civic experience.
 :::

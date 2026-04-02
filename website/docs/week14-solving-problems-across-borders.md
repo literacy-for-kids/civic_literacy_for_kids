@@ -274,16 +274,68 @@ Some problems are so big that no single country can fix them alone — things li
 ---
 
 ## Check for Understanding
-1. Name two global challenges that cannot be solved by one country acting alone. Why not?
-2. What are the Sustainable Development Goals, and why did countries agree to them?
-3. What is the "free rider problem" in international cooperation? Why is it such a challenge?
-4. How can ordinary citizens — including kids — contribute to solving global problems?
+- Name two global challenges that cannot be solved by one country acting alone. Why not?
+- What are the Sustainable Development Goals, and why did countries agree to them?
+- What is the "free rider problem" in international cooperation? Why is it such a challenge?
+- How can ordinary citizens — including kids — contribute to solving global problems?
 
 ---
 
 ## Core vs. Stretch
 - **Core:** Identify global challenges that cross borders, explain why international cooperation is necessary, and discuss the Sustainable Development Goals. Complete the Global Challenge Team activity.
 - **Stretch:** Write a full one-page proposal for a global solution (independent session), research a specific international agreement (like the Montreal Protocol), or connect a global issue to something happening in your own community.
+
+---
+
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- Focus on one or two global challenges that are easiest to visualize: ocean plastic and clean water work well because kids can picture them.
+- For the SDGs, pick just 3–4 goals and ask which one they think is most important. Don't try to cover all 17.
+- Keep the Global Challenge Team activity short: pick one problem and answer just the first three questions (What is it? Why can't one country fix it? What would countries need to agree on?).
+- Skip the free rider concept, or introduce it very simply through the island analogy: "What if one islander refused to help clean up but still used the clean beach?"
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Cover the full Global Challenge Team activity with all six questions, and challenge the learner to propose specific, measurable targets ("reduce ocean plastic by 50% in 10 years" rather than "reduce plastic").
+- Dive deeper into the free rider problem and discuss real-world parallels: "Why might a country choose not to sign a climate agreement?"
+- For the independent session, push toward the full one-page proposal and require at least one cited source.
+- Ask: *"The Montreal Protocol worked — the ozone layer is healing. Why do you think climate change has been harder to solve than the ozone problem?"*
+:::
+
+---
+
+## Discussion Norms for This Week
+
+:::info Ground Rules for Global Issues Discussions
+Global problems can trigger strong feelings — especially climate change, poverty, and conflict. Before starting:
+
+1. **Hope and honesty together.** It's OK to say "this is a serious problem" AND "people are making progress." Both can be true.
+2. **Stick to what we can learn.** Focus on understanding systems and cooperation, not on assigning blame to specific countries.
+3. **Feelings are data too.** If a topic makes you worried or angry, that's worth noticing — but channel it into "What could people do about this?" rather than despair.
+4. **"I don't know" is fine.** These are problems that experts spend careers on. Not having all the answers is honest.
+:::
+
+---
+
+## 🔍 Civic Inquiry Spotlight: Does Cooperation Actually Work?
+
+You might hear someone say: *"International agreements never work — countries just ignore them."*
+
+Let's check that claim:
+
+| Claim | What Actually Happened |
+|-------|----------------------|
+| "The ozone treaty didn't work" | The Montreal Protocol (1987) was signed by 197 countries. The ozone hole is measurably shrinking. Scientists expect full recovery by ~2066. |
+| "Countries never cooperate on disease" | The World Health Organization coordinated the eradication of smallpox (1980) — a disease that killed ~300 million people in the 20th century alone. |
+| "Nobody follows climate agreements" | Mixed — some countries exceeded targets, some fell short. The Paris Agreement (2015) created a framework, but enforcement is voluntary. Progress is real but uneven. |
+
+**The takeaway:** International cooperation doesn't always work perfectly — but the claim that it *never* works is not supported by evidence. The harder question is: *Under what conditions does cooperation succeed, and what makes it fail?*
+
+**Try this:** When you hear a big claim about whether global cooperation works or doesn't, ask:
+1. **Which agreement?** (Get specific)
+2. **What was the goal, and what actually happened?** (Check the evidence)
+3. **Is the person comparing it to perfection — or to what would have happened without the agreement?**
 
 ---
 
@@ -309,8 +361,8 @@ Global issues might feel far away, but they connect to your community in real wa
 ---
 
 :::caution Facilitator Notes
-- **Climate and global issues can feel overwhelming for kids.** Balance urgency with agency. Yes, these problems are serious — but people are working on solutions every day, and progress is real (the ozone layer, smallpox eradication, the International Space Station). Focus on what people CAN do.
-- **Avoid doom and gloom.** The goal is to build informed, empowered citizens — not anxious ones. If a learner seems worried, redirect toward action: "What's one thing you could do about that?"
-- **The free rider problem can frustrate kids who have a strong sense of fairness.** Use that energy! Ask them to brainstorm solutions — that's exactly what international negotiators do.
-- **This week wraps up Unit 4.** Take a moment to look back at the full arc: from local government (Weeks 10-12) to the global stage (Weeks 13-14). Help the learner see how the same cooperation principles scale from neighborhoods to the entire planet.
+- **Global issues can feel overwhelming.** Balance urgency with agency. Progress is real (ozone recovery, smallpox eradication, the ISS). Focus on what people CAN do.
+- **Avoid doom and gloom.** Build informed citizens, not anxious ones. If a learner seems worried, redirect: "What's one thing you could do about that?"
+- **The free rider problem can frustrate kids with a strong sense of fairness.** Use that energy — ask them to brainstorm solutions, just like international negotiators do.
+- **This wraps up Unit 4.** Look back at the arc: local government (Weeks 10–12) to the global stage (Weeks 13–14). The same cooperation principles scale from neighborhoods to the planet.
 :::

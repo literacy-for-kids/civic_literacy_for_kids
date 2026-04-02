@@ -21,7 +21,7 @@ Assessment in this curriculum looks like:
 - **Watching how they participate.** Are they asking questions? Building on each other's ideas? Thinking about fairness?
 - **Reading their project work.** Does their Community Patch show real understanding of a civic problem and a thoughtful response?
 
-You won't find multiple-choice tests here. Instead, you'll find discussion prompts, self-reflection questions, a capstone rubric, and a simple progress tracker. Use what helps. Skip what doesn't.
+You won't find multiple-choice tests here. Instead, you'll find discussion prompts, self-reflection questions, and a capstone rubric — all built into the curriculum pages. Use what helps. Skip what doesn't.
 
 :::tip
 If a learner is struggling, that's useful information — not a failure. It means they need another conversation, a different example, or more time. That's how learning works.
@@ -243,8 +243,8 @@ You don't need to use all of these. Pick one or two per unit that feel right for
 
 Use this tracker to record where each learner stands across key civic literacy skills. You can fill it in after each unit or update it at the midpoint and end of the curriculum. Mark each skill as 🌱 Emerging, 🌿 Developing, 🌳 Proficient, or 🌟 Advanced.
 
-:::tip Printing this tracker
-This table is designed to be printer-friendly. Copy and paste it into a document, or print this page directly from your browser.
+:::tip Using this tracker
+Copy this table into a notebook or sketch it on paper — whatever fits your setting.
 :::
 
 **Learner Name:** ______________________________ **Date:** _______________

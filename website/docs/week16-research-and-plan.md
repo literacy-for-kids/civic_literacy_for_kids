@@ -278,9 +278,42 @@ This week, you dig into your community problem like a real researcher! You find 
 
 ---
 
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- Do the research together — sit with them and model how to search, scan results, and pick useful information.
+- Simplify the Research Organizer to 3–4 questions instead of 7.
+- For the "Devil's Advocate" activity, raise just one objection and help them practice responding.
+- The proposal outline can be shorter: Title, Problem, Solution, and one piece of evidence is enough at this age.
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Expect more independent research — point them toward sources but let them navigate.
+- Use the full Research Organizer and push for at least one source beyond a simple web search (an interview, a meeting agenda, a news article).
+- For the "Devil's Advocate" activity, raise 3 objections and challenge them to respond with evidence, not just feelings.
+- The proposal outline should include all 8 sections, even if they're just one sentence each at this stage.
+:::
+
+---
+
+## 🔍 Civic Inquiry Spotlight: Evaluating Your Sources
+
+Now that you're doing real research for your proposal, the source-checking skills from earlier weeks become essential:
+
+| Question | Why It Matters |
+|----------|---------------|
+| **Who published this?** | A city .gov website is more reliable for budget data than a random blog. |
+| **When was it published?** | A 2018 article about your town's budget may be outdated. |
+| **Does another source confirm it?** | If only one source says it, dig deeper before using it as evidence. |
+| **Is this a fact or an opinion?** | "The playground is 15 years old" is a fact. "The playground is a disgrace" is an opinion. Both might be useful, but label them correctly. |
+
+**This week's skill:** For every piece of evidence in your proposal, ask: *"Could I defend this fact to a skeptical audience? Where did I get it, and is it reliable?"*
+
+---
+
 ## Offline Option
 
-:::info Offline Option
+:::info Offline Alternative
 If you don't have internet access, you can still do great research! Visit your local library and ask a librarian for help finding information about your topic. Use phone calls to contact your city or town hall and ask questions about your issue. Look for printed materials like community newsletters, local newspaper archives, or flyers from town meetings. You can also interview people in person — neighbors, teachers, or local business owners often know a lot about community issues.
 :::
 

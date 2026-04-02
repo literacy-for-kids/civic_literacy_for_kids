@@ -270,16 +270,61 @@ Public services are the things your community shares — like schools, libraries
 ---
 
 ## Check for Understanding
-1. Name three public services you used today. Who provides them?
-2. What is the difference between a public service and a private service?
-3. Why might a community choose to make something a public service instead of leaving it private?
-4. If your town had to cut one service from its budget, which would you argue to keep — and why?
+- Name three public services you used today. Who provides them?
+- What is the difference between a public service and a private service?
+- Why might a community choose to make something a public service instead of leaving it private?
+- If your town had to cut one service from its budget, which would you argue to keep — and why?
 
 ---
 
 ## Core vs. Stretch
 - **Core:** Identify public services in daily life, explain the difference between public and private services, and complete the budget challenge in the independent session.
 - **Stretch:** Design a new public service proposal with a written justification, or research a real public service in your community and find out how much it costs and who manages it.
+
+---
+
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- Start with the "Public Services Hunt" — walking through their day is the most concrete entry point.
+- For the budget challenge, reduce the menu to 5–6 services and the budget to a simpler number.
+- Skip the "free rider" concept or introduce it very simply: "What if someone uses the park but says they shouldn't have to help pay for it?"
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Use the full budget challenge with all 10 services and the $120 constraint.
+- Introduce the free rider concept explicitly and ask them to design a rule that would address it.
+- For the "Design a New Public Service" activity, require a written paragraph justifying why the whole community should fund it, not just the people who use it.
+- Ask: *"Can you find out how much your town actually spends on the public library, the fire department, or the schools?"*
+:::
+
+---
+
+## Discussion Norms for This Week
+
+:::info Ground Rules for Budget Debates
+The budget activity and the "Taxes: Fair or Unfair?" discussion can surface real disagreements. Before starting:
+
+1. **Every choice has a trade-off.** There are no trick answers — cutting any service affects someone.
+2. **Explain your reasoning.** Don't just say "cut the parks" — say *why* you'd prioritize other services.
+3. **Listen for values, not just answers.** If someone prioritizes schools and another person prioritizes safety, both are expressing what they think matters most.
+4. **It's OK to change your mind.** If someone else's argument convinces you, that's not losing — that's learning.
+:::
+
+---
+
+## 🔍 Civic Inquiry Spotlight: "Is That Really Free?"
+
+People sometimes say public services are "free." Practice checking that claim:
+
+**Example claim:** *"The public library is free — anyone can use it!"*
+
+1. **What is the claim?** The library is free to use.
+2. **Is it accurate?** It's free *at the point of use* — you don't pay each time you walk in. But it's funded by taxes, so the community is paying for it collectively.
+3. **Why does this matter?** When people say something is "free," they sometimes mean "free for me to use" and sometimes mean "costs nothing." Those are different.
+4. **Key question:** *"When someone says a service is 'free,' who is actually paying for it, and how?"*
+
+**This week's skill:** When you hear "free," ask: *"Free for whom? And funded by whom?"*
 
 ---
 

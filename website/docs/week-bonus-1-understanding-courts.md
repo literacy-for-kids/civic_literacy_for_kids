@@ -135,14 +135,7 @@ Introduce the key roles:
 | **Witnesses** | People who saw something or have relevant information. They testify (tell their story under oath). |
 | **Bailiff** | Keeps order in the courtroom. |
 
-> "Every person in the courtroom has a specific job. Together, they make up the system that decides what's fair."
-
----
-
-#### Reflection Questions
-- "Why is it important that a judge is neutral — not on either side?"
-- "Would you rather have a jury (group of citizens) or a judge decide your case? Why?"
-- "Why do you think the right to a fair trial is in the Bill of Rights?"
+>> "Every person in the courtroom has a specific job. Together, they make up the system that decides what's fair."
 
 ---
 
@@ -164,6 +157,14 @@ Ask:
 > "Why do we give these rights even to people who might actually be guilty?"
 
 Guide toward: **Because without these protections, innocent people would be convicted.** The system is designed to err on the side of protecting the innocent.
+
+---
+
+#### Reflection Questions
+- "Why is it important that a judge is neutral — not on either side?"
+- "Would you rather have a jury (group of citizens) or a judge decide your case? Why?"
+- "Why do you think the right to a fair trial is in the Bill of Rights?"
+- "Why do we give rights even to people who might actually be guilty?"
 
 ---
 
@@ -322,9 +323,40 @@ This week, you learn how courts work — who's who in a courtroom, what happens 
 
 ---
 
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- Focus on just four courtroom roles: judge, jury, person accused (defendant), and lawyer. Skip the distinction between prosecutor and defense attorney in the first pass.
+- For the rights of the accused, teach three: right to a lawyer, right to a jury, and innocent until proven guilty. The others can wait.
+- Use the fence-dispute scenario to explain civil cases and a simple "someone took something" example for criminal cases.
+- Skip the dual court system diagram (state vs. federal). Just explain: "There are local courts for small things and bigger courts for bigger things, all the way up to the Supreme Court."
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Cover all courtroom roles and both court system tracks (state and federal).
+- Work through all the rights of the accused and discuss: *"Why do we protect the rights of people who might be guilty?"*
+- For the quick case exercise, push them to identify exactly what additional evidence would be needed and why.
+- Encourage researching one of the three Supreme Court cases for the independent session and connecting it to a right they learned about.
+:::
+
+---
+
+## Discussion Norms for This Week
+
+:::info Ground Rules for Justice Discussions
+Justice topics can feel personal and emotional. Before starting:
+
+1. **The system is designed to be fair — but it doesn't always succeed.** Both of these things can be true at the same time.
+2. **Focus on how the system is *supposed* to work.** Understanding the design helps you spot when it falls short.
+3. **"Innocent until proven guilty" is hard.** It means protecting the rights of people we might not like. That's the point — discuss why it matters even when it's uncomfortable.
+4. **Personal experiences are valid.** If someone has experience with the justice system, listen respectfully. Don't make assumptions.
+:::
+
+---
+
 ## Offline Option
 
-:::info Offline Option
+:::info Offline Alternative
 If you don't have internet access, use printed diagrams of a courtroom layout to learn the roles and setup. Discuss the court system and the rights of the accused verbally instead of watching videos — the conversation itself is a great way to learn! For the independent session, the "Design a Courtroom" option works perfectly with just paper and pencils. You can also act out courtroom roles together to bring the material to life before next week's mock trial.
 :::
 

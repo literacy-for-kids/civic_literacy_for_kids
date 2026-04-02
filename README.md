@@ -52,7 +52,7 @@ website/
     glossary.md               # Key civic vocabulary
     scope-and-sequence.md     # One-page curriculum map
     how-to-use.md             # Facilitator quick-start guide
-    resources/                # Printable templates and toolkits
+    resources/                # Research toolkits and reference pages
     license.md                # CC BY-NC-SA 4.0
   sidebars.js                 # Navigation configuration
   docusaurus.config.js        # Site configuration

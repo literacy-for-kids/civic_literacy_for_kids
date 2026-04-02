@@ -276,6 +276,8 @@ Your explainer should be clear enough that someone who hasn't studied this could
 Checks and balances are like a system of referees — each branch of government watches the others to make sure no one cheats or goes too far. If the President does something Congress disagrees with, Congress can push back. If Congress passes an unfair law, the courts can stop it. This way, no single branch gets to be the boss of everything.
 :::
 
+---
+
 ## Check for Understanding
 
 - What does "checks and balances" mean in your own words?
@@ -283,21 +285,54 @@ Checks and balances are like a system of referees — each branch of government 
 - Why did the founders design the system so that no branch can act alone?
 - How can ordinary citizens act as a check on the government?
 
+---
+
 ## Core vs. Stretch
 
-**Core (All Learners):**
+**Core:**
 - Explain what checks and balances are and why they exist.
 - Identify at least two specific examples of one branch checking another (e.g., veto, judicial review).
 - Describe how citizens can hold government accountable (voting, protesting, petitioning).
 
-**Stretch (Older or Advanced Learners):**
+**Stretch:**
 - Draw a detailed diagram showing all the checks between the three branches, with arrows and labels for each one.
 - Research a real historical example where one branch checked another and explain what happened.
 - Write a short essay or create a presentation arguing which check you think is the most important and why.
 
+---
+
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- Teach the checks in two blocks (A and B) and save Block C (courts checking both branches) for older learners or a second pass.
+- For scenario practice, use just two scenarios with thumbs up/down before discussing.
+- The Broken Fence analogy is key for this age — spend extra time on it. Draw the fence falling apart as a visual.
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Work through all three blocks and add the scenario practice as a timed game: read a scenario, and the learner has 15 seconds to name which check is being used.
+- Ask: *"Can you think of a time in history when checks and balances were tested? What happened?"* (Keep nonpartisan — focus on process, not politics.)
+- For the independent session, challenge them to write three short stories, each showing a different check in action with invented but realistic scenarios.
+:::
+
+---
+
+## 🔍 Civic Inquiry Spotlight: Evaluating Claims About Power
+
+When you hear someone say "The President can…" or "Congress should…", practice checking the claim:
+
+**Example claim:** *"The President can just cancel any law they don't like."*
+
+1. **What is the claim?** The President can cancel laws.
+2. **Is this accurate?** Not exactly. The President can veto a *new* bill, but cannot cancel an existing law by themselves. To change an existing law, Congress would need to pass a new bill.
+3. **Where can I check?** The Constitution (Article I, Section 7) or a reference like Ben's Guide.
+4. **Key question:** Is this statement confusing what the President *can* do with what someone *wishes* the President could do?
+
+**This week's skill:** When you hear a claim about what a branch of government can do, ask: *"Is that what the system actually allows — or is that what someone wants it to allow?"*
+
 ## Offline Option
 
-:::info
+:::info Offline Alternative
 Use the three-branch diagram from Week 6 as your starting point and add arrows showing each check. The scenario practice activity (identifying which check is being used) works entirely through discussion — no technology needed. For the independent session, drawing a checks-and-balances diagram or writing three short stories about checks in action both require only paper and markers. Skip the iCivics game if no internet is available and replace it with a role-play: assign each person a branch and act out a scenario where one branch tries to overstep and the others push back.
 :::
 
@@ -308,8 +343,8 @@ Use the three-branch diagram from Week 6 as your starting point and add arrows s
 - Connect to school: "If the principal made a rule that seemed unfair, who could you talk to? That's like a check on power."
 
 :::caution Facilitator Notes
-- Kids may feel frustrated that the system seems slow — a bill can be vetoed, a law can be struck down, and everything takes multiple steps. Explain that this slowness is partly by design. The founders wanted to make it hard for any one group to rush through something unfair. Speed isn't always a good thing when it comes to making rules for millions of people.
-- Use the Broken Fence analogy to make the concept concrete. Abstract descriptions of government processes don't stick for this age group — stories and analogies do.
-- If students ask about real political situations, keep your answers focused on the process, not the people or parties involved. The goal is understanding how the system works, not debating current events.
-- Remind learners that citizens are part of the checks-and-balances system too. Voting, speaking up, and staying informed are all ways people keep the government accountable.
+- Kids may feel frustrated that the system seems slow. Explain that this is by design — the founders wanted to make it hard to rush through unfair rules.
+- Use the Broken Fence analogy throughout. Abstract descriptions of government processes don't stick at this age — stories and analogies do.
+- If students ask about real political situations, keep answers focused on the process, not people or parties.
+- Remind learners that citizens are part of checks and balances too. Voting, speaking up, and staying informed all hold government accountable.
 :::

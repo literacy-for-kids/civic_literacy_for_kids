@@ -265,6 +265,8 @@ Be ready to share what you discovered.
 Every law starts as someone's idea for how to solve a problem. That idea gets written down as a bill, and then lots of people discuss it, change it, and vote on it before it can become an official law. It's kind of like how your class might suggest a new rule — everyone gets a say, and the final version is usually a little different from the first idea.
 :::
 
+---
+
 ## Check for Understanding
 
 - What is the difference between a bill and a law?
@@ -272,21 +274,67 @@ Every law starts as someone's idea for how to solve a problem. That idea gets wr
 - What is compromise, and why is it important when making laws?
 - At which point in the process can the President stop a bill from becoming law? What can Congress do about it?
 
+---
+
 ## Core vs. Stretch
 
-**Core (All Learners):**
+**Core:**
 - Trace the basic steps a bill takes from idea to law (problem → bill → committee → vote → President signs).
 - Explain why debate and compromise are part of the process.
 - Participate in the mini classroom lawmaking simulation or write your own bill about a problem you care about.
 
-**Stretch (Older or Advanced Learners):**
+**Stretch:**
 - Look up a real bill on Congress.gov and summarize what problem it addresses and where it is in the process.
 - Write a bill with two arguments for it and two arguments against it, then propose a compromise version.
 - Explain what a presidential veto is and describe how Congress can override it. Why do you think this power exists?
 
+---
+
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- Simplify the flowchart to five steps: Problem → Bill → Debate → Vote → Law. Skip the conference step and simplify the override.
+- For the debate, focus on kids taking turns stating one reason for and one reason against — keep it short.
+- For the independent session, "Create your own bill" is the best choice. Provide a sentence starter: *"I think there should be a law that says…because…"*
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Have them trace a real bill on [Congress.gov](https://www.congress.gov/) — even just reading the title and summary is a powerful exercise.
+- In the debate, require learners to argue the side they *disagree* with for at least one round.
+- Ask: *"Why do you think most bills introduced in Congress never become law? What stops them?"*
+:::
+
+---
+
+## Discussion Norms for This Week
+
+The helmet-law debate and the classroom lawmaking simulation involve real disagreements. Before debating:
+
+- **Argue the idea, not the person.** Say "I disagree with that plan because…" not "That's a bad idea."
+- **Give reasons, not just opinions.** "I think helmets should be required because…" is stronger than "I just think they should."
+- **Try the other side.** Before the debate ends, each person should restate the strongest argument from the opposite side.
+- **Compromise is the goal.** The best outcome isn't "my side wins" — it's "we found something that addresses both concerns."
+
+---
+
+## 🔍 Civic Inquiry Spotlight: Fact vs. Interpretation in Lawmaking
+
+When people argue for or against a law, they mix facts and interpretations. Practice spotting the difference:
+
+| Statement | Fact or Interpretation? |
+|-----------|----------------------|
+| "Bicycle accidents send 26,000 kids to the ER each year." | **Fact** — this is a number you can look up and verify. |
+| "Helmets should be required because safety is more important than choice." | **Interpretation** — this is a value judgment, not something you can prove true or false. |
+| "Some states already have helmet laws for children under 16." | **Fact** — you can check which states have these laws. |
+| "The government shouldn't tell families what to wear." | **Interpretation** — this reflects a belief about the role of government. |
+
+**Key distinction this week:** In lawmaking, **both facts and interpretations matter** — but learning to tell them apart helps you make stronger arguments and understand other people's positions better.
+
+---
+
 ## Offline Option
 
-:::info
+:::info Offline Alternative
 Draw the bill-to-law flowchart on paper or a whiteboard. Use the bike helmet law example from the lesson as your story — walk through each step together without any technology. The debate activity (Side A vs. Side B) and the mini classroom lawmaking simulation both work perfectly offline. For the independent session, "Create your own bill" and "Write three things you learned" require only paper and pencil. Skip the iCivics game and Congress.gov options if no internet is available.
 :::
 

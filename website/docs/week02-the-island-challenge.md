@@ -65,7 +65,7 @@ By the end of this session, the student can:
 ---
 
 #### Activities
-**1. Set the Scene**
+**1. Set the Scene** *(5 minutes)*
 
 Tell the student:
 
@@ -84,7 +84,7 @@ Let the student brainstorm. Common answers include:
 
 ---
 
-**2. The Needs List**
+**2. The Needs List** *(10 minutes)*
 
 Together, make a list of what the island community needs:
 
@@ -104,7 +104,7 @@ Help the student see that without agreements, **conflicts will arise quickly**.
 
 ---
 
-**3. Write the First Rules**
+**3. Write the First Rules** *(10 minutes)*
 
 Ask the student to propose a rule for each need:
 
@@ -141,7 +141,7 @@ By the end of this session, the student can:
 ---
 
 #### Activities
-**1. The Conflict Scenario**
+**1. The Conflict Scenario** *(10 minutes)*
 
 Present a disagreement:
 
@@ -159,7 +159,7 @@ Help them see **both sides** of the argument.
 
 ---
 
-**2. Introduce Compromise**
+**2. Introduce Compromise** *(5 minutes)*
 
 Explain:
 
@@ -179,7 +179,7 @@ Explain that compromise is **not about losing** — it's about finding a solutio
 
 ---
 
-**3. How Should We Decide?**
+**3. How Should We Decide?** *(10 minutes)*
 
 Ask:
 
@@ -262,21 +262,48 @@ This week is all about imagining you're stranded on a deserted island with a gro
 
 ## Core vs. Stretch
 
-**Core (All Learners):**
+**Core:**
 - Identify at least three basic needs a community must address (like food, shelter, and safety).
 - Write or draw at least three rules for their island community.
 - Explain what compromise means and give one example.
 
-**Stretch (Older or Advanced Learners):**
+**Stretch:**
 - Compare different decision-making methods (voting, one leader, group discussion) and argue for the one they think is fairest.
 - Write a full Island Constitution with at least five rules, a decision-making process, and a consequence for rule-breaking.
 - Discuss what happens when a minority disagrees with the majority's decision and how a community can handle that fairly.
 
 ---
 
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- Focus on drawing the island and its rules rather than writing a constitution. A picture of the island with labeled rules is a great output.
+- Limit the Needs List to three or four items. Keep the fish-sharing scenario but guide toward one clear compromise rather than exploring all options.
+- Use sentence starters for the Island Agreement: *"Our community will…"* and *"If someone breaks a rule, we will…"*
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Challenge them to write a full Island Constitution with a preamble, at least five rules, and a process for changing rules.
+- In the conflict scenario, ask: *"What happens when the majority's rule hurts the minority? How could your island prevent that?"*
+- Introduce the idea of a **constitution vs. ordinary rules** — some rules are harder to change than others. Why might that be useful?
+:::
+
+---
+
+## Discussion Norms for This Week
+
+This week's conflict scenarios may surface real disagreements. Before the fish-sharing debate, set simple ground rules:
+
+- **Listen before you respond.** Let the other person finish their idea.
+- **Say "I think…because…"** — give a reason, not just a feeling.
+- **It's okay to disagree.** The goal is to understand, not to win.
+- **Try to restate the other person's idea before arguing against it.** ("So you're saying…")
+
+---
+
 ## Offline Option
 
-:::info
+:::info Offline Alternative
 This lesson is naturally hands-on and works perfectly offline. Use large paper or a whiteboard to brainstorm survival needs, write island rules on index cards or sticky notes, and hold the conflict discussion verbally. The Island Constitution can be written or drawn on poster board — no internet or devices needed.
 :::
 
@@ -287,9 +314,7 @@ Connect the island scenario to your learner's real world. Ask: "What agreements 
 
 ---
 
-## Facilitator Notes
-
-:::caution
+:::caution Facilitator Notes
 - This week's magic comes from letting kids struggle with real decisions. Resist the urge to give them the "right" rules — the learning happens in the negotiation and trade-offs.
 - The fish-sharing conflict scenario can spark strong feelings about fairness. Let kids disagree and talk it through. There is no single correct answer, and that's the point.
 - If working with siblings or a small group, disagreements may get personal. Gently redirect by reminding them they're playing roles as island founders, not arguing about real-life grievances.

@@ -277,16 +277,48 @@ Your local government is the team of people who take care of your town — they 
 ---
 
 ## Check for Understanding
-1. What are three things your local government is responsible for?
-2. How is a mayor similar to — and different from — the President of the United States?
-3. Why do communities collect taxes? What would happen if they didn't?
-4. If you could attend a city council meeting and ask one question, what would it be?
+- What are three things your local government is responsible for?
+- How is a mayor similar to — and different from — the President of the United States?
+- Why do communities collect taxes? What would happen if they didn't?
+- If you could attend a city council meeting and ask one question, what would it be?
 
 ---
 
 ## Core vs. Stretch
 - **Core:** Identify the main roles in local government (mayor, city council, school board) and explain how local government affects daily life. Complete the budget activity.
 - **Stretch:** Research your own local government officials by name, find a recent meeting agenda, and compare your local structure to the federal three-branch model.
+
+---
+
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- Keep the org chart simple — Mayor, City Council, and School Board are enough. Skip department-level details.
+- For the budget game, reduce the number of items to 4–5 and the budget to a rounder number (like $50 total needed, $40 available).
+- Focus the "Draw Your Local Government" activity on labeling just three parts: "Who makes the rules," "Who carries them out," and "Who runs the schools."
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Add the full budget game with all six items and the $10 shortfall.
+- Challenge them to research the actual budget of your city or town — even a rough number from the city website makes the concept real.
+- Ask: *"If you could attend one city council meeting, what issue would you want them to discuss? Why?"*
+- For the independent session, have them locate the actual meeting schedule for your local governing body and read at least one agenda item.
+:::
+
+---
+
+## 🔍 Civic Inquiry Spotlight: Who Actually Decided That?
+
+When you hear someone say "The city should fix that!" or "Why doesn't the mayor do something?" — practice checking who is actually responsible:
+
+**Example claim:** *"The mayor closed our neighborhood pool."*
+
+1. **What is the claim?** The mayor personally closed the pool.
+2. **Is that how it works?** In most cities, the city council votes on budget decisions. The mayor may have proposed the cut or signed off on it, but the council voted.
+3. **Where can I check?** City council meeting minutes — they're public records.
+4. **Key question:** *"Did one person decide this, or was it a group decision following a process?"*
+
+**This week's skill:** When someone blames a single person for a government decision, ask: *"Who actually voted on this, and what was the process?"*
 
 ---
 

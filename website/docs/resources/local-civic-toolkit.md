@@ -2,18 +2,18 @@
 sidebar_position: 27
 sidebar_label: "Local Civic Research Toolkit"
 title: "Local Civic Research Toolkit"
-description: "Templates and worksheets to help learners investigate their own community's civic structure."
+description: "Research guides and activities to help learners investigate their own community's civic structure."
 ---
 
 # Local Civic Research Toolkit
 
-These printable templates and worksheets help learners investigate how their own community is governed. Print them out, grab a pencil, and start exploring!
+These research guides help learners investigate how their own community is governed. Grab a pencil and a notebook, and start exploring!
 
 > **For Facilitators:** These resources are designed for local adaptation. Every community is different — encourage learners to fill in what applies to their town, city, or county. Where a template doesn't quite fit, have students cross out what doesn't apply and write in what does.
 
 ---
 
-## 1. My Community Officials Worksheet
+## 1. My Community Officials Research Guide
 
 **Directions:** Use your town or city's official website, your state legislature's website, or your local library to find out who represents you. Fill in each row below. It's okay if some rows don't apply to your community — just write "N/A."
 
@@ -430,4 +430,4 @@ _____________________________________________________________________________
 
 ---
 
-> **Facilitator Note:** These templates are designed to be adapted to your local context. Feel free to modify column headers, add local officials or agencies, or adjust language for your learners' age group. If you use these templates in your classroom or program, consider sharing what worked — community feedback helps make this curriculum better for everyone.
+> **Facilitator Note:** These guides are designed to be adapted to your local context. Feel free to modify column headers, add local officials or agencies, or adjust language for your learners' age group. If you use these activities in your classroom or program, consider sharing what worked — community feedback helps make this curriculum better for everyone.

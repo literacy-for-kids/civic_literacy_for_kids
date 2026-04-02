@@ -283,21 +283,48 @@ This week is all about the big deal between people and their community — calle
 
 ## Core vs. Stretch
 
-**Core (All Learners):**
+**Core:**
 - Match at least three rights to their corresponding responsibilities using the two-column chart.
 - Explain the social contract in their own words using a simple example from their life.
 - Create a personal social contract with at least three rights and three responsibilities.
 
-**Stretch (Older or Advanced Learners):**
+**Stretch:**
 - Discuss what people can or should do when the government fails to protect their rights.
 - Compare two types of fairness (equal vs. equitable) and explain when each one applies using real examples.
 - Write a "Fairness Statement" for their school or family that defines what fairness means and how disagreements should be resolved.
 
 ---
 
+## Adapting for Different Ages
+
+:::tip For Younger Learners (Ages ~8–9)
+- For the Two-Way Street chart, start with just three rows and use familiar examples (school, home, playground).
+- In the Fairness Test, use thumbs-up / thumbs-down instead of written responses. Accept one-sentence verbal explanations.
+- For the personal social contract, three rights and three responsibilities is plenty. Drawing is fine.
+:::
+
+:::tip For Older Learners (Ages ~10–12)
+- Introduce the equal vs. equitable distinction more fully (Session 2, Activity 2). Ask them to find a real-world example of each.
+- Challenge them to write a "Fairness Statement" for their school — a paragraph defining what fairness means and how disagreements should be handled.
+- Ask: *"What should citizens do when the government breaks its side of the social contract?"* This previews the checks-and-balances ideas coming in Unit 2.
+:::
+
+---
+
+## Discussion Norms for This Week
+
+The fairness scenarios in Session 2 may spark strong feelings. Before starting, remind learners:
+
+- **There isn't always one right answer about fairness.** People can disagree and both have good reasons.
+- **Explain your reasoning:** "I think this is fair because…" or "I think this is unfair because…"
+- **Separate the feeling from the analysis:** It's okay to feel something is unfair. Now let's look at *why* it feels that way.
+- **Listen for the other person's concern.** Even if you disagree, try to understand what matters to them.
+
+---
+
 ## Offline Option
 
-:::info
+:::info Offline Alternative
 This lesson needs no technology at all. Draw the two-column Rights vs. Responsibilities chart on paper or a whiteboard. Run the Fairness Test scenarios as a verbal discussion or a thumbs-up/thumbs-down activity. For the independent session, the learner can write or draw their personal social contract on paper and sign it at the bottom — no printing or internet needed.
 :::
 
@@ -308,11 +335,9 @@ Ask your learner: "What rights do you have at school? What responsibilities come
 
 ---
 
-## Facilitator Notes
-
-:::caution
-- The social contract can feel abstract for younger learners. Keep it concrete by anchoring every example to their daily life: "You get to go to school for free — that's a right. Showing up and trying your best — that's your responsibility."
-- Some kids may ask, "But I never agreed to this deal!" That's a great observation. Acknowledge that the social contract isn't something you literally sign, and use it as a chance to talk about consent and why communities revisit and update their agreements over time.
-- The fairness scenarios may spark strong opinions. Let kids disagree with each other or with you — the goal is to practice reasoning, not to arrive at one "correct" answer.
-- This is the wrap-up week for Unit 1. Take a few minutes at the end to celebrate what the learner has built: they can now explain why rules exist and why rights come with responsibilities. That's a big deal.
+:::caution Facilitator Notes
+- The social contract can feel abstract. Keep it concrete: "You get to go to school for free — that's a right. Showing up and trying your best — that's your responsibility."
+- Some kids may say, "But I never agreed to this deal!" Great observation. Use it to discuss consent and why communities revisit their agreements over time.
+- The fairness scenarios may spark strong opinions. Let kids disagree — the goal is to practice reasoning, not arrive at one "correct" answer.
+- This is the Unit 1 wrap-up. Celebrate what the learner has built: they can now explain why rules exist and why rights come with responsibilities.
 :::

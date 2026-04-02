@@ -54,7 +54,7 @@ No matter your setting, the core approach is the same: read, discuss, do, and re
 | Material | Notes |
 |---|---|
 | Internet access | Needed for some research activities and external resources; offline alternatives are noted in each week |
-| Printer | Useful for worksheets and the progress tracker, but not required |
+| Printer | Useful for printing lesson pages or student work, but not required |
 | Poster board or large paper | Great for group activities and the Citizen Showcase in Week 18 |
 | Sticky notes | Handy for brainstorming and sorting activities |
 
@@ -255,7 +255,7 @@ You can, but the curriculum works best in sequence. Each unit builds on the one 
 
 ### How do I assess learning without tests?
 
-See the [Assessment Framework](assessment-framework). It uses observation, conversation, and portfolio-based assessment — not quizzes or tests. You'll find unit check-in prompts, self-reflection questions, and a capstone rubric for the Community Patch project.
+See the [Assessment Framework](assessment-framework). It uses observation, conversation, and portfolio-based assessment — not quizzes or tests. You'll find unit check-in prompts, self-reflection questions, and a capstone rubric — all built directly into the curriculum pages.
 
 ### What if I don't know the answer to a question a kid asks?
 

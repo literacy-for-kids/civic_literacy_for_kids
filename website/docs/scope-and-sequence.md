@@ -15,24 +15,24 @@ This one-page map gives parents and educators a quick-reference overview of the 
 
 | Week | Title | Unit | Key Concepts | Skills Practiced | Mental Models Reinforced |
 |------|-------|------|--------------|------------------|--------------------------|
-| 1 | Rules We Already Follow | 1 — Foundations | Rules vs. laws; why groups need agreements | Observing, categorizing, discussion | ① Rules Exist for Reasons |
-| 2 | The Island Challenge | 1 — Foundations | Scarcity, cooperation, self-governance | Creative problem-solving, negotiation | ① Rules Exist for Reasons · ② Rights Come with Responsibilities |
-| 3 | From Families to Nations | 1 — Foundations | Levels of government; how communities scale | Comparing, sequencing, mapping | ① Rules Exist for Reasons · ③ Power Flows from the People |
-| 4 | The Social Contract | 1 — Foundations | Consent of the governed; mutual obligation | Analyzing, persuasive speaking | ② Rights Come with Responsibilities · ③ Power Flows from the People |
-| 5 | The Constitution | 2 — U.S. Government | Purpose of a constitution; the Preamble's goals | Close reading, paraphrasing | ③ Power Flows from the People · ④ Shared Power Prevents Abuse |
-| 6 | Three Branches, One Government | 2 — U.S. Government | Legislative, executive, judicial roles | Diagramming, summarizing | ④ Shared Power Prevents Abuse |
-| 7 | How a Law Is Made | 2 — U.S. Government | Bill-to-law process; committee work | Sequencing, role-playing | ③ Power Flows from the People · ④ Shared Power Prevents Abuse |
-| 8 | Checks and Balances | 2 — U.S. Government | Veto, override, judicial review | Cause-and-effect analysis, debate | ④ Shared Power Prevents Abuse |
-| 9 | Elections and Voting | 2 — U.S. Government | Voting rights; campaigns; informed choice | Evaluating sources, decision-making | ③ Power Flows from the People · ⑤ Participation Keeps Communities Healthy |
-| 10 | Your Town, Your Rules | 3 — Local Community | City councils, mayors, ordinances | Interviewing, note-taking | ③ Power Flows from the People · ⑤ Participation Keeps Communities Healthy |
-| 11 | Schools, Libraries, and Public Services | 3 — Local Community | Taxes, budgets, public goods | Budgeting, prioritizing | ② Rights Come with Responsibilities · ⑤ Participation Keeps Communities Healthy |
-| 12 | Seeing Government in Action | 3 — Local Community | Field observation; connecting lessons to real life | Observing, reflecting, journaling | ① – ⑤ (all models reviewed) |
-| 13 | Diplomacy and Trade (Why Countries Talk) | 4 — Global Connections | Treaties, trade, ambassadors | Comparing perspectives, mapping | ② Rights Come with Responsibilities · ④ Shared Power Prevents Abuse |
-| 14 | Solving Problems Across Borders | 4 — Global Connections | Climate, health, shared challenges; the UN | Collaborative problem-solving, research | ④ Shared Power Prevents Abuse · ⑤ Participation Keeps Communities Healthy |
-| 15 | Spotting Problems Worth Solving | 5 — Civic Action Project | Community needs; defining a problem statement | Observing, questioning, empathy | ⑤ Participation Keeps Communities Healthy |
-| 16 | Research and Plan | 5 — Civic Action Project | Gathering evidence; planning an action step | Research, organizing, goal-setting | ② Rights Come with Responsibilities · ⑤ Participation Keeps Communities Healthy |
-| 17 | Build Your Case | 5 — Civic Action Project | Persuasion; supporting claims with evidence | Persuasive writing, public speaking | ③ Power Flows from the People · ⑤ Participation Keeps Communities Healthy |
-| 18 | Citizen Showcase | 5 — Civic Action Project | Presenting solutions; celebrating civic action | Presenting, giving and receiving feedback | ① – ⑤ (all models applied) |
+| 1 | Rules We Already Follow | 1 — The Logic of Cooperation | Rules vs. laws; why groups need agreements | Observing, categorizing, discussion | ① Rules Exist for Reasons |
+| 2 | The Island Challenge | 1 — The Logic of Cooperation | Scarcity, cooperation, self-governance | Creative problem-solving, negotiation | ① Rules Exist for Reasons · ② Rights Come with Responsibilities |
+| 3 | From Families to Nations | 1 — The Logic of Cooperation | Levels of government; how communities scale | Comparing, sequencing, mapping | ① Rules Exist for Reasons · ③ Power Flows from the People |
+| 4 | The Social Contract | 1 — The Logic of Cooperation | Consent of the governed; mutual obligation | Analyzing, persuasive speaking | ② Rights Come with Responsibilities · ③ Power Flows from the People |
+| 5 | The Constitution | 2 — The Architecture of Government | Purpose of a constitution; the Preamble's goals | Close reading, paraphrasing | ③ Power Flows from the People · ④ Shared Power Prevents Abuse |
+| 6 | Three Branches, One Government | 2 — The Architecture of Government | Legislative, executive, judicial roles | Diagramming, summarizing | ④ Shared Power Prevents Abuse |
+| 7 | How a Law Is Made | 2 — The Architecture of Government | Bill-to-law process; committee work | Sequencing, role-playing | ③ Power Flows from the People · ④ Shared Power Prevents Abuse |
+| 8 | Checks and Balances | 2 — The Architecture of Government | Veto, override, judicial review | Cause-and-effect analysis, debate | ④ Shared Power Prevents Abuse |
+| 9 | Elections and Voting | 2 — The Architecture of Government | Voting rights; campaigns; informed choice | Evaluating sources, decision-making | ③ Power Flows from the People · ⑤ Participation Keeps Communities Healthy |
+| 10 | Your Town, Your Rules | 3 — Your Local Government | City councils, mayors, ordinances | Interviewing, note-taking | ③ Power Flows from the People · ⑤ Participation Keeps Communities Healthy |
+| 11 | Schools, Libraries, and Public Services | 3 — Your Local Government | Taxes, budgets, public goods | Budgeting, prioritizing | ② Rights Come with Responsibilities · ⑤ Participation Keeps Communities Healthy |
+| 12 | Seeing Government in Action | 3 — Your Local Government | Field observation; connecting lessons to real life | Observing, reflecting, journaling | ① – ⑤ (all models reviewed) |
+| 13 | Diplomacy and Trade (Why Countries Talk) | 4 — The Global Community | Treaties, trade, ambassadors | Comparing perspectives, mapping | ② Rights Come with Responsibilities · ④ Shared Power Prevents Abuse |
+| 14 | Solving Problems Across Borders | 4 — The Global Community | Climate, health, shared challenges; the UN | Collaborative problem-solving, research | ④ Shared Power Prevents Abuse · ⑤ Participation Keeps Communities Healthy |
+| 15 | Spotting Problems Worth Solving | 5 — The Community Patch | Community needs; defining a problem statement | Observing, questioning, empathy | ⑤ Participation Keeps Communities Healthy |
+| 16 | Research and Plan | 5 — The Community Patch | Gathering evidence; planning an action step | Research, organizing, goal-setting | ② Rights Come with Responsibilities · ⑤ Participation Keeps Communities Healthy |
+| 17 | Build Your Case | 5 — The Community Patch | Persuasion; supporting claims with evidence | Persuasive writing, public speaking | ③ Power Flows from the People · ⑤ Participation Keeps Communities Healthy |
+| 18 | Citizen Showcase | 5 — The Community Patch | Presenting solutions; celebrating civic action | Presenting, giving and receiving feedback | ① – ⑤ (all models applied) |
 | B1 | Understanding Courts | Bonus | Court structure; rights of the accused | Vocabulary building, sequencing | ① Rules Exist for Reasons · ④ Shared Power Prevents Abuse |
 | B2 | The Mock Trial | Bonus | Evidence, arguments, due process | Role-playing, critical thinking, debate | ② Rights Come with Responsibilities · ④ Shared Power Prevents Abuse |
 
