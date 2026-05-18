@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import {createRequire} from 'module';
 
 const require = createRequire(import.meta.url);
-const navbarItems = require('literacy-site-theme/navbarItems');
+const {hub, curricula} = require('literacy-site-theme/ecosystem');
 const footerConfig = require('literacy-site-theme/footerConfig');
 
 /** @type {import('@docusaurus/types').Config} */
@@ -117,7 +117,18 @@ const config = {
             position: 'left',
             label: 'Curriculum',
           },
-          ...navbarItems,
+          {
+            type: 'dropdown',
+            label: 'Literacy for Kids',
+            position: 'left',
+            items: [
+              {label: 'Hub', href: hub.href},
+              ...curricula.map(c => ({
+                label: c.label.replace(' Literacy', ''),
+                href: c.href,
+              })),
+            ],
+          },
           {
             href: 'https://github.com/literacy-for-kids/civic_literacy_for_kids',
             label: 'GitHub',

@@ -1,5 +1,11 @@
 // @ts-check
 
+import {createRequire} from 'module';
+
+const require = createRequire(import.meta.url);
+const {hub, curricula} = require('literacy-site-theme/ecosystem');
+const currentSiteHref = 'https://literacy-for-kids.github.io/civic_literacy_for_kids/';
+
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   curriculumSidebar: [
@@ -91,36 +97,10 @@ const sidebars = {
       label: 'Explore Other Literacies',
       collapsed: true,
       items: [
-        {
-          type: 'link',
-          label: 'Literacy for Kids Hub',
-          href: 'https://literacy-for-kids.github.io/literacy_for_kids/',
-        },
-        {
-          type: 'link',
-          label: 'Decision Literacy',
-          href: 'https://literacy-for-kids.github.io/decision_literacy_for_kids/',
-        },
-        {
-          type: 'link',
-          label: 'Computer Literacy',
-          href: 'https://literacy-for-kids.github.io/computer_literacy_for_kids/',
-        },
-        {
-          type: 'link',
-          label: 'Media Literacy',
-          href: 'https://literacy-for-kids.github.io/media_literacy_for_kids/',
-        },
-        {
-          type: 'link',
-          label: 'Financial Literacy',
-          href: 'https://literacy-for-kids.github.io/financial_literacy_for_kids/',
-        },
-        {
-          type: 'link',
-          label: 'Civic Literacy',
-          href: 'https://literacy-for-kids.github.io/civic_literacy_for_kids/',
-        },
+        {type: 'link', label: hub.label, href: hub.href},
+        ...curricula
+          .filter(c => c.href !== currentSiteHref)
+          .map(c => ({type: 'link', label: c.label, href: c.href})),
       ],
     },
     'license',
