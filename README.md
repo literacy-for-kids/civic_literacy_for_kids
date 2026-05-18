@@ -1,6 +1,7 @@
 # Civic Literacy for Kids
 
-![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green)
+![Content License](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-green)
+![Code License](https://img.shields.io/badge/code-MIT-blue)
 ![Built with Docusaurus](https://img.shields.io/badge/site-Docusaurus-blue)
 
 A structured, nonpartisan **civic literacy curriculum** for ages 8–12 that teaches young learners how communities organize, how governments work, and how citizens participate — through exploration, discussion, and real-world projects.
@@ -83,7 +84,13 @@ Contributions that improve the curriculum are welcome. Examples include:
 
 ## License
 
-This curriculum is released under the **CC BY-NC-SA 4.0** license. You are free to use, adapt, and share it for non-commercial purposes, with attribution, under the same license.
+This project uses dual licensing:
+- Code (JavaScript, CSS, configuration, build scripts):
+  <a href="./LICENSE-CODE">MIT License</a>
+- Curriculum content (Markdown documents under `website/docs/`):
+  <a href="./LICENSE-CONTENT">CC BY-NC-SA 4.0</a>
+
+You are free to use, adapt, and share the curriculum content for non-commercial purposes, with attribution, and under the same license. The site code can be reused under MIT.
 
 ---
 
