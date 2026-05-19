@@ -320,3 +320,7 @@ Think about the rules in your own household, school, or neighborhood. What local
 - If a child brings up a rule that genuinely seems unfair, take it seriously. Validating their critical thinking builds trust and keeps them engaged.
 - Keep the tone curious and playful. This week is about discovery, not discipline.
 :::
+
+## Preview of Next Week
+
+Next week, students take on the Island Challenge — designing rules for a brand-new community from scratch and discovering through negotiation and trade-offs exactly why cooperation requires shared agreements.

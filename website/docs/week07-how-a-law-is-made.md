@@ -350,3 +350,7 @@ Draw the bill-to-law flowchart on paper or a whiteboard. Use the bike helmet law
 - Kids may ask "why does it take so long to make a law?" This is a great teaching moment — the many steps exist on purpose to prevent bad or unfair laws from being rushed through.
 - Encourage the learner to argue for the side they disagree with during the debate activity. This builds the crucial skill of understanding different perspectives.
 :::
+
+## Preview of Next Week
+
+Next week, students investigate how the three branches check each other's power and run a simulation to discover what happens when those checks break down.

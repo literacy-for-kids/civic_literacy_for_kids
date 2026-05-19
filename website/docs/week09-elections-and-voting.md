@@ -400,3 +400,7 @@ The mock election is the heart of this lesson and works perfectly offline. Prepa
 - **The Electoral College can be confusing.** A brief mention is enough for younger learners. Use the "For Curious Learners" tip box for older kids. Present it as a system people have different opinions about, not as good or bad.
 - **End on an empowering note.** Kids can't vote yet, but they can learn, speak up, and be ready.
 :::
+
+## Preview of Next Week
+
+Next week, students explore local government — the level of government closest to their daily life — and make real budget decisions as a junior city council trying to balance community needs.

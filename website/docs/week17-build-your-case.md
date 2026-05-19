@@ -352,3 +352,7 @@ Writing your proposal and practicing your presentation are naturally offline act
 - During the practice run, focus your feedback on clarity and content, not on style or polish. Ask questions like "What did you mean by that part?" rather than "Stand up straighter."
 - Remind students that real civic advocates aren't perfect speakers — they're people who care enough to show up and try. That's what matters.
 :::
+
+## Preview of Next Week
+
+Next week is the Citizen Showcase — students present their Community Patch proposals to a real audience, answer questions, and reflect on what they've learned about being an active, informed citizen.

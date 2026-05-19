@@ -354,3 +354,7 @@ Public services look different in every community, and this week is a great chan
 - **The budget activity works best when there's no "right" answer.** Resist the urge to steer the learner toward your preferred choices. The learning is in the reasoning, not the result.
 - **Connect back to Week 10.** Remind the learner that the city council and school board are the people who make these public service decisions — and that citizens have a voice in the process.
 :::
+
+## Preview of Next Week
+
+Next week, students see government in action — learning how citizens interact with local government through attending meetings, writing letters, and giving public comment, then practicing those skills themselves.

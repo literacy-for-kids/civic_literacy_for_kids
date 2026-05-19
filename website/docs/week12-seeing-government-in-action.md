@@ -365,3 +365,7 @@ This week is all about connecting to your actual local government, so take the t
 - **Public comment practice can feel awkward.** That's normal — it's hard for adults too. Praise the effort, not the polish.
 - **If the student wants to actually send the letter, help them.** Many officials respond to letters from young people, and a real reply can be a powerful civic experience.
 :::
+
+## Preview of Next Week
+
+Next week, students explore why countries talk to each other — investigating diplomacy, treaties, and trade — and negotiate their own international agreements in a hands-on Trade Game.

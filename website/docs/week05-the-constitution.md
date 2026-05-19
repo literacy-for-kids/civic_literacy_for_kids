@@ -335,3 +335,7 @@ Print or copy out a simplified version of the Preamble and the Bill of Rights be
 - Don't try to cover the entire Constitution. Focus on two big ideas: (1) it sets up how government works, and (2) the Bill of Rights limits what the government can do to individuals.
 - Let kids express strong opinions about which rights matter most. There is no wrong answer — the goal is to get them thinking about why rights exist.
 :::
+
+## Preview of Next Week
+
+Next week, students discover how the U.S. government divides power into three branches — legislative, executive, and judicial — and explore why separation of power is the key protection against unfair rule.

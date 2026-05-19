@@ -402,3 +402,7 @@ International connections are everywhere, even in your own neighborhood — you 
 - **The Trade Game works best when you play along.** Take on a country's role and negotiate genuinely — kids learn more when the activity feels real.
 - **Some learners may notice trade isn't always fair.** Great observation. Connect it to why trade agreements and organizations like the WTO exist — to create fairer rules.
 :::
+
+## Preview of Next Week
+
+Next week, students tackle the global challenges no single country can solve alone — from climate change to disease to refugee crises — and explore how international cooperation makes solutions possible.

@@ -348,3 +348,7 @@ Use the three-branch diagram from Week 6 as your starting point and add arrows s
 - If students ask about real political situations, keep answers focused on the process, not people or parties.
 - Remind learners that citizens are part of checks and balances too. Voting, speaking up, and staying informed all hold government accountable.
 :::
+
+## Preview of Next Week
+
+Next week, students discover how elections and voting work — tracing how the right to vote expanded over time and running their own mock election to see how votes translate into winners.

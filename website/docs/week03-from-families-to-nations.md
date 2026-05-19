@@ -314,3 +314,7 @@ Ask your learner: "Who is the mayor of our town?" or "Do you know who is on our 
 - If a child asks about unfair leaders or broken governments, acknowledge it: "That's an important question. Part of understanding government is learning what to do when it isn't working."
 - Keep the storytelling conversational. You don't need to be a history expert — the goal is showing that government grew from the same cooperation they practiced on their island.
 :::
+
+## Preview of Next Week
+
+Next week, students examine the Social Contract — the two-way agreement between citizens and government — and debate fairness scenarios that reveal how rights and responsibilities are always linked.

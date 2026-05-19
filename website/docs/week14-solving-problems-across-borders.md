@@ -366,3 +366,7 @@ Global issues might feel far away, but they connect to your community in real wa
 - **The free rider problem can frustrate kids with a strong sense of fairness.** Use that energy — ask them to brainstorm solutions, just like international negotiators do.
 - **This wraps up Unit 4.** Look back at the arc: local government (Weeks 10–12) to the global stage (Weeks 13–14). The same cooperation principles scale from neighborhoods to the planet.
 :::
+
+## Preview of Next Week
+
+Next week, Phase 5 begins: students learn to observe their community with a citizen's eye — identifying real, local problems worth solving and selecting the one they will work on for the final project.
