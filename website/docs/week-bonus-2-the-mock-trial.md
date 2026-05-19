@@ -22,7 +22,7 @@ The big idea:
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
 - If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
 - The independent session works best after the learner has already explored the main idea with you once.
@@ -35,7 +35,7 @@ The big idea:
 - [Independent Session](#independent-session)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Decide how many participants you have. The mock trial can work with:
@@ -49,7 +49,7 @@ The big idea:
 :::
 
 :::tip Teaching Mindset
-The mock trial is a **group exercise**. If you're working one-on-one, the caregiver and student trade roles. If in a classroom, assign roles and let students own them. The goal isn't a perfect trial — it's **experiencing the process** and understanding why it works the way it does.
+The mock trial is a **group exercise**. If you're working one-on-one, the facilitator and student trade roles. If in a classroom, assign roles and let students own them. The goal isn't a perfect trial — it's **experiencing the process** and understanding why it works the way it does.
 :::
 
 ---
@@ -250,7 +250,7 @@ Your case should be fair to both sides — a good mock trial is one where reason
 
 **Option 3: Real Court Observation**
 
-With a caregiver's help, watch a real court proceeding. Options:
+With a facilitator's help, watch a real court proceeding. Options:
 - Many courts allow public observation (check your local courthouse)
 - Watch clips from [C-SPAN](https://www.c-span.org/) of Supreme Court oral arguments
 - Look for recorded proceedings on YouTube from real courts
@@ -318,7 +318,7 @@ This week, you run your own courtroom! You take on roles like judge, lawyer, wit
 ## Adapting for Different Ages
 
 :::tip For Younger Learners (Ages ~8–9)
-- Simplify the roles: one person argues "Alex did it," the other argues "We're not sure." The caregiver acts as judge.
+- Simplify the roles: one person argues "Alex did it," the other argues "We're not sure." The facilitator acts as judge.
 - Shorten the trial: skip formal opening/closing statements and just have each side explain their argument in 1–2 minutes, then discuss.
 - Focus the debrief on one question: "Do you think there was enough proof? Why or why not?"
 - The concept of "beyond a reasonable doubt" can be introduced simply: "Are you really, truly sure — or just guessing?"

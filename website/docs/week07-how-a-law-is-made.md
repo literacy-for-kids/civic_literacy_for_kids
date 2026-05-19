@@ -20,7 +20,7 @@ The big idea:
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
 - If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
 - The independent session works best after the learner has already explored the main idea with you once.
@@ -33,7 +33,7 @@ The big idea:
 - [Independent Session](#independent-session)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Prepare a whiteboard or long sheet of paper for drawing the law's path (a flowchart).
@@ -229,7 +229,7 @@ Choose one of these activities:
 
 1. **Create your own bill.** Think of a problem at home, at school, or in your community. Write a bill that proposes a solution. Include: the problem, the proposed rule, who it applies to, and one possible argument against it (and your response).
 
-2. **Trace a real law.** Visit [Congress.gov](https://www.congress.gov/) or ask a caregiver to help you find a recently passed law. Write a short summary: What problem did it solve? Who supported it? How did it change from the original idea?
+2. **Trace a real law.** Visit [Congress.gov](https://www.congress.gov/) or ask a facilitator to help you find a recently passed law. Write a short summary: What problem did it solve? Who supported it? How did it change from the original idea?
 
 3. **Play LawCraft** on [iCivics](https://www.icivics.org/games/lawcraft). After playing, write 3 things you learned about how laws are made.
 

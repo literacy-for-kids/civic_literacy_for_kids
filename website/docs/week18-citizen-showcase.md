@@ -20,7 +20,7 @@ The big idea:
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
 - If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
 - The independent session works best after the learner has already explored the main idea with you once.
@@ -33,7 +33,7 @@ The big idea:
 - [Independent Session](#independent-session)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Arrange the presentation audience (family members, classmates, neighbors, or a video call with willing participants).
@@ -89,7 +89,7 @@ Each student presents their Community Patch proposal.
 - Give one piece of positive feedback ("I thought your evidence about [X] was really strong")
 - Give one piece of constructive feedback ("I wondered about [Y] — could you say more about that?")
 
-If there's only one student, the caregiver is the audience. Be an engaged, supportive, and curious listener.
+If there's only one student, the facilitator is the audience. Be an engaged, supportive, and curious listener.
 
 ---
 
@@ -201,7 +201,7 @@ Discuss concrete next steps:
 
 **About your Community Patch proposal:**
 
-> "Your proposal doesn't have to stay on paper. With your caregiver's help, you could actually send it to the right person. Many officials respond to young people — and some proposals do lead to real change."
+> "Your proposal doesn't have to stay on paper. With your facilitator's help, you could actually send it to the right person. Many officials respond to young people — and some proposals do lead to real change."
 
 It's your choice. But the option is there.
 

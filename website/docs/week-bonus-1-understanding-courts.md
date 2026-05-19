@@ -22,7 +22,7 @@ The big idea:
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
 - If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
 - The independent session works best after the learner has already explored the main idea with you once.
@@ -35,7 +35,7 @@ The big idea:
 - [Independent Session](#independent-session)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Review the basic structure of the court system: local/municipal courts → state courts → federal courts → Supreme Court.

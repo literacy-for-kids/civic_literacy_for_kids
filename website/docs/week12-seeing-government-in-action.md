@@ -20,7 +20,7 @@ The big idea:
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
 - If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
 - The independent session works best after the learner has already explored the main idea with you once.
@@ -33,7 +33,7 @@ The big idea:
 - [Independent Session](#independent-session)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Find a recording or summary of a recent city council or school board meeting. Many cities post recordings on YouTube or their websites.
@@ -241,7 +241,7 @@ Remember:
 - Be **specific** — say exactly what you want and why.
 - Be **brief** — officials read many letters. One clear page is better than three rambling ones.
 
-**Bonus:** With a caregiver's help, actually send the letter (email or postal mail). Many officials respond, especially to young people.
+**Bonus:** With a facilitator's help, actually send the letter (email or postal mail). Many officials respond, especially to young people.
 
 ---
 
@@ -288,7 +288,7 @@ Government isn't just something that happens far away — it happens right in yo
 
 ## Core vs. Stretch
 - **Core:** Identify multiple forms of civic participation, practice delivering a public comment, and watch or discuss a government meeting. Write a letter to an elected official (can be unsent).
-- **Stretch:** Actually send the letter (with a caregiver's help), find and read a real meeting agenda from your local government, or attend a public meeting in person or online.
+- **Stretch:** Actually send the letter (with a facilitator's help), find and read a real meeting agenda from your local government, or attend a public meeting in person or online.
 
 ---
 
@@ -304,7 +304,7 @@ Government isn't just something that happens far away — it happens right in yo
 - Run the full 2-minute public comment practice with the four-part structure (introduce, state concern, give reasons, make your ask).
 - Watch 8–10 minutes of a real meeting and fill out the complete observation sheet.
 - Challenge them to find the next upcoming meeting for your local governing body and read the agenda in advance.
-- For the letter activity, encourage them to actually send it (with caregiver help). Discuss: *"What makes a letter persuasive? What would make an official take this seriously?"*
+- For the letter activity, encourage them to actually send it (with facilitator help). Discuss: *"What makes a letter persuasive? What would make an official take this seriously?"*
 :::
 
 ---
