@@ -7,7 +7,7 @@ description: "A complete guide to the 18-week Civic Literacy for Kids program â€
 
 # Curriculum Overview
 
-**Civic Literacy for Kids** is an 18-week curriculum (plus an optional 2-week bonus module) that teaches learners ages 8-12 how communities organize, how governments work, and how citizens participate.
+**Civic Literacy for Kids** is an 18-week curriculum (plus an optional 2-week bonus module) that teaches learners ages 8â€“12 how communities organize, how governments work, and how citizens participate.
 
 The curriculum is built around one guiding message:
 

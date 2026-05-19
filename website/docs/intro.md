@@ -2,7 +2,7 @@
 sidebar_position: 0
 sidebar_label: "Welcome"
 title: "Civic Literacy for Kids"
-description: "A curiosity-driven, nonpartisan curriculum teaching kids ages 8-12 how communities organize, governments work, and citizens participate."
+description: "A curiosity-driven, nonpartisan curriculum teaching kids ages 8–12 how communities organize, governments work, and citizens participate."
 slug: /intro
 ---
 
@@ -12,7 +12,7 @@ slug: /intro
 
 Many children grow up in communities without understanding how decisions are made, how laws work, or how they can participate. This curriculum changes that — not through memorization, but through exploration, discussion, and real-world projects.
 
-Over 18 weeks (plus an optional bonus module), students ages 8-12 discover:
+Over 18 weeks (plus an optional bonus module), students ages 8–12 discover:
 
 - Why communities need rules and agreements
 - How the U.S. government is structured and why it works the way it does
