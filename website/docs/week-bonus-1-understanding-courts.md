@@ -1,11 +1,11 @@
 ---
 sidebar_position: 21
-sidebar_label: "Bonus 1: Understanding Courts"
-title: "Bonus Week 1: Understanding Courts and the Justice System"
+sidebar_label: "Optional: Understanding Courts"
+title: "Optional Week 1: Understanding Courts and the Justice System"
 description: "Learn how the court system works — from local courts to the Supreme Court — and how justice is decided."
 ---
 
-# Bonus Week 1: Understanding Courts and the Justice System  
+# Optional Week 1: Understanding Courts and the Justice System  
 *Where Disputes Are Settled and Rights Are Protected*
 
 You've learned about the three branches of government. You know the judicial branch interprets the laws.

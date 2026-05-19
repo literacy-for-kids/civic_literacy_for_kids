@@ -66,7 +66,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Bonus: The Justice System',
+      label: 'Optional: The Justice System',
       collapsed: true,
       items: [
         'week-bonus-1-understanding-courts',

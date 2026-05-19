@@ -1,11 +1,11 @@
 ---
 sidebar_position: 22
-sidebar_label: "Bonus 2: The Mock Trial"
-title: "Bonus Week 2: The Mock Trial"
+sidebar_label: "Optional: The Mock Trial"
+title: "Optional Week 2: The Mock Trial"
 description: "Put your justice system knowledge into action — plan and run a mock trial with real roles, arguments, and a verdict."
 ---
 
-# Bonus Week 2: The Mock Trial  
+# Optional Week 2: The Mock Trial  
 *Justice in Action*
 
 Last week, you learned how the court system works — the roles, the rights, and the rules.
