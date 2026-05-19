@@ -332,3 +332,7 @@ The Community Walk is already a hands-on, offline activity — that's a strength
 - Some kids may struggle to notice problems at first. Give them the observation prompts from the Community Walk and model what it looks like to look at a familiar place with fresh eyes.
 - Younger learners (ages 8–9) may need you to walk with them and help them put their observations into words. That's perfectly fine — the goal is the process.
 :::
+
+## Preview of Next Week
+
+Next week, students dive deep into their chosen problem — researching the facts, exploring existing solutions, and drafting a full Community Patch proposal with a clear ask and supporting evidence.

@@ -348,3 +348,7 @@ This week is especially important to adapt to your own community. Every local go
 - **Taxes can be a sensitive topic in some households.** Keep the discussion focused on the concept (pooling resources for shared services) rather than on whether taxes are too high or too low.
 - **If you can't find your local government's website,** check with your public library — librarians are excellent resources for local civic information.
 :::
+
+## Preview of Next Week
+
+Next week, students investigate the public services their community provides — schools, libraries, parks, and more — and discover how citizens help decide which services exist and who pays for them.

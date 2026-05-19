@@ -341,3 +341,7 @@ Ask your learner: "What rights do you have at school? What responsibilities come
 - The fairness scenarios may spark strong opinions. Let kids disagree — the goal is to practice reasoning, not arrive at one "correct" answer.
 - This is the Unit 1 wrap-up. Celebrate what the learner has built: they can now explain why rules exist and why rights come with responsibilities.
 :::
+
+## Preview of Next Week
+
+Next week, students explore the U.S. Constitution and the Bill of Rights — learning why the country needed a founding agreement and which specific rights it protects for every person.

@@ -330,3 +330,7 @@ Draw the three-branch diagram on a whiteboard or large sheet of paper. Use the s
 - If students ask about specific people in government, keep answers brief and nonpartisan. The goal is understanding the structure, not the personalities.
 - Some kids may ask "which branch is the most powerful?" That's a great discussion question with no single right answer — lean into it.
 :::
+
+## Preview of Next Week
+
+Next week, students follow a real idea through every step of becoming a law — from problem identification to Congressional debate to a presidential signature — and stage their own mini-debate along the way.

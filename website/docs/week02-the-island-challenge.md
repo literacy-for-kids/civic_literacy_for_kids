@@ -320,3 +320,7 @@ Connect the island scenario to your learner's real world. Ask: "What agreements 
 - If working with siblings or a small group, disagreements may get personal. Gently redirect by reminding them they're playing roles as island founders, not arguing about real-life grievances.
 - Some kids may want a single leader to decide everything. That's a valid starting point — use it to discuss what happens if that leader is unfair, which naturally leads to the value of shared decision-making.
 :::
+
+## Preview of Next Week
+
+Next week, students trace how cooperation scales from small groups all the way up to nations — exploring why bigger communities need more structure and how the layers of government connect to their everyday life.

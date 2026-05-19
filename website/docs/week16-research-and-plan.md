@@ -331,3 +331,7 @@ If you don't have internet access, you can still do great research! Visit your l
 - If a student can't find much information, help them brainstorm different search terms or suggest a different angle (for example, searching for the type of problem instead of the specific location).
 - Keep the energy up — research can feel tedious at this age. Celebrate each new fact they find and remind them that every piece of evidence makes their proposal stronger.
 :::
+
+## Preview of Next Week
+
+Next week, students write their final proposal and practice presenting it out loud — building the confidence and clarity they'll need to make their case at the Citizen Showcase.
