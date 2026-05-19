@@ -20,7 +20,7 @@ The big idea:
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - You do not need to teach every bullet on the page. Use the learning goal and one or two activities for the session you are teaching today.
 - If time is short, teach one guided session well and leave the rest for later. The lessons are designed to stretch across the week.
 - The independent session works best after the learner has already explored the main idea with you once.
@@ -33,7 +33,7 @@ The big idea:
 - [Independent Session](#independent-session)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Review the student's outline and research from Week 16.
@@ -133,7 +133,7 @@ If evidence is weak, help the student identify what's needed and where to find i
 
 **3. The Clarity Test** *(5 minutes)*
 
-Read the proposal out loud (student reads, caregiver listens).
+Read the proposal out loud (student reads, facilitator listens).
 
 Ask:
 > "If I knew nothing about this problem, would I understand it from your proposal?"
@@ -188,7 +188,7 @@ Write these as **bullet points on index cards or a half-sheet of paper** — not
 
 The student delivers their presentation. Time it (aim for 3-5 minutes).
 
-Feedback guidelines for the caregiver:
+Feedback guidelines for the facilitator:
 
 | What to Notice | Questions to Ask |
 |---------------|-----------------|
