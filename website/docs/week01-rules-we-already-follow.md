@@ -3,6 +3,7 @@ sidebar_position: 3
 sidebar_label: "Week 1: Rules We Already Follow"
 title: "Week 1: Rules We Already Follow"
 description: "Discover why rules exist, explore the rules students already follow every day, and begin thinking about what makes a rule fair or useful."
+slug: /week1
 ---
 
 # Week 1: Rules We Already Follow  
