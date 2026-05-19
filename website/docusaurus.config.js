@@ -5,7 +5,7 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
-import {createRequire} from 'module';
+import {createRequire} from 'node:module';
 
 const require = createRequire(import.meta.url);
 const {hub, curricula} = require('literacy-site-theme/ecosystem');
