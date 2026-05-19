@@ -3,10 +3,11 @@
 ![Content License](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-green)
 ![Code License](https://img.shields.io/badge/code-MIT-blue)
 ![Built with Docusaurus](https://img.shields.io/badge/site-Docusaurus-blue)
+![Curriculum Length](https://img.shields.io/badge/program-18%20weeks-orange)
 
 A structured, nonpartisan **civic literacy curriculum** for ages 8–12 that teaches young learners how communities organize, how governments work, and how citizens participate — through exploration, discussion, and real-world projects.
 
-🌐 View the curriculum website:
+🌐 **View the curriculum website:**  
 https://literacy-for-kids.github.io/civic_literacy_for_kids/
 
 ---
