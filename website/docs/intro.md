@@ -26,6 +26,17 @@ The guiding message of the entire curriculum:
 
 ---
 
+:::note International Learners
+Weeks 1–4 and 10–18 cover civic principles that apply broadly across
+democracies — how communities make rules, why cooperation matters,
+local government, and citizen participation. **Weeks 5–9 are specific
+to the United States government** (the Constitution, three branches,
+lawmaking, and elections). Facilitators outside the U.S. may adapt
+those weeks to their own country's governing structure, or treat them
+as a case study in one democratic system. The concepts transfer even
+if the specific examples don't.
+:::
+
 ## Five Core Mental Models
 
 Every lesson connects back to five ideas that build on each other throughout the course:
