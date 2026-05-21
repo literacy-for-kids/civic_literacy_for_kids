@@ -95,7 +95,7 @@ Not sure where to begin? Use this quick guide:
 
 | If you are… | Start here |
 |---|---|
-| **Brand new and ready to go** | Jump straight into [Week 1: Rules We Already Follow](week01-rules-we-already-follow) |
+| **Brand new and ready to go** | Jump straight into [Week 1: Rules We Already Follow](week01-rules-we-already-follow.md) |
 | **Looking for the big picture first** | Read the [Curriculum Overview](curriculum-overview) for the full program map |
 | **Short on time each week** | See the [Minimum Viable Lesson Guidance](#minimum-viable-lesson-guidance) below |
 | **Wanting to track progress** | Review the [Assessment Framework](assessment-framework) for rubrics and check-ins |

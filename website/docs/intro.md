@@ -115,7 +115,7 @@ The goal is to produce informed, engaged citizens — not to tell them what to b
 
 ## Getting Started
 
-**Ready to begin?** Start with [Week 1: Rules We Already Follow](week01-rules-we-already-follow).
+**Ready to begin?** Start with [Week 1: Rules We Already Follow](week01-rules-we-already-follow.md).
 
 **Want the big picture first?** Read the [Curriculum Overview](curriculum-overview).
 

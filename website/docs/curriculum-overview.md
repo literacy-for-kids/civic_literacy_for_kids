@@ -60,7 +60,7 @@ These mental models are scaffolded — earlier weeks introduce them simply, and 
 
 | Week | Title | Focus |
 |------|-------|-------|
-| 1 | [Rules We Already Follow](week01-rules-we-already-follow) | Why rules exist; discovering the rules you already live by |
+| 1 | [Rules We Already Follow](week01-rules-we-already-follow.md) | Why rules exist; discovering the rules you already live by |
 | 2 | [The Island Challenge](week02-the-island-challenge) | Designing rules from scratch; voting, compromise, and conflict |
 | 3 | [From Families to Nations](week03-from-families-to-nations) | How cooperation scales from small groups to large ones |
 | 4 | [The Social Contract](week04-the-social-contract) | Rights and responsibilities; what we give and what we get |

@@ -5,7 +5,7 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
-import {createRequire} from 'node:module';
+import {createRequire} from 'module';
 
 const require = createRequire(import.meta.url);
 const {hub, curricula} = require('literacy-site-theme/ecosystem');
@@ -42,42 +42,6 @@ const config = {
   },
 
   themes: ['literacy-site-theme'],
-
-  plugins: [
-    function includeLiteracyThemeBabel() {
-      const path = require('path');
-      const themeSrc = path.resolve(
-        path.dirname(require.resolve('literacy-site-theme/package.json')),
-        'src',
-      );
-      return {
-        name: 'include-literacy-theme-babel',
-        configureWebpack(config) {
-          const jsRule = config.module.rules.find(
-            (rule) => rule.test instanceof RegExp && rule.test.test('.jsx'),
-          );
-          if (jsRule && typeof jsRule.exclude === 'function') {
-            const origExclude = jsRule.exclude;
-            jsRule.exclude = (modulePath) => {
-              if (modulePath.includes('literacy-site-theme')) return false;
-              return origExclude(modulePath);
-            };
-          }
-          return {
-            module: {
-              rules: [
-                {
-                  test: /\.[jt]sx?$/,
-                  include: [themeSrc],
-                  type: 'javascript/auto',
-                },
-              ],
-            },
-          };
-        },
-      };
-    },
-  ],
 
   presets: [
     [
