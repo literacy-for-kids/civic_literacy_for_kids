@@ -25,6 +25,10 @@ No special training is required. If you can read and facilitate a conversation, 
 
 ---
 
+:::note Note on Scope
+Unit 2 of this curriculum — **The Architecture of Government (Weeks 5–9)** — uses the United States government as its primary example, covering the Constitution, three branches, Congress, and the Bill of Rights. International users and homeschool families outside the US can adapt those weeks to their own country's structure; the underlying mental models (separation of powers, checks and balances, how laws are made) translate across systems. All other units are not US-specific.
+:::
+
 ## Five Core Mental Models
 
 Every lesson in the curriculum connects to one or more of these five ideas:
