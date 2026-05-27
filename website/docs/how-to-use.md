@@ -59,7 +59,7 @@ No matter your setting, the core approach is the same: read, discuss, do, and re
 | Sticky notes | Handy for brainstorming and sorting activities |
 
 :::info Free External Resources
-This curriculum references several free websites, including [iCivics](https://www.icivics.org), [Ben's Guide to the U.S. Government](https://bensguide.gpo.gov/), and [Congress.gov](https://www.congress.gov/). All are free and publicly available. See the [Curriculum Overview](curriculum-overview) for the full list.
+This curriculum references several free websites, including [iCivics](https://www.icivics.org), [Ben's Guide to the U.S. Government](https://bensguide.gpo.gov/), and [Congress.gov](https://www.congress.gov/). All are free and publicly available. See the [Curriculum Overview](/docs/curriculum-overview) for the full list.
 :::
 
 ## How the Curriculum Is Organized
@@ -95,11 +95,11 @@ Not sure where to begin? Use this quick guide:
 
 | If you are… | Start here |
 |---|---|
-| **Brand new and ready to go** | Jump straight into [Week 1: Rules We Already Follow](week01-rules-we-already-follow.md) |
-| **Looking for the big picture first** | Read the [Curriculum Overview](curriculum-overview) for the full program map |
+| **Brand new and ready to go** | Jump straight into [Week 1: Rules We Already Follow](/docs/week1) |
+| **Looking for the big picture first** | Read the [Curriculum Overview](/docs/curriculum-overview) for the full program map |
 | **Short on time each week** | See the [Minimum Viable Lesson Guidance](#minimum-viable-lesson-guidance) below |
-| **Wanting to track progress** | Review the [Assessment Framework](assessment-framework) for rubrics and check-ins |
-| **Curious about a specific topic** | Browse the [Scope and Sequence](scope-and-sequence) to find the right week |
+| **Wanting to track progress** | Review the [Assessment Framework](/docs/assessment-framework) for rubrics and check-ins |
+| **Curious about a specific topic** | Browse the [Scope and Sequence](/docs/scope-and-sequence) to find the right week |
 
 :::info You Can Start Anywhere (But Sequential Is Best)
 The curriculum builds concepts in order — each week references ideas from earlier weeks. Starting at Week 1 gives learners the strongest foundation. That said, Units 3 and 4 can work as standalone modules if learners already have basic civics knowledge.
@@ -163,7 +163,7 @@ If you're short on time everywhere else, protect Weeks 15–18. This is where le
 - **Use small groups.** Most activities work best with groups of 3–5. Assign roles (reader, recorder, presenter) to keep everyone engaged.
 - **Build in share-out time.** After group work, give 2–3 groups a chance to present. Rotate which groups share each week.
 - **Use the independent session as homework or a station.** If class time is tight, the third session can be assigned as independent work.
-- **Post key vocabulary.** Keep a running word wall with terms from the [Glossary](glossary).
+- **Post key vocabulary.** Keep a running word wall with terms from the [Glossary](/docs/glossary).
 - **Pair with ELA or social studies standards.** The reading, writing, and discussion activities naturally align with language arts objectives.
 
 ### Homeschool (1–3 Students)
@@ -195,7 +195,7 @@ Many lessons in this curriculum can run entirely without internet access. Each w
 
 - **Print research materials in advance.** If a lesson asks learners to look something up, print the relevant pages before the session.
 - **Replace video content with read-alouds.** Where a lesson suggests a video, the same concept is usually covered in the discussion guide.
-- **Use the glossary as a reference tool.** The [Glossary](glossary) can be printed and used as a standalone civics dictionary.
+- **Use the glossary as a reference tool.** The [Glossary](/docs/glossary) can be printed and used as a standalone civics dictionary.
 - **Substitute online simulations with role-play.** iCivics games, for example, can be replaced with the hands-on group activities already built into each week.
 
 :::info Offline-Friendly by Design
@@ -224,7 +224,7 @@ If a conversation heads somewhere unexpected, redirect with curiosity: "Why do y
 
 **Bonus Weeks B1–B2** are optional extensions that cover the justice system:
 
-- [Bonus Week 1: Understanding Courts and the Justice System](week-bonus-1-understanding-courts) — How courts work, types of courts, and the role of judges and juries.
+- [Bonus Week 1: Understanding Courts and the Justice System](/docs/week-bonus-1-understanding-courts) — How courts work, types of courts, and the role of judges and juries.
 - [Bonus Week 2: The Mock Trial](week-bonus-2-the-mock-trial) — A hands-on simulation where learners run their own trial.
 
 :::info When to Use the Bonus Module
@@ -255,7 +255,7 @@ You can, but the curriculum works best in sequence. Each unit builds on the one 
 
 ### How do I assess learning without tests?
 
-See the [Assessment Framework](assessment-framework). It uses observation, conversation, and portfolio-based assessment — not quizzes or tests. You'll find unit check-in prompts, self-reflection questions, and a capstone rubric — all built directly into the curriculum pages.
+See the [Assessment Framework](/docs/assessment-framework). It uses observation, conversation, and portfolio-based assessment — not quizzes or tests. You'll find unit check-in prompts, self-reflection questions, and a capstone rubric — all built directly into the curriculum pages.
 
 ### What if I don't know the answer to a question a kid asks?
 

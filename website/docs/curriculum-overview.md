@@ -64,51 +64,51 @@ These mental models are scaffolded — earlier weeks introduce them simply, and 
 
 | Week | Title | Focus |
 |------|-------|-------|
-| 1 | [Rules We Already Follow](week01-rules-we-already-follow.md) | Why rules exist; discovering the rules you already live by |
-| 2 | [The Island Challenge](week02-the-island-challenge) | Designing rules from scratch; voting, compromise, and conflict |
-| 3 | [From Families to Nations](week03-from-families-to-nations) | How cooperation scales from small groups to large ones |
-| 4 | [The Social Contract](week04-the-social-contract) | Rights and responsibilities; what we give and what we get |
+| 1 | [Rules We Already Follow](/docs/week1) | Why rules exist; discovering the rules you already live by |
+| 2 | [The Island Challenge](/docs/week02-the-island-challenge) | Designing rules from scratch; voting, compromise, and conflict |
+| 3 | [From Families to Nations](/docs/week03-from-families-to-nations) | How cooperation scales from small groups to large ones |
+| 4 | [The Social Contract](/docs/week04-the-social-contract) | Rights and responsibilities; what we give and what we get |
 
 ### Unit 2: The Architecture of Government (Weeks 5–9)
 
 | Week | Title | Focus |
 |------|-------|-------|
-| 5 | [The Constitution](week05-the-constitution) | Our founding document; the Preamble and the Bill of Rights |
-| 6 | [Three Branches, One Government](week06-three-branches-one-government) | Legislative, executive, and judicial branches |
-| 7 | [How a Law Is Made](week07-how-a-law-is-made) | A bill's journey from idea to law; debate and compromise |
-| 8 | [Checks and Balances](week08-checks-and-balances) | How branches keep each other honest; the citizens' role |
-| 9 | [Elections and Voting](week09-elections-and-voting) | How the people choose their leaders; voting rights history |
+| 5 | [The Constitution](/docs/week05-the-constitution) | Our founding document; the Preamble and the Bill of Rights |
+| 6 | [Three Branches, One Government](/docs/week06-three-branches-one-government) | Legislative, executive, and judicial branches |
+| 7 | [How a Law Is Made](/docs/week07-how-a-law-is-made) | A bill's journey from idea to law; debate and compromise |
+| 8 | [Checks and Balances](/docs/week08-checks-and-balances) | How branches keep each other honest; the citizens' role |
+| 9 | [Elections and Voting](/docs/week09-elections-and-voting) | How the people choose their leaders; voting rights history |
 
 ### Unit 3: Your Local Government (Weeks 10–12)
 
 | Week | Title | Focus |
 |------|-------|-------|
-| 10 | [Your Town, Your Rules](week10-your-town-your-rules) | Mayors, city councils, school boards; taxes and budgets |
-| 11 | [Schools, Libraries, and Public Services](week11-schools-libraries-and-public-services) | Public services; how communities decide what to fund |
-| 12 | [Seeing Government in Action](week12-seeing-government-in-action) | Attending meetings, writing letters, speaking up |
+| 10 | [Your Town, Your Rules](/docs/week10-your-town-your-rules) | Mayors, city councils, school boards; taxes and budgets |
+| 11 | [Schools, Libraries, and Public Services](/docs/week11-schools-libraries-and-public-services) | Public services; how communities decide what to fund |
+| 12 | [Seeing Government in Action](/docs/week12-seeing-government-in-action) | Attending meetings, writing letters, speaking up |
 
 ### Unit 4: The Global Community (Weeks 13–14)
 
 | Week | Title | Focus |
 |------|-------|-------|
-| 13 | [Diplomacy and Trade](week13-why-countries-talk) | Why countries cooperate; treaties, trade, and supply chains |
-| 14 | [Solving Problems Across Borders](week14-solving-problems-across-borders) | Global challenges; the UN Sustainable Development Goals |
+| 13 | [Diplomacy and Trade](/docs/week13-why-countries-talk) | Why countries cooperate; treaties, trade, and supply chains |
+| 14 | [Solving Problems Across Borders](/docs/week14-solving-problems-across-borders) | Global challenges; the UN Sustainable Development Goals |
 
 ### Unit 5: The Community Patch (Weeks 15–18)
 
 | Week | Title | Focus |
 |------|-------|-------|
-| 15 | [Spotting Problems Worth Solving](week15-spotting-problems-worth-solving) | Community walk; identifying real, solvable problems |
-| 16 | [Research and Plan](week16-research-and-plan) | Gathering evidence; planning a realistic solution |
-| 17 | [Build Your Case](week17-build-your-case) | Writing the proposal; practicing the presentation |
-| 18 | [Citizen Showcase](week18-citizen-showcase) | Presenting proposals; reflecting on the full journey |
+| 15 | [Spotting Problems Worth Solving](/docs/week15-spotting-problems-worth-solving) | Community walk; identifying real, solvable problems |
+| 16 | [Research and Plan](/docs/week16-research-and-plan) | Gathering evidence; planning a realistic solution |
+| 17 | [Build Your Case](/docs/week17-build-your-case) | Writing the proposal; practicing the presentation |
+| 18 | [Citizen Showcase](/docs/week18-citizen-showcase) | Presenting proposals; reflecting on the full journey |
 
 ### Bonus Module: The Justice System
 
 | Week | Title | Focus |
 |------|-------|-------|
-| B1 | [Understanding Courts](week-bonus-1-understanding-courts) | Court structure, roles, rights of the accused |
-| B2 | [The Mock Trial](week-bonus-2-the-mock-trial) | Run a simulated trial; experience justice in action |
+| B1 | [Understanding Courts](/docs/week-bonus-1-understanding-courts) | Court structure, roles, rights of the accused |
+| B2 | [The Mock Trial](/docs/week-bonus-2-the-mock-trial) | Run a simulated trial; experience justice in action |
 
 ---
 
