@@ -64,7 +64,7 @@ Every lesson connects back to five ideas that build on each other throughout the
 | **The Community Patch** | 15–18 | Final project: identify a real problem and propose a solution |
 | **Bonus: The Justice System** | B1–B2 | Courts, trials, and the right to fairness |
 
-For the full week-by-week breakdown, see the [Curriculum Overview](curriculum-overview).
+For the full week-by-week breakdown, see the [Curriculum Overview](/docs/curriculum-overview).
 
 ---
 
@@ -115,14 +115,14 @@ The goal is to produce informed, engaged citizens — not to tell them what to b
 
 ## Getting Started
 
-**Ready to begin?** Start with [Week 1: Rules We Already Follow](week01-rules-we-already-follow.md).
+**Ready to begin?** Start with [Week 1: Rules We Already Follow](/docs/week1).
 
-**Want the big picture first?** Read the [Curriculum Overview](curriculum-overview).
+**Want the big picture first?** Read the [Curriculum Overview](/docs/curriculum-overview).
 
-**New to the curriculum?** See [How to Use This Curriculum](how-to-use) for a quick-start guide.
+**New to the curriculum?** See [How to Use This Curriculum](/docs/how-to-use) for a quick-start guide.
 
-**Looking for vocabulary help?** Check the [Glossary](glossary).
+**Looking for vocabulary help?** Check the [Glossary](/docs/glossary).
 
-**Want to track progress?** See the [Assessment Framework](assessment-framework).
+**Want to track progress?** See the [Assessment Framework](/docs/assessment-framework).
 
 **Have feedback?** [Open an issue on GitHub](https://github.com/literacy-for-kids/civic_literacy_for_kids/issues).
