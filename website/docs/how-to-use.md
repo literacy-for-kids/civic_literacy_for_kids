@@ -225,7 +225,7 @@ If a conversation heads somewhere unexpected, redirect with curiosity: "Why do y
 **Bonus Weeks B1–B2** are optional extensions that cover the justice system:
 
 - [Bonus Week 1: Understanding Courts and the Justice System](/docs/week-bonus-1-understanding-courts) — How courts work, types of courts, and the role of judges and juries.
-- [Bonus Week 2: The Mock Trial](week-bonus-2-the-mock-trial) — A hands-on simulation where learners run their own trial.
+- [Bonus Week 2: The Mock Trial](/docs/week-bonus-2-the-mock-trial) — A hands-on simulation where learners run their own trial.
 
 :::info When to Use the Bonus Module
 The bonus module fits naturally after Week 9 (Elections and Voting) or after Week 18 as a capstone extension. It can also stand alone for groups specifically interested in the justice system. There are no prerequisites beyond basic civics vocabulary.
