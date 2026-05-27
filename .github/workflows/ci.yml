@@ -41,6 +41,7 @@ jobs:
           rm -rf ./.lychee-root
           mkdir -p ./.lychee-root/civic_literacy_for_kids
           cp -R ./website/build/. ./.lychee-root/civic_literacy_for_kids/
+          rm -f ./.lychee-root/civic_literacy_for_kids/404.html
           find ./.lychee-root/civic_literacy_for_kids -type f -name '*.html' \
             ! -name 'index.html' ! -name '404.html' | while read -r file; do
             route_dir="${file%.html}"
@@ -50,8 +51,7 @@ jobs:
       - uses: lycheeverse/lychee-action@v2
         with:
           args: >-
-            --root-dir ./.
-            --exclude-path './.lychee-root/civic_literacy_for_kids/404.html'
+            --root-dir ./.lychee-root
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
             --exclude 'https://www.congress.gov/?'
