@@ -1,4 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <rect width="200" height="200" fill="#2e8555"/>
-  <text x="100" y="120" font-family="Arial, sans-serif" font-size="48" fill="white" text-anchor="middle">CL</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Civic Literacy for Kids Logo</title>
+  <desc id="desc">A compact indigo civic literacy icon showing a simplified government building and ballot check mark.</desc>
+
+  <!-- Background badge -->
+  <rect x="12" y="12" width="176" height="176" rx="42" fill="#EEF2FF"/>
+  <rect x="12" y="12" width="176" height="176" rx="42" stroke="#4338CA" stroke-width="8"/>
+
+  <!-- Capitol / civic building roof -->
+  <path d="M48 83L100 51L152 83H48Z"
+        fill="#4338CA" stroke="#4338CA" stroke-width="6" stroke-linejoin="round"/>
+
+  <!-- Roof highlight -->
+  <path d="M75 78L100 63L125 78H75Z" fill="#C7D2FE"/>
+
+  <!-- Building base -->
+  <rect x="52" y="126" width="96" height="17" rx="6" fill="#4338CA"/>
+  <rect x="42" y="145" width="116" height="18" rx="9" fill="#4338CA"/>
+
+  <!-- Columns -->
+  <rect x="61" y="88" width="17" height="42" rx="6" fill="#4338CA"/>
+  <rect x="91.5" y="88" width="17" height="42" rx="6" fill="#4338CA"/>
+  <rect x="122" y="88" width="17" height="42" rx="6" fill="#4338CA"/>
+
+  <!-- Column inner highlights -->
+  <path d="M69.5 94V123" stroke="#C7D2FE" stroke-width="4" stroke-linecap="round"/>
+  <path d="M100 94V123" stroke="#C7D2FE" stroke-width="4" stroke-linecap="round"/>
+  <path d="M130.5 94V123" stroke="#C7D2FE" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Ballot box overlay -->
+  <rect x="106" y="106" width="49" height="43" rx="9" fill="#FFFFFF" stroke="#312E81" stroke-width="7"/>
+  <path d="M116 105H145" stroke="#312E81" stroke-width="6" stroke-linecap="round"/>
+  <path d="M119 128L128 137L144 117" stroke="#4338CA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Community / participation dots -->
+  <circle cx="53" cy="54" r="7" fill="#818CF8"/>
+  <circle cx="147" cy="54" r="7" fill="#818CF8"/>
+  <circle cx="41" cy="117" r="6" fill="#818CF8"/>
+  <circle cx="159" cy="117" r="6" fill="#818CF8"/>
 </svg>
