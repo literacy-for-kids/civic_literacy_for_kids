@@ -15,9 +15,29 @@ This page is a quick-reference guide for **kids and the adults who guide them**.
 A list of topics that will be discussed at a meeting. Government meeting agendas are usually published ahead of time so the public knows what's coming.
 *Used in: Week 10, Week 12*
 
+**Accessibility**
+The practice of making information, spaces, tools, and events usable for people with different bodies, senses, languages, learning needs, and ways of communicating.
+*Used in: Week 16, Week 17, Week 18*
+
+**Advocacy**
+Speaking, writing, organizing, or taking action to support a cause, solve a problem, or encourage a change in rules, services, or decisions.
+*Used in: Week 9, Week 12, Week 15, Week 17, Week 18*
+
+**AI-edited**
+Made by a person but changed with an artificial intelligence tool, such as improving a picture, changing a voice, or rewriting part of a message.
+*Used in: Week 9, Week 16, Week 17, Week 18*
+
+**AI-generated**
+Created partly or mostly by an artificial intelligence tool from a prompt, recording, or other input. AI-generated material can be useful, but it still needs to be checked carefully.
+*Used in: Week 9, Week 16, Week 17, Week 18*
+
 **Amendment**
 A change or addition to an official document, especially the Constitution. The first ten amendments to the U.S. Constitution are called the Bill of Rights.
 *Used in: Week 5, Week 8, Week 9*
+
+**Attribution**
+Telling where a fact, quote, image, chart, idea, or tool came from. Attribution helps people be honest about what is theirs and what came from somewhere else.
+*Used in: Week 16, Week 17, Week 18*
 
 **Ballot**
 The form—paper or electronic—that a voter uses to make their choices in an election.
@@ -31,6 +51,10 @@ A written idea for a new law that is presented to Congress or another legislatur
 The first ten amendments to the U.S. Constitution. They protect individual freedoms like free speech, the right to a fair trial, and the right to practice your religion.
 *Used in: Week 5, Week 8, Week 9, Bonus Week 1*
 
+**Bias**
+A tendency to favor one side, point of view, or type of evidence more than another. Everyone has perspectives, so the goal is to notice bias and check what may be missing.
+*Used in: Week 9, Week 16, Week 17, Week 18*
+
 **Branch of government**
 One of the three main parts of the United States government: the legislative branch (makes laws), the executive branch (carries out laws), and the judicial branch (interprets laws).
 *Used in: Week 6, Week 8*
@@ -40,19 +64,23 @@ A plan that shows how much money is available and how it will be spent. Governme
 *Used in: Week 8, Week 10, Week 11, Week 15, Week 16*
 
 **Campaign**
-The organized effort a candidate makes to win an election—giving speeches, meeting voters, making promises, and running advertisements.
+An organized effort to win support for a candidate, a ballot issue, or a cause by using speeches, meetings, signs, advertisements, and other messages.
 *Used in: Week 9*
 
 **Candidate**
 A person who runs for a position in government, such as mayor, governor, or President.
 *Used in: Week 9, Week 15*
 
+**Claim**
+The main point or statement that a message wants you to believe, understand, or act on.
+*Used in: Week 9, Week 12, Week 16, Week 17, Week 18*
+
 **Checks and balances**
 A system that gives each branch of government the power to limit the other branches, so no single branch becomes too powerful.
 *Used in: Week 6, Week 8, Week 9*
 
 **Citizen**
-A person who is a legal member of a country and has both rights and responsibilities in that country.
+A person who is a legal member of a country and has rights and responsibilities in that country. Some people who live in a community are not citizens of that country, but they still take part in many parts of civic life.
 *Used in: Week 3, Week 4, Week 5, Week 6, Week 7, Week 8, Week 9, Week 10, Week 11, Week 12, Week 13, Week 14, Week 15, Week 17, Week 18, Bonus Week 1*
 
 **City council**
@@ -60,12 +88,28 @@ A group of people elected by the community to make decisions and laws for a city
 *Used in: Week 3, Week 9, Week 10, Week 11, Week 12, Week 13, Week 15, Week 18*
 
 **Civic**
-Relating to the duties, rights, and responsibilities of citizens and how communities and governments work together.
+Relating to community life, public decisions, shared responsibilities, and how people and governments work together.
 *Used in: Week 4, Week 9, Week 12, Week 15, Week 18*
 
+**Civic engagement**
+The many ways people help improve community life and public decision-making, such as asking questions, joining projects, writing letters, volunteering, attending meetings, or voting when they are eligible.
+*Used in: Week 12, Week 15, Week 18*
+
+**Civic literacy**
+Understanding how communities and governments work, how public messages shape decisions, and how to think and act responsibly in civic life.
+*Used in: Week 1, Week 9, Week 18*
+
+**Civic message**
+Any message about a shared problem, public decision, service, rule, right, responsibility, or call to action. Civic messages include posters, announcements, speeches, petitions, public notices, and some news stories.
+*Used in: Week 9, Week 12, Week 16, Week 17, Week 18*
+
 **Civic participation**
-All the ways citizens take part in government and community life — voting, attending meetings, writing letters, volunteering, and more.
+All the ways people take part in government and community life — asking questions, attending meetings, writing letters, volunteering, voting when they are eligible, and more.
 *Used in: Week 12, Week 18*
+
+**Civil discussion**
+Talking about a shared problem respectfully, even when people disagree. Civil discussion includes listening, asking questions, giving reasons, and treating people with dignity.
+*Used in: Week 7, Week 9, Week 12, Week 17, Week 18, Bonus Week 2*
 
 **Community**
 A group of people who live in the same area or share something in common, such as a neighborhood, school, or town.
@@ -95,6 +139,10 @@ A place where a judge (and sometimes a jury) listens to both sides of a disagree
 A way of behaving that a group of people has followed for a long time. Customs are not written laws, but people are expected to follow them.
 *Used in: Week 3*
 
+**Deepfake**
+An image, video, or audio recording that has been edited or generated to make it look like a real person said or did something they did not actually say or do.
+*Used in: Week 9, Week 16, Week 17, Week 18*
+
 **Defendant**
 The person who is accused of a crime (in a criminal case) or is being sued (in a civil case). In a trial, the defendant is the one who has to respond to the charges.
 *Used in: Bonus Week 1, Bonus Week 2*
@@ -111,9 +159,17 @@ A system of government in which the people have the power to choose their leader
 The practice of countries talking to each other, negotiating, and solving disagreements peacefully instead of fighting.
 *Used in: Week 13, Week 14*
 
+**Disinformation**
+False or misleading information that someone shares on purpose to confuse, trick, or manipulate people.
+*Used in: Week 9, Week 16, Week 17, Week 18*
+
 **Election**
 An organized event in which people vote to choose leaders or decide on issues.
 *Used in: Week 9, Week 10, Week 12, Week 13, Week 18, Bonus Week 1*
+
+**Evidence**
+Facts, examples, numbers, observations, quotes, or sources that help show whether a claim is strong, weak, or still needs checking.
+*Used in: Week 9, Week 12, Week 16, Week 17, Week 18, Bonus Week 2*
 
 **Executive branch**
 The part of government responsible for carrying out and enforcing laws. At the federal level, it is led by the President.
@@ -132,7 +188,7 @@ A person who benefits from something—like a park or a clean street—without h
 *Used in: Week 11, Week 14*
 
 **Government**
-The system of people and rules that manages a community, state, or country and makes decisions on behalf of the people.
+The system of people, offices, and rules that manages a community, state, or country and makes public decisions.
 *Used in: Week 1, Week 2, Week 3, Week 4, Week 5, Week 6, Week 7, Week 8, Week 9, Week 10, Week 11, Week 12, Week 13, Week 14, Week 18, Bonus Week 1*
 
 **Governor**
@@ -187,9 +243,17 @@ The government closest to where you live—your city, town, or county. It takes 
 The elected leader of a city or town government.
 *Used in: Week 3, Week 9, Week 10, Week 12, Week 13*
 
+**Misinformation**
+False or misleading information that is shared by mistake. It may not be meant to trick people, but it can still cause confusion or harm.
+*Used in: Week 9, Week 16, Week 17, Week 18*
+
 **Norm**
 An unwritten rule or expectation about how people should behave in a group, such as raising your hand before speaking.
 *Used in: Week 12*
+
+**Opinion**
+What a person thinks, feels, or prefers. An opinion can be thoughtful, but it is not the same thing as evidence.
+*Used in: Week 9, Week 16, Week 17, Week 18*
 
 **Ordinance**
 A local law passed by a city council or town board. It only applies to that community — not the whole state or country.
@@ -198,6 +262,14 @@ A local law passed by a city council or town board. It only applies to that comm
 **Petition**
 A written request, often signed by many people, asking the government or a leader to take action on an issue.
 *Used in: Week 8, Week 12, Week 15*
+
+**Perspective**
+The way a person or group understands a situation based on their experiences, goals, needs, role, or point of view.
+*Used in: Week 9, Week 11, Week 16, Week 17, Week 18*
+
+**Persuasion**
+Trying to influence what people think or do by using reasons, feelings, examples, or messages.
+*Used in: Week 9, Week 12, Week 17, Week 18*
 
 **Plaintiff**
 The person who brings a complaint in a civil court case — the one who says "you wronged me" and asks the court to fix it.
@@ -223,6 +295,10 @@ The side of a criminal trial that tries to prove the defendant broke the law. Th
 A time during a government meeting when regular citizens can stand up and share their opinions, usually for 2-3 minutes.
 *Used in: Week 12*
 
+**Public official**
+A person with an official job in government, either elected by voters or appointed to serve in a public role.
+*Used in: Week 10, Week 12, Week 17, Week 18*
+
 **Public good**
 Something that benefits everyone in a community, like a public park, clean air, or a fire department, whether or not each person helped create it.
 *Used in: Week 11, Week 14*
@@ -242,6 +318,10 @@ A plan or set of actions that a government takes to address a community issue. F
 **Public service**
 Work done by the government or community organizations to help people, such as running schools, libraries, or fire stations.
 *Used in: Week 10, Week 11, Week 13*
+
+**Public service announcement**
+A short message created to inform the public about safety, health, services, or other community needs.
+*Used in: Week 11, Week 12, Week 17, Week 18*
 
 **Representation**
 The idea that elected leaders speak and make decisions on behalf of the people who voted for them. Good representation means the leader considers the needs and views of *all* their constituents — not just the people who agree with them.
@@ -282,6 +362,14 @@ An agreement—often unwritten—between people and their government: the people
 **State government**
 The government of one of the 50 U.S. states. It handles issues like state roads, education, and driver's licenses.
 *Used in: Week 10, Week 12*
+
+**Source**
+Where information comes from, such as a person, website, book, article, interview, data table, video, or public record.
+*Used in: Week 9, Week 12, Week 16, Week 17, Week 18*
+
+**Special interest**
+A group that strongly cares about one issue and tries to influence decisions about that issue.
+*Used in: Week 9, Week 17, Week 18*
 
 **Supreme Court**
 The highest court in the United States. Its nine justices have the final say on whether laws follow the Constitution.

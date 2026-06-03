@@ -11,6 +11,8 @@ These research guides help learners investigate how their own community is gover
 
 > **For Facilitators:** These resources are designed for local adaptation. Every community is different — encourage learners to fill in what applies to their town, city, or county. Where a template doesn't quite fit, have students cross out what doesn't apply and write in what does.
 
+> **Access Note:** Communities can be rural, suburban, urban, multilingual, multigenerational, renter-heavy, transit-connected, or spread far apart. Printed examples, school notices, library handouts, and community bulletin boards work well when internet access is limited. No social media account is required for any activity in this toolkit.
+
 ---
 
 ## 1. My Community Officials Research Guide
@@ -222,6 +224,8 @@ _____________________________________________________________________________
 - [ ] Research the issue more
 - [ ] Other: _______________
 
+Any real outreach should happen only with caregiver or facilitator approval.
+
 ---
 
 ## 4. Meeting and Public Notice Finder Guide
@@ -367,6 +371,14 @@ _____________________________________________________________________________
 
 _____________________________________________________________________________
 
+**What tradeoff, limitation, or concern should I explain honestly?**
+
+_____________________________________________________________________________
+
+**What perspective might still be missing from my first draft?**
+
+_____________________________________________________________________________
+
 ---
 
 ### Section E: Action Steps
@@ -395,6 +407,8 @@ _____________________________________________________________________________
 | | | |
 
 **Draft your message:** Write a short letter, email, or script for a phone call to one of the people above. Be polite, state the problem clearly, and explain your solution.
+
+Sending a real message is optional and should happen only with caregiver or facilitator approval.
 
 _____________________________________________________________________________
 
@@ -427,6 +441,33 @@ _____________________________________________________________________________
 4. **Did your view of government change? How?**
 
    _________________________________________________________________________
+
+---
+
+### Section H: Honest Civic Action Project Checklist
+
+Before presenting or sharing, check:
+
+- [ ] I clearly described the issue, need, rule, decision, or community problem.
+- [ ] I explained who is affected.
+- [ ] I explained who my audience is.
+- [ ] I stated what I want my audience to understand, consider, or do.
+- [ ] I separated facts, opinions, feelings, and questions.
+- [ ] I used evidence, examples, or sources to support my claims.
+- [ ] I considered more than one perspective.
+- [ ] I explained at least one tradeoff, limitation, or possible concern.
+- [ ] I avoided exaggerating or hiding important context.
+- [ ] I gave credit for outside facts, images, quotes, ideas, data, or AI help.
+- [ ] I made my presentation readable and accessible for my audience.
+- [ ] I can answer questions respectfully and revise my idea if needed.
+
+**Where did my facts, quotes, images, data, and outside help come from?**
+
+_____________________________________________________________________________
+
+**Did I use AI help? If yes, what kind?**
+
+_____________________________________________________________________________
 
 ---
 

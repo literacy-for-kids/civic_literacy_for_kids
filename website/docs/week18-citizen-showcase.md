@@ -41,6 +41,7 @@ The big idea:
 - Prepare feedback forms or have audience members ready to give verbal feedback.
 - Create a celebratory atmosphere — this is a culminating event.
 - Optional: Invite a local elected official, school administrator, or community leader to be in the audience.
+- Encourage large text, clear labels, readable visuals, and spoken explanations so presentations are easier for different audiences to follow.
 - Prepare a visual timer for sessions.
 :::
 
@@ -201,7 +202,7 @@ Discuss concrete next steps:
 
 **About your Community Patch proposal:**
 
-> "Your proposal doesn't have to stay on paper. With your facilitator's help, you could actually send it to the right person. Many officials respond to young people — and some proposals do lead to real change."
+> "Your proposal doesn't have to stay on paper. If you want to share it beyond this showcase, do it with caregiver or facilitator approval. Some learners send proposals to the right person, and others keep the project as a portfolio piece or school presentation."
 
 It's your choice. But the option is there.
 
@@ -288,7 +289,7 @@ This is the big finish! You present your Community Patch proposal to a real audi
 - Write your letter to your future self
 
 **Stretch:**
-- Actually send your proposal to the responsible person or office in your community
+- With caregiver or facilitator approval, send your proposal to the responsible person or office in your community
 - Create a "civic toolkit" — a short list of things any kid can do to participate in their community
 - Present your proposal to a second audience or record a video version to share
 
@@ -307,8 +308,40 @@ This is the big finish! You present your Community Patch proposal to a real audi
 - Aim for the full 5-minute presentation with Q&A. Encourage them to present to at least 2–3 people.
 - For the Journey Map, challenge them to recall the big idea of all five units from memory before revealing the answers.
 - In the letter to their future self, push for specificity: "What exactly did you learn? What do you want to remember in a year?"
-- Strongly encourage actually sending the proposal to the responsible official. Help them find the contact information and draft a brief cover email or letter.
+- If they want to share the proposal outside the showcase, keep it optional and use caregiver or facilitator approval.
 :::
+
+---
+
+## Civil Discussion Moves
+
+Learners can use sentence frames such as:
+
+- "I see it differently because..."
+- "One reason I think that is..."
+- "Can you explain what you mean by...?"
+- "What evidence supports that?"
+- "Who might be affected by this?"
+- "I agree with this part, but I wonder about..."
+- "Another perspective might be..."
+- "I changed my thinking because..."
+
+The goal is not to force agreement. The goal is to help learners practice listening, giving reasons, asking better questions, and treating people with dignity while discussing shared problems.
+
+## AI-Generated Civic Media Awareness
+
+Some civic messages may include AI-generated or AI-edited images, voices, videos, comments, screenshots, articles, or summaries. That does not automatically make them bad or false, but it does mean we should check carefully before trusting, sharing, repeating, or acting on them.
+
+Learners can ask:
+
+- Who made this?
+- Where did it come from?
+- Is another trusted source saying the same thing?
+- Does it show evidence?
+- Could the image, voice, video, quote, screenshot, or comment be edited or AI-generated?
+- What should I check with a trusted adult first?
+
+If a learner used outside facts, images, quotes, data, or AI help in their showcase, they should say so clearly.
 
 ---
 
@@ -320,7 +353,7 @@ The curriculum is over, but your civic life is just beginning. Here are ways to 
 **This Month:**
 - Find out when the next local government meeting is and put it on the calendar.
 - Pick one local news source and follow it — even checking once a week keeps you informed.
-- If you haven't sent your Community Patch proposal, consider doing it now.
+- If you want to send your Community Patch proposal, do it only with caregiver or facilitator approval.
 
 **This Year:**
 - Attend at least one public meeting (city council, school board, or town hall). You don't have to speak — just observe.
@@ -356,5 +389,6 @@ The Citizen Showcase is already an in-person, offline activity — and that's wh
 - This week is a celebration, not a test. Create a warm, supportive atmosphere. Clap after every presentation. Treat this like a graduation.
 - Some kids may feel their project isn't "good enough" — especially if they compare themselves to others. Validate all effort and thinking. The process matters more than the polish.
 - If a student is too nervous to present, offer alternatives: they can read from their paper, have you read it for them, or present to just one trusted person. The goal is participation, not performance.
+- No learner should feel pressured to publish, post, email, or publicly share a project beyond the showcase.
 - Consider making the showcase feel special — set up chairs, make a simple program, or give out "Citizen Certificates." Small touches make a big difference in how kids remember the experience.
 :::

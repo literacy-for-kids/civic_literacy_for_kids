@@ -17,7 +17,7 @@ description: "A quick-start guide for teachers, caregivers, homeschoolers, and g
 
 Welcome — and thank you for bringing civic literacy to the young people in your life.
 
-This curriculum was designed so that any caring adult can facilitate it. You don't need a teaching degree, a background in government, or a perfectly planned schedule. What you need is curiosity, a willingness to explore big ideas alongside kids, and about 30–45 minutes a few times a week.
+This curriculum was designed so that any caring adult can facilitate it. You don't need a teaching degree, a background in government, or a perfectly planned schedule. What you need is curiosity, a willingness to explore big ideas alongside kids, and about 20 minutes at a time a few times a week. If your setting gives you longer blocks, you can always combine two short sessions.
 
 The lessons are scripted enough to guide you, but open enough to follow the conversation wherever it goes. Your job isn't to lecture — it's to ask good questions and let learners discover how the world around them is organized.
 
@@ -81,12 +81,12 @@ The program spans **18 core weeks** across **5 units**, plus an **optional 2-wee
 
 Each week includes **three sessions**:
 
-1. **Guided Session 1** *(30–45 minutes)* — Introduce the topic through discussion, reading, and a hands-on activity. Led by the facilitator.
-2. **Guided Session 2** *(30–45 minutes)* — Go deeper with a second activity, scenario, or creative project. Led by the facilitator.
-3. **Independent Session** *(20–40 minutes)* — Learners work on their own through reflection prompts, journaling, research, or a mini-project.
+1. **Guided Session 1** *(about 20 minutes)* — Introduce the topic through discussion, reading, and one focused activity. Led by the facilitator.
+2. **Guided Session 2** *(about 20 minutes)* — Go deeper with a second activity, scenario, or creative project. Led by the facilitator.
+3. **Independent Session** *(about 20 minutes)* — Learners work on their own through reflection prompts, journaling, research, or a mini-project.
 
 :::tip Pacing Is Flexible
-You don't have to fit three sessions into a single calendar week. Spread them across two weeks, combine sessions on a longer day, or pick the two sessions that fit your schedule. The curriculum works at your pace.
+You don't have to fit three sessions into a single calendar week. Spread them across two weeks, combine sessions on a longer day, or pick the two sessions that fit your schedule. Each weekly page includes more than one possible activity, so choose the pieces that fit your group and your time.
 :::
 
 ## Start Here Pathway
@@ -98,7 +98,8 @@ Not sure where to begin? Use this quick guide:
 | **Brand new and ready to go** | Jump straight into [Week 1: Rules We Already Follow](/docs/week1) |
 | **Looking for the big picture first** | Read the [Curriculum Overview](/docs/curriculum-overview) for the full program map |
 | **Short on time each week** | See the [Minimum Viable Lesson Guidance](#minimum-viable-lesson-guidance) below |
-| **Wanting to track progress** | Review the [Assessment Framework](/docs/assessment-framework) for rubrics and check-ins |
+| **Wanting to track progress** | Review [Assessment Checkpoints](/docs/assessment-checkpoints), [Learner Self-Assessment](/docs/self-assessment), and the [Assessment Framework](/docs/assessment-framework) |
+| **Wanting privacy-safe discussion guidance** | Use [Caregiver and Facilitator Guidance](/docs/caregiver-and-facilitator-guidance) |
 | **Curious about a specific topic** | Browse the [Scope and Sequence](/docs/scope-and-sequence) to find the right week |
 
 :::info You Can Start Anywhere (But Sequential Is Best)
@@ -107,7 +108,7 @@ The curriculum builds concepts in order — each week references ideas from earl
 
 ## Minimum Viable Lesson Guidance
 
-Short on time? Life happens. Here's what to prioritize if you only have **20–30 minutes per week** for each unit. Focus on the **must-do activity** listed for each week — it captures the core learning goal.
+Short on time? Life happens. Here's what to prioritize if you only have **about 20 minutes for a session**. Focus on the **must-do activity** listed for each week — it captures the core learning goal.
 
 ### Unit 1: The Logic of Cooperation (Weeks 1–4)
 
@@ -182,7 +183,7 @@ If you're short on time everywhere else, protect Weeks 15–18. This is where le
 
 ### After-School Program
 
-- **Pick one session per week.** If you meet once a week for 45–60 minutes, choose Guided Session 1 for most weeks — it introduces the core concept.
+- **Pick one session per week.** If you meet once a week for a longer block, combine one or two of the short sessions rather than trying to cover every activity on the page.
 - **Emphasize hands-on activities.** After a full school day, kids need to move and create. Prioritize the drawing, building, and role-play activities.
 - **Keep a portfolio.** Have each learner keep a folder of their work. It builds ownership and gives families something to see.
 - **Use the Minimum Viable Lesson table above.** It's designed for exactly this kind of time constraint.
@@ -214,6 +215,8 @@ Civic education naturally touches on topics like fairness, exclusion, justice, v
 - **Use the facilitator notes.** Many individual week pages include specific guidance for handling sensitive moments. Look for these in the Teacher Preparation section.
 - **You don't need all the answers.** It's okay to say, "That's a really important question. Let's think about it together," or "I want to look into that more before we talk about it."
 
+For privacy-safe conversation boundaries, AI-generated civic media guidance, and examples of how to handle family differences or sensitive news without asking for private disclosures, use [Caregiver and Facilitator Guidance](/docs/caregiver-and-facilitator-guidance).
+
 :::tip When in Doubt, Ask Questions
 If a conversation heads somewhere unexpected, redirect with curiosity: "Why do you think that is?" or "What would you change about it?" Open-ended questions keep discussions productive and give learners space to think critically.
 :::
@@ -235,7 +238,7 @@ The bonus module fits naturally after Week 9 (Elections and Voting) or after Wee
 
 ### Do I need to do every activity in every week?
 
-No. Each week includes more material than most groups will need. The two guided sessions cover the essentials. The independent session and extension activities are there for learners who want to go deeper or for groups with more time. See the [Minimum Viable Lesson Guidance](#minimum-viable-lesson-guidance) above if you need to trim further.
+No. Each week includes more material than most groups will need. The core path is about 20 minutes per session. The independent session and extension activities are there for learners who want to go deeper or for groups with more time. See the [Minimum Viable Lesson Guidance](#minimum-viable-lesson-guidance) above if you need to trim further.
 
 ### What if my learners are younger or older than 8–12?
 
@@ -255,7 +258,7 @@ You can, but the curriculum works best in sequence. Each unit builds on the one 
 
 ### How do I assess learning without tests?
 
-See the [Assessment Framework](/docs/assessment-framework). It uses observation, conversation, and portfolio-based assessment — not quizzes or tests. You'll find unit check-in prompts, self-reflection questions, and a capstone rubric — all built directly into the curriculum pages.
+See [Assessment Checkpoints](/docs/assessment-checkpoints), [Learner Self-Assessment](/docs/self-assessment), and the [Assessment Framework](/docs/assessment-framework). Together they use observation, conversation, and portfolio-based assessment — not quizzes or tests.
 
 ### What if I don't know the answer to a question a kid asks?
 
@@ -267,8 +270,8 @@ Absolutely. In co-ops, each parent or caregiver can take a different week. In sc
 
 ### How long does the full curriculum take?
 
-At three sessions per week, the core curriculum takes **18 weeks**. At one session per week (using the Minimum Viable Lesson approach), it takes roughly **18–36 weeks** depending on your pacing. The bonus module adds 2 additional weeks. There's no deadline — go at the pace that works for your group.
+At three sessions per week, the core curriculum takes **18 weeks**. At one short session per week (using the Minimum Viable Lesson approach), it takes roughly **18–36 weeks** depending on your pacing. The bonus module adds 2 additional weeks. There's no deadline — go at the pace that works for your group.
 
 ### Is this curriculum aligned to any standards?
 
-The curriculum aligns naturally with the C3 Framework for Social Studies State Standards and many state civics requirements for elementary and middle school. It also supports Common Core ELA standards through its emphasis on reading, writing, discussion, and evidence-based reasoning.
+The curriculum is standards-aware rather than standards-locked. It connects naturally to broad civics, inquiry, digital citizenship, library learning, and ELA goals without forcing one district-specific framework. For the planning table, see [Learning Outcomes](/docs/outcomes).

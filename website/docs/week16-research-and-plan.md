@@ -47,6 +47,10 @@ The big idea:
 Research is a skill, not a natural talent. **Guide the process** — show the student where to look, how to evaluate sources, and how to organize what they find. If they hit a dead end, help them brainstorm another angle rather than just giving them the answer.
 :::
 
+:::info Guided or extension note
+Ages 8-9 should research with a facilitator and use a few carefully chosen sources. Independent online searching, comparing several articles, and analyzing sponsored or AI-edited material are guided or optional extensions for older learners.
+:::
+
 ---
 
 ## Guided Session 1
@@ -293,6 +297,50 @@ This week, you dig into your community problem like a real researcher! You find 
 - For the "Devil's Advocate" activity, raise 3 objections and challenge them to respond with evidence, not just feelings.
 - The proposal outline should include all 8 sections, even if they're just one sentence each at this stage.
 :::
+
+---
+
+## Civic Checkpoint
+
+When learners see a rule, announcement, claim, poster, news story, policy idea, or civic message, they can ask:
+
+- Who created this rule, message, or announcement?
+- Who is it for?
+- What does it want people to think, feel, do, or understand?
+- What claim is being made?
+- What evidence, reasons, or examples are shown?
+- Who benefits?
+- Who is affected?
+- Who might be missing or left out?
+- How might money, power, popularity, identity, media, or special interests shape this message?
+- What should I check before I trust, share, repeat, or act on this?
+
+## Civic Information Balance Moves
+
+When a civic message, news story, feed, or conversation starts to feel one-sided, learners can:
+
+- look for another source on the same topic
+- compare a school, local, and national source when appropriate
+- ask whether the message shows facts, opinions, feelings, or persuasion
+- check whether an important group or perspective is missing
+- ask who benefits if people believe or share the message
+- pause before assuming "everyone thinks this"
+- talk with a trusted adult before sharing or acting on confusing civic information
+
+Online feeds are shaped by many signals: what people click, watch, search, share, and react to, as well as what platforms are designed to promote. A feed can be useful, but it is not the whole community and not the whole truth.
+
+## AI-Generated Civic Media Awareness
+
+Some civic messages may include AI-generated or AI-edited images, voices, videos, comments, screenshots, articles, or summaries. That does not automatically make them bad or false, but it does mean we should check carefully before trusting, sharing, repeating, or acting on them.
+
+Learners can ask:
+
+- Who made this?
+- Where did it come from?
+- Is another trusted source saying the same thing?
+- Does it show evidence?
+- Could the image, voice, video, quote, screenshot, or comment be edited or AI-generated?
+- What should I check with a trusted adult first?
 
 ---
 

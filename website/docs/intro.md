@@ -20,6 +20,8 @@ Over 18 weeks (plus an optional bonus module), students ages 8–12 discover:
 - How nations cooperate to solve shared problems
 - How to identify a real community problem and propose a solution
 
+The lessons are designed as short, flexible sessions that can fit homes, classrooms, libraries, community programs, and informal learning spaces.
+
 The guiding message of the entire curriculum:
 
 > **Your Voice Matters — Use It Wisely.**
@@ -68,17 +70,56 @@ For the full week-by-week breakdown, see the [Curriculum Overview](/docs/curricu
 
 ---
 
+## Age-Banded Civic Learning Goals
+
+### Ages 8-9: Guided foundation
+
+Learners should be able to:
+
+- describe simple community roles, rules, and responsibilities with support
+- identify decision-makers in familiar settings, such as a classroom, school, library, neighborhood, or town
+- explain why a rule might exist using a familiar example
+- notice when a civic message is trying to inform, persuade, invite, warn, or ask for help
+- ask simple questions such as "Who made this?", "Who is affected?", and "What should we check?"
+
+### Ages 10-12: Core path
+
+Learners should be able to:
+
+- explain rights, responsibilities, rules, and laws in their own words
+- compare two community decisions and identify possible tradeoffs
+- identify claims, evidence, opinions, and missing perspectives in civic messages
+- participate in respectful civic discussion using sentence frames and evidence
+- check a civic claim with more than one source or example
+- design a simple civic action project for a school, library, neighborhood, or community issue
+
+### Ages 11-13: Optional extension
+
+Learners may also:
+
+- analyze more complex issues involving local government, budgets, elections, public services, or community priorities
+- compare civic messages from different groups or viewpoints
+- evaluate sponsored, campaign, influencer, or advocacy messages for incentives and bias
+- build a more detailed civic proposal with stakeholders, tradeoffs, constraints, and evidence
+- reflect on how power, access, language, money, media, and technology can shape civic participation
+
+:::tip Developmental note
+Advanced ideas such as campaign strategy, detailed policy debates, public budgets, lobbying, and independent source research should stay guided or optional. Younger learners can practice the same habits with classroom, school, library, neighborhood, and fictional community examples.
+:::
+
+---
+
 ## Session Format
 
 Each week uses **three sessions**:
 
 | Session | Type | Duration | What Happens |
 |---------|------|----------|-------------|
-| **Guided Session 1** | Teacher-led | 30-45 min | Introduce the week's core concept |
-| **Guided Session 2** | Teacher-led | 30-45 min | Deepen and apply understanding |
-| **Independent Session** | Student-led | 20-40 min | Practice, create, or research on their own |
+| **Guided Session 1** | Teacher-led | ~20 min | Introduce the week's core concept |
+| **Guided Session 2** | Teacher-led | ~20 min | Deepen and apply understanding |
+| **Independent Session** | Student-led | ~20 min | Practice, create, or research on their own |
 
-Sessions can be spread across the week. You don't need to do all three in one sitting.
+Sessions can be spread across the week. You do not need to do all three in one sitting, and you do not need to use every activity on a weekly page. Each lesson includes extra options so facilitators can keep the core path short.
 
 ---
 
@@ -86,6 +127,7 @@ Sessions can be spread across the week. You don't need to do all three in one si
 
 - **Caregivers** teaching at home or supplementing school
 - **Teachers** looking for a structured, ready-to-use civic education program
+- **Librarians, after-school leaders, and community educators** running short civic learning sessions
 - **Co-ops and enrichment programs** that need a curriculum they can start immediately
 
 No special training is required. Every lesson includes preparation notes, a teaching mindset tip, and clear activity instructions.
@@ -95,7 +137,7 @@ No special training is required. Every lesson includes preparation notes, a teac
 ## What You'll Need
 
 - Paper, pencils, and markers
-- Access to the internet (for research and free games)
+- Internet access is helpful for some research activities, but printed examples and facilitator read-alouds work well too
 - A notebook or folder to collect work across all 18 weeks
 - A visual timer
 
@@ -113,6 +155,35 @@ The goal is to produce informed, engaged citizens — not to tell them what to b
 
 ---
 
+## Choosing Civic Examples
+
+Try to rotate examples across home, school, library, neighborhood, community, government, and online spaces. Civic literacy is not only about national politics or elections. It also applies to everyday decisions, public information, shared spaces, community problems, and how people work together.
+
+Useful examples include:
+
+- classroom rules or school policies
+- student council posters
+- public library announcements
+- multilingual community flyers
+- neighborhood meeting notices
+- apartment or HOA notices
+- public transit signs
+- park, trail, beach, or playground rules
+- recycling and environmental signs
+- local event invitations
+- community garden announcements
+- youth sports or club decisions
+- school lunch, recess, or technology policies
+- public health posters
+- emergency alerts
+- local government service notices
+- fictional town problems
+- age-appropriate news summaries
+
+When possible, choose examples that show different kinds of communities: rural, suburban, urban, multilingual, multigenerational, renters, homeowners, families with different structures, and people with different access needs.
+
+---
+
 ## Getting Started
 
 **Ready to begin?** Start with [Week 1: Rules We Already Follow](/docs/week1).
@@ -121,8 +192,14 @@ The goal is to produce informed, engaged citizens — not to tell them what to b
 
 **New to the curriculum?** See [How to Use This Curriculum](/docs/how-to-use) for a quick-start guide.
 
+**Planning for age bands or standards?** See [Learning Outcomes](/docs/outcomes).
+
+**Want the core thinking routines?** Use [Civic Checkpoint and Discussion Routines](/docs/civic-checkpoint).
+
+**Need privacy-safe discussion support?** Read [Caregiver and Facilitator Guidance](/docs/caregiver-and-facilitator-guidance).
+
 **Looking for vocabulary help?** Check the [Glossary](/docs/glossary).
 
-**Want to track progress?** See the [Assessment Framework](/docs/assessment-framework).
+**Want to track progress?** See [Assessment Checkpoints](/docs/assessment-checkpoints), [Learner Self-Assessment](/docs/self-assessment), and the [Assessment Framework](/docs/assessment-framework).
 
 **Have feedback?** [Open an issue on GitHub](https://github.com/literacy-for-kids/civic_literacy_for_kids/issues).

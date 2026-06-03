@@ -23,6 +23,8 @@ Assessment in this curriculum looks like:
 
 You won't find multiple-choice tests here. Instead, you'll find discussion prompts, self-reflection questions, and a capstone rubric — all built into the curriculum pages. Use what helps. Skip what doesn't.
 
+For the new phase-by-phase check-ins, use [Assessment Checkpoints](/docs/assessment-checkpoints). For learner reflection, use [Learner Self-Assessment](/docs/self-assessment). For the shared questioning routine used across the curriculum, use [Civic Checkpoint and Discussion Routines](/docs/civic-checkpoint).
+
 :::tip
 If a learner is struggling, that's useful information — not a failure. It means they need another conversation, a different example, or more time. That's how learning works.
 :::
@@ -35,13 +37,13 @@ This curriculum uses four mastery bands to describe where a learner is in their 
 
 | Band | Kid-Friendly Description | Adult-Friendly Description |
 |---|---|---|
-| 🌱 **Emerging** | "I'm just starting to learn about this." | The learner is beginning to explore the idea. They may recognize key words or recall isolated facts but cannot yet explain the concept independently. |
-| 🌿 **Developing** | "I can explain parts of it if someone helps me." | The learner understands pieces of the concept and can discuss it with support, prompts, or examples. Explanations may be incomplete or rely on specific scenarios from the lessons. |
-| 🌳 **Proficient** | "I can explain it clearly in my own words." | The learner can accurately explain the concept without assistance, using their own language. They can give examples and connect the idea to real-world situations covered in the curriculum. |
-| 🌟 **Advanced** | "I can use this idea in new situations and even help teach it to someone else." | The learner can apply the concept to new or unfamiliar situations, draw connections across units, and explain the idea clearly to others. They show independent civic thinking. |
+| **Beginning** | "I'm getting started." | The learner is beginning to explore the idea. They may recognize a few key words or examples but still need prompts, modeling, or a familiar scenario. |
+| **Developing** | "I can do parts of this with help." | The learner understands parts of the concept and can talk through it with support, sentence frames, or examples. |
+| **Secure** | "I can explain this on my own." | The learner can explain the concept clearly in their own words and apply it to familiar civic situations from the curriculum. |
+| **Extending** | "I can use this in new situations." | The learner can transfer the concept to a new example, compare perspectives, or add detail about tradeoffs, evidence, and consequences. |
 
 :::tip
-Most learners will land in the **Developing** or **Proficient** bands for most topics — and that's excellent. **Advanced** isn't the expectation; it's a description of learners who are ready for deeper challenges.
+Most learners will land in the **Developing** or **Secure** bands for most topics — and that's excellent. **Extending** is not the baseline expectation for the core age range.
 :::
 
 ---
@@ -181,21 +183,43 @@ The Community Patch is the final project of the curriculum. Use this rubric to a
 This rubric is a guide, not a scoring sheet. Use it to notice strengths and identify areas where a learner might benefit from an extra conversation or revision.
 :::
 
-| Criteria | 🌱 Emerging | 🌿 Developing | 🌳 Proficient | 🌟 Advanced |
+## Honest Civic Action Project Checklist
+
+Before presenting or sharing, check:
+
+- [ ] I clearly described the issue, need, rule, decision, or community problem.
+- [ ] I explained who is affected.
+- [ ] I explained who my audience is.
+- [ ] I stated what I want my audience to understand, consider, or do.
+- [ ] I separated facts, opinions, feelings, and questions.
+- [ ] I used evidence, examples, or sources to support my claims.
+- [ ] I considered more than one perspective.
+- [ ] I explained at least one tradeoff, limitation, or possible concern.
+- [ ] I avoided exaggerating or hiding important context.
+- [ ] I gave credit for outside facts, images, quotes, ideas, data, or AI help.
+- [ ] I made my presentation readable and accessible for my audience.
+- [ ] I can answer questions respectfully and revise my idea if needed.
+
+| Criteria | Beginning | Developing | Secure | Extending |
 |---|---|---|---|---|
-| **Understanding of the problem** | Identifies a topic but cannot clearly explain why it is a civic problem. | Describes a problem but the connection to the community or civic life is vague. | Clearly explains a real civic problem and why it matters to the community. | Explains the problem with depth, including who is affected and why it hasn't been solved yet. |
-| **Identifying the right civic level/institution** | Cannot identify who is responsible for the issue. | Names a level of government or institution but the connection is unclear or inaccurate. | Correctly identifies the level of government or institution responsible and explains why. | Identifies the responsible institution and explains how different levels of government might interact on the issue. |
-| **Quality of reasoning** | Offers a solution with little or no explanation of why it would work. | Provides some reasoning but it is incomplete or relies on assumptions. | Provides clear, logical reasoning that connects the problem to the proposed solution. | Reasoning is thorough, considers trade-offs or counterarguments, and shows independent thinking. |
-| **Practicality of proposal** | Proposal is unrealistic or unrelated to the problem. | Proposal is somewhat realistic but missing key details about how it would work. | Proposal is realistic and includes basic steps for how it could be carried out. | Proposal is detailed, realistic, and considers obstacles, costs, or next steps. |
-| **Clarity of communication** | Presentation is difficult to follow or incomplete. | Presentation communicates the main idea but is disorganized or unclear in places. | Presentation is clear, organized, and easy to follow. | Presentation is polished, engaging, and uses civic vocabulary accurately and naturally. |
-| **Evidence of civic thinking** | Shows little connection between the project and civic concepts from the curriculum. | Makes some connections to civic ideas but they are surface-level. | Connects the project to specific civic concepts (e.g., social contract, public services, representation). | Weaves civic concepts throughout the project and reflects on what civic participation means. |
-| **Participation and reflection** | Participated minimally and did not reflect on the experience. | Participated but reflection is brief or generic. | Participated actively and reflects thoughtfully on what they learned. | Participated with enthusiasm, reflects deeply, and expresses how the experience changed their thinking. |
+| **Issue clarity** | Names a broad topic but the civic problem is unclear | Describes a real issue with some support | Clearly explains the issue, setting, and why it matters | Frames the issue precisely and explains why it persists |
+| **Community and audience understanding** | Needs help naming who is affected or who should hear the proposal | Identifies some affected people or a possible audience | Clearly explains who is affected and who the proposal is for | Shows how different groups may experience the issue differently |
+| **Evidence and accuracy** | Relies mostly on opinion or personal reaction | Uses one example or source with support | Uses accurate evidence, examples, or sources to support claims | Compares evidence across sources and explains why it matters |
+| **Perspective-taking and fairness** | Focuses on one point of view only | Mentions another view with prompting | Includes more than one perspective respectfully | Explains missing perspectives or fairness concerns with care |
+| **Tradeoffs and constraints** | Presents the plan as simple or cost-free | Names one limit or concern with support | Explains at least one tradeoff, cost, or constraint | Weighs several constraints and explains why the plan is still reasonable |
+| **Civic action plan** | Suggests an action that is unclear or unrealistic | Gives a possible next step with support | Proposes a realistic action and identifies a fitting audience or decision-maker | Builds a clear step-by-step plan with likely partners and next moves |
+| **Ethical persuasion** | Uses exaggeration, pressure, or unfair language | Makes a respectful ask but needs clearer reasons | Persuades respectfully with clear reasons and honest wording | Persuades effectively while acknowledging complexity and limits |
+| **Attribution and AI-use transparency** | Does not yet give credit for outside help or sources | Gives partial credit with reminders | Gives credit for sources, images, quotes, ideas, and AI help when used | Explains clearly how outside help or tools supported the work |
+| **Accessibility and presentation design** | Presentation is difficult to follow or read | Presentation is partly clear but needs support with organization | Presentation is clear, readable, and audience-friendly | Presentation is especially well organized and accessible for the audience |
+| **Reflection and revision** | Has difficulty explaining changes or next steps | Revises with support and gives a short reflection | Revises thoughtfully and explains what changed | Reflects deeply on growth, feedback, and future civic action |
 
 ---
 
 ## Student Self-Reflection Prompts
 
 Self-reflection helps learners notice their own growth. These prompts are optional and can be used at the end of each unit — as journal entries, partner conversations, or short verbal check-ins.
+
+For a learner-facing version, use [Learner Self-Assessment](/docs/self-assessment).
 
 :::tip
 You don't need to use all of these. Pick one or two per unit that feel right for your learners. The goal is to build a habit of reflection, not to add more assignments.
@@ -241,7 +265,7 @@ You don't need to use all of these. Pick one or two per unit that feel right for
 
 ## Progress Tracker
 
-Use this tracker to record where each learner stands across key civic literacy skills. You can fill it in after each unit or update it at the midpoint and end of the curriculum. Mark each skill as 🌱 Emerging, 🌿 Developing, 🌳 Proficient, or 🌟 Advanced.
+Use this tracker to record where each learner stands across key civic literacy skills. You can fill it in after each unit or update it at the midpoint and end of the curriculum. Mark each skill as Beginning, Developing, Secure, or Extending.
 
 :::tip Using this tracker
 Copy this table into a notebook or sketch it on paper — whatever fits your setting.

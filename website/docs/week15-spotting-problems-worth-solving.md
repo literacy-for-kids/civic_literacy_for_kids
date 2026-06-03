@@ -72,8 +72,9 @@ As you walk, look for things that could be improved. Use these prompts:
 
 - **Safety:** Is there a crosswalk that needs a sign? A sidewalk that's cracked? A dark area that needs a light?
 - **Cleanliness:** Is there litter in a park? An overflowing public trash can? A neglected space?
-- **Access:** Is there a building without a wheelchair ramp? A park without a bench? A bus stop without a shelter?
-- **Community life:** Is there a place where neighbors can gather? A library that closes too early? A park that needs equipment?
+- **Access:** Is there a building without a wheelchair ramp? A park without a bench? A bus stop without a shelter? A meeting space without translation support or clear directions?
+- **Community life:** Is there a place where neighbors can gather? A library or community center that needs better hours or materials? A park that needs equipment or shade?
+- **Information:** Is there a sign, flyer, or public notice that is hard to understand, missing key details, or difficult for some community members to use?
 
 If you can't walk around, do a **virtual community walk**:
 - Use Google Maps Street View to "walk" through your neighborhood
@@ -184,7 +185,7 @@ Start gathering information about the problem.
 
 Remember the $120 budget exercise from Week 11? Every town has limited resources, and your proposal will need to fit into those constraints. As you research, keep an eye out for what a solution might cost and where the money could come from.
 
-- **Has anyone else noticed this?** (Search local news, social media, community forums)
+- **Has anyone else noticed this?** (Search local news, school newsletters, library bulletin boards, community newsletters, printed notices, or community forums. No social media account is required.)
 - **Has the city/school already tried to fix it?** (Check meeting minutes or agendas)
 - **What do other communities do about this kind of problem?** (Look for model solutions)
 
@@ -297,6 +298,36 @@ This week, you become a community detective! You take a walk through your neighb
 
 ---
 
+## Civic Checkpoint
+
+When learners see a rule, announcement, claim, poster, news story, policy idea, or civic message, they can ask:
+
+- Who created this rule, message, or announcement?
+- Who is it for?
+- What does it want people to think, feel, do, or understand?
+- What claim is being made?
+- What evidence, reasons, or examples are shown?
+- Who benefits?
+- Who is affected?
+- Who might be missing or left out?
+- How might money, power, popularity, identity, media, or special interests shape this message?
+- What should I check before I trust, share, repeat, or act on this?
+
+## Civil Discussion Moves
+
+- "I see it differently because..."
+- "One reason I think that is..."
+- "Can you explain what you mean by...?"
+- "What evidence supports that?"
+- "Who might be affected by this?"
+- "I agree with this part, but I wonder about..."
+- "Another perspective might be..."
+- "I changed my thinking because..."
+
+The goal is not to force agreement. The goal is to help learners practice listening, giving reasons, asking better questions, and treating people with dignity while discussing shared problems.
+
+---
+
 ## 🔍 Civic Inquiry Spotlight: Is This Problem What I Think It Is?
 
 Before committing to a problem for your project, practice checking your assumptions:
@@ -331,6 +362,7 @@ The Community Walk is already a hands-on, offline activity — that's a strength
 - If a student picks an issue that is too large or politically charged, gently redirect them by asking: "Is there a smaller, more local version of that problem you could focus on?"
 - Some kids may struggle to notice problems at first. Give them the observation prompts from the Community Walk and model what it looks like to look at a familiar place with fresh eyes.
 - Younger learners (ages 8–9) may need you to walk with them and help them put their observations into words. That's perfectly fine — the goal is the process.
+- If a problem would require a learner to reveal private family information or sensitive safety concerns, switch to a school, library, community-center, or fictional-town example instead.
 :::
 
 ## Preview of Next Week

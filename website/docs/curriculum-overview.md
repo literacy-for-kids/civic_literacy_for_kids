@@ -19,6 +19,7 @@ The curriculum is built around one guiding message:
 
 - **Caregivers** teaching at home or supplementing school
 - **Teachers** looking for a structured civic education program
+- **Librarians, after-school leaders, and community educators** needing a flexible civic literacy resource
 - **Co-ops and enrichment programs** needing a ready-to-use curriculum
 
 No special training is required. If you can read and facilitate a conversation, you can teach this.
@@ -42,6 +43,45 @@ Every lesson in the curriculum connects to one or more of these five ideas:
 | 5 | **Participation Keeps Communities Healthy** | A community that nobody maintains eventually breaks down. Voting, speaking up, and serving keep the system working. |
 
 These mental models are scaffolded — earlier weeks introduce them simply, and later weeks revisit them with more complexity.
+
+---
+
+## Age-Banded Civic Learning Goals
+
+### Ages 8-9: Guided foundation
+
+Learners should be able to:
+
+- describe simple community roles, rules, and responsibilities with support
+- identify decision-makers in familiar settings, such as a classroom, school, library, neighborhood, or town
+- explain why a rule might exist using a familiar example
+- notice when a civic message is trying to inform, persuade, invite, warn, or ask for help
+- ask simple questions such as "Who made this?", "Who is affected?", and "What should we check?"
+
+### Ages 10-12: Core path
+
+Learners should be able to:
+
+- explain rights, responsibilities, rules, and laws in their own words
+- compare two community decisions and identify possible tradeoffs
+- identify claims, evidence, opinions, and missing perspectives in civic messages
+- participate in respectful civic discussion using sentence frames and evidence
+- check a civic claim with more than one source or example
+- design a simple civic action project for a school, library, neighborhood, or community issue
+
+### Ages 11-13: Optional extension
+
+Learners may also:
+
+- analyze more complex issues involving local government, budgets, elections, public services, or community priorities
+- compare civic messages from different groups or viewpoints
+- evaluate sponsored, campaign, influencer, or advocacy messages for incentives and bias
+- build a more detailed civic proposal with stakeholders, tradeoffs, constraints, and evidence
+- reflect on how power, access, language, money, media, and technology can shape civic participation
+
+:::tip Guided and extension work
+Advanced ideas such as elections, campaign messages, detailed budget tradeoffs, and independent source research are part of the curriculum, but they should stay guided for the core age range and optional for learners who are ready to go deeper.
+:::
 
 ---
 
@@ -118,11 +158,40 @@ Each week is designed around **three sessions**:
 
 | Session | Type | Duration | Purpose |
 |---------|------|----------|---------|
-| **Guided Session 1** | Teacher-led | 30-45 min | Introduce the core concept |
-| **Guided Session 2** | Teacher-led | 30-45 min | Deepen understanding and apply |
-| **Independent Session** | Student-led | 20-40 min | Practice, create, or research independently |
+| **Guided Session 1** | Teacher-led | ~20 min | Introduce the core concept |
+| **Guided Session 2** | Teacher-led | ~20 min | Deepen understanding and apply |
+| **Independent Session** | Student-led | ~20 min | Practice, create, or research independently |
 
-You do not need to deliver all three sessions in one sitting. Many families spread them across the week. The sessions are designed to stand on their own while building on each other.
+You do not need to deliver all three sessions in one sitting. Many families and programs spread them across the week. The sessions are designed to stand on their own while building on each other, and each weekly page includes more material than most groups need in one sitting.
+
+---
+
+## Choosing Civic Examples
+
+Try to rotate examples across home, school, library, neighborhood, community, government, and online spaces. Civic literacy is not only about national politics or elections. It also applies to everyday decisions, public information, shared spaces, community problems, and how people work together.
+
+Useful examples include:
+
+- classroom rules or school policies
+- student council posters
+- public library announcements
+- multilingual community flyers
+- neighborhood meeting notices
+- apartment or HOA notices
+- public transit signs
+- park, trail, beach, or playground rules
+- recycling and environmental signs
+- local event invitations
+- community garden announcements
+- youth sports or club decisions
+- school lunch, recess, or technology policies
+- public health posters
+- emergency alerts
+- local government service notices
+- fictional town problems
+- age-appropriate news summaries
+
+When possible, choose examples that show different kinds of communities: rural, suburban, urban, multilingual, multigenerational, renters, homeowners, families with different structures, and people with different access needs.
 
 ---
 
@@ -163,7 +232,7 @@ This curriculum references only free, publicly available resources:
 
 **Minimum materials for the full curriculum:**
 - Paper, pencils/markers
-- Access to the internet (for research sessions and free games)
+- Internet access is helpful for some research sessions, but printed examples and offline adaptations work well too
 - A notebook or folder to collect work across all 18 weeks
 - A visual timer (any timer works — phone, kitchen timer, hourglass)
 
@@ -174,6 +243,16 @@ This curriculum references only free, publicly available resources:
 - A local government website bookmarked
 
 **No special software, subscriptions, or paid materials are required.**
+
+---
+
+## Companion Planning Pages
+
+- [Learning Outcomes](/docs/outcomes) for age bands, course outcomes, and standards-aware planning
+- [Civic Checkpoint and Discussion Routines](/docs/civic-checkpoint) for the core questioning and discussion language
+- [Caregiver and Facilitator Guidance](/docs/caregiver-and-facilitator-guidance) for privacy-safe and sensitive-topic support
+- [Assessment Checkpoints](/docs/assessment-checkpoints) for low-stakes phase check-ins
+- [Learner Self-Assessment](/docs/self-assessment) for learner reflection tools
 
 ---
 

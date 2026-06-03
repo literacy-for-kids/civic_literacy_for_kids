@@ -47,6 +47,10 @@ The big idea:
 This week is about **making government real**. Every lesson should connect to places and people the student actually knows — *their* school, *their* park, *their* library. The more local, the better.
 :::
 
+:::info Guided or extension note
+For ages 8-9, focus on who helps run a town and which local decisions show up in everyday life. Detailed budget comparisons, tax structures, and formal meeting records are guided or optional extensions for older learners.
+:::
+
 ---
 
 ## Guided Session 1
@@ -337,6 +341,7 @@ This week is especially important to adapt to your own community. Every local go
 
 - **"What is your local government called? Does your area have a mayor, a town manager, or something else?"**
 - Some communities have a city council; others have a board of selectmen, a board of trustees, or a county commission. Help the learner discover what applies to them.
+- Different communities may be rural, suburban, urban, multilingual, renter-heavy, transit-connected, or spread far apart. Use examples that fit the learner's setting instead of assuming every town works the same way.
 - Use real names and real places whenever possible — the more local, the more meaningful.
 :::
 

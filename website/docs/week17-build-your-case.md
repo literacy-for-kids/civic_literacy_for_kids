@@ -49,6 +49,10 @@ This week, you're a writing coach. Your job is to help the student **organize an
 Remember: the student already practiced letter-writing (Week 12) and public comment speaking (Week 12). This proposal is the culmination of those skills.
 :::
 
+:::info Guided or extension note
+For ages 8-9, shorter proposals and shorter presentations are enough. Longer proposals, more detailed tradeoffs, and independent outreach should stay guided or optional for older learners.
+:::
+
 ---
 
 ## Guided Session 1
@@ -112,6 +116,8 @@ List 2-3 objections someone might raise. For each one, provide a clear response.
 **Section 7: Call to Action**
 
 End with a specific request: "I am asking [person/body] to [specific action]."
+
+Before calling the proposal final, add a short note naming where your outside facts, quotes, images, or other help came from. If AI helped with brainstorming, editing, or design, say that clearly too. Then check that your audience can read, hear, and follow the presentation easily.
 
 ---
 
@@ -245,14 +251,22 @@ This is your last working session before the Citizen Showcase. Use it wisely.
 - Prepare any visual aids (a poster, a diagram, a chart) if you want them
 - Have your index cards or bullet points ready
 
-**Checklist — are you ready for Week 18?**
+## Honest Civic Action Project Checklist
 
-- [ ] Written proposal is complete and clear
-- [ ] You can explain your problem in one sentence
-- [ ] You can explain your solution in one sentence
-- [ ] You have at least 3 pieces of evidence
-- [ ] You've practiced your presentation at least twice
-- [ ] You can answer the most likely objections
+Before presenting or sharing, check:
+
+- [ ] I clearly described the issue, need, rule, decision, or community problem.
+- [ ] I explained who is affected.
+- [ ] I explained who my audience is.
+- [ ] I stated what I want my audience to understand, consider, or do.
+- [ ] I separated facts, opinions, feelings, and questions.
+- [ ] I used evidence, examples, or sources to support my claims.
+- [ ] I considered more than one perspective.
+- [ ] I explained at least one tradeoff, limitation, or possible concern.
+- [ ] I avoided exaggerating or hiding important context.
+- [ ] I gave credit for outside facts, images, quotes, ideas, data, or AI help.
+- [ ] I made my presentation readable and accessible for my audience.
+- [ ] I can answer questions respectfully and revise my idea if needed.
 
 If everything is checked, you're ready.
 
@@ -332,6 +346,49 @@ This week, you put everything together! You write your full proposal — explain
 
 ---
 
+## Civil Discussion Moves
+
+Learners can use sentence frames such as:
+
+- "I see it differently because..."
+- "One reason I think that is..."
+- "Can you explain what you mean by...?"
+- "What evidence supports that?"
+- "Who might be affected by this?"
+- "I agree with this part, but I wonder about..."
+- "Another perspective might be..."
+- "I changed my thinking because..."
+
+The goal is not to force agreement. The goal is to help learners practice listening, giving reasons, asking better questions, and treating people with dignity while discussing shared problems.
+
+## Influence Behind Civic Messages
+
+A civic message can be helpful and still be shaped by money, power, popularity, identity, or a group's goals. The question is not "Is this message bad?" The better question is: "What might shape what this message says, and what should I check?"
+
+Learners can ask:
+
+- Who made or paid for this message?
+- Is a group, campaign, business, influencer, or organization connected to it?
+- What does the message want people to believe or do?
+- Who benefits if people agree?
+- Who might disagree or be affected differently?
+- What evidence would help me judge this fairly?
+
+## AI-Generated Civic Media Awareness
+
+Some civic messages may include AI-generated or AI-edited images, voices, videos, comments, screenshots, articles, or summaries. That does not automatically make them bad or false, but it does mean we should check carefully before trusting, sharing, repeating, or acting on them.
+
+Learners can ask:
+
+- Who made this?
+- Where did it come from?
+- Is another trusted source saying the same thing?
+- Does it show evidence?
+- Could the image, voice, video, quote, screenshot, or comment be edited or AI-generated?
+- What should I check with a trusted adult first?
+
+---
+
 ## Offline Option
 
 :::info Offline Alternative
@@ -344,6 +401,8 @@ Writing your proposal and practicing your presentation are naturally offline act
 
 > Identify a real local person or office you could present your proposal to.
 
+Presenting to a real office is optional. A librarian, teacher, school leader, youth council, or community center staff member can also be an appropriate audience.
+
 ---
 
 :::caution Facilitator Notes
@@ -351,6 +410,7 @@ Writing your proposal and practicing your presentation are naturally offline act
 - Allow written or drawn alternatives for students who truly struggle with speaking. A well-written proposal or an illustrated poster is still civic participation.
 - During the practice run, focus your feedback on clarity and content, not on style or polish. Ask questions like "What did you mean by that part?" rather than "Stand up straighter."
 - Remind students that real civic advocates aren't perfect speakers — they're people who care enough to show up and try. That's what matters.
+- Real outreach should stay optional and should happen only with caregiver or facilitator approval.
 :::
 
 ## Preview of Next Week

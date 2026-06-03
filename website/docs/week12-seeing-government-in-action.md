@@ -47,6 +47,10 @@ The big idea:
 This week bridges **knowing** and **doing**. The student should leave feeling that civic participation is something real people actually do — and something *they* could do too.
 :::
 
+:::info Guided or extension note
+Public comment, letter-writing, and meeting research should stay guided. No learner needs to contact a public official, use social media, or share private family information to practice civic participation.
+:::
+
 ---
 
 ## Guided Session 1
@@ -241,7 +245,7 @@ Remember:
 - Be **specific** — say exactly what you want and why.
 - Be **brief** — officials read many letters. One clear page is better than three rambling ones.
 
-**Bonus:** With a facilitator's help, actually send the letter (email or postal mail). Many officials respond, especially to young people.
+**Bonus:** If a caregiver or facilitator approves, you may choose to send the letter (email or postal mail). Many officials respond, especially to young people.
 
 ---
 
@@ -288,7 +292,7 @@ Government isn't just something that happens far away — it happens right in yo
 
 ## Core vs. Stretch
 - **Core:** Identify multiple forms of civic participation, practice delivering a public comment, and watch or discuss a government meeting. Write a letter to an elected official (can be unsent).
-- **Stretch:** Actually send the letter (with a facilitator's help), find and read a real meeting agenda from your local government, or attend a public meeting in person or online.
+- **Stretch:** With caregiver or facilitator approval, send the letter, find and read a real meeting agenda from your local government, or attend a public meeting in person or online.
 
 ---
 
@@ -304,12 +308,25 @@ Government isn't just something that happens far away — it happens right in yo
 - Run the full 2-minute public comment practice with the four-part structure (introduce, state concern, give reasons, make your ask).
 - Watch 8–10 minutes of a real meeting and fill out the complete observation sheet.
 - Challenge them to find the next upcoming meeting for your local governing body and read the agenda in advance.
-- For the letter activity, encourage them to actually send it (with facilitator help). Discuss: *"What makes a letter persuasive? What would make an official take this seriously?"*
+- If outreach feels appropriate, offer the option to send the letter with caregiver or facilitator approval. Discuss: *"What makes a letter persuasive? What would make an official take this seriously?"*
 :::
 
 ---
 
-## Discussion Norms for This Week
+## Civil Discussion Moves
+
+Learners can use sentence frames such as:
+
+- "I see it differently because..."
+- "One reason I think that is..."
+- "Can you explain what you mean by...?"
+- "What evidence supports that?"
+- "Who might be affected by this?"
+- "I agree with this part, but I wonder about..."
+- "Another perspective might be..."
+- "I changed my thinking because..."
+
+The goal is not to force agreement. The goal is to help learners practice listening, giving reasons, asking better questions, and treating people with dignity while discussing shared problems.
 
 :::info Ground Rules for Civic Participation Discussions
 This week involves practicing speaking up — which can feel vulnerable. Before starting:
@@ -318,7 +335,39 @@ This week involves practicing speaking up — which can feel vulnerable. Before 
 2. **Constructive feedback only.** When giving feedback on someone's public comment or letter, start with what worked well, then suggest one improvement.
 3. **Real opinions, respectful tone.** The topics for public comment practice should be things the learner genuinely cares about — but the tone should always be respectful, just like in a real meeting.
 4. **No topic is too small.** Wanting a bench at a bus stop or better lighting in a park are legitimate civic concerns.
+5. **Private family information stays private.** No one needs to share family political beliefs, voting history, citizenship status, or neighborhood safety concerns to do this lesson.
 :::
+
+---
+
+## Civic Checkpoint
+
+When learners see a rule, announcement, claim, poster, news story, policy idea, or civic message, they can ask:
+
+- Who created this rule, message, or announcement?
+- Who is it for?
+- What does it want people to think, feel, do, or understand?
+- What claim is being made?
+- What evidence, reasons, or examples are shown?
+- Who benefits?
+- Who is affected?
+- Who might be missing or left out?
+- How might money, power, popularity, identity, media, or special interests shape this message?
+- What should I check before I trust, share, repeat, or act on this?
+
+## Civic Information Balance Moves
+
+When a civic message, news story, feed, or conversation starts to feel one-sided, learners can:
+
+- look for another source on the same topic
+- compare a school, local, and national source when appropriate
+- ask whether the message shows facts, opinions, feelings, or persuasion
+- check whether an important group or perspective is missing
+- ask who benefits if people believe or share the message
+- pause before assuming "everyone thinks this"
+- talk with a trusted adult before sharing or acting on confusing civic information
+
+Online feeds are shaped by many signals: what people click, watch, search, share, and react to, as well as what platforms are designed to promote. A feed can be useful, but it is not the whole community and not the whole truth.
 
 ---
 
@@ -354,7 +403,7 @@ This week is all about connecting to your actual local government, so take the t
 
 - **"Where and when does your local governing body meet? Can you find the next meeting agenda?"**
 - If your city or town posts meeting recordings online, use a real one for the observation activity. If not, check if meetings are broadcast on a local cable channel.
-- Help the learner find the name and contact information for at least one real local official — that makes the letter-writing activity feel genuine rather than hypothetical.
+- Help the learner find the name and contact information for at least one real local official if outreach is appropriate. If not, practice with a librarian, principal, youth council, or fictional council member instead.
 :::
 
 ---
@@ -363,7 +412,7 @@ This week is all about connecting to your actual local government, so take the t
 - **If kids express frustration about government, validate it.** Redirect toward civic tools: "What could a citizen *do* about that?" Focus on HOW to participate, not WHAT to advocate for.
 - **Keep letter-writing nonpartisan.** Guide toward specific, local issues (a park, a crosswalk, a school program) rather than divisive national debates.
 - **Public comment practice can feel awkward.** That's normal — it's hard for adults too. Praise the effort, not the polish.
-- **If the student wants to actually send the letter, help them.** Many officials respond to letters from young people, and a real reply can be a powerful civic experience.
+- **If the student wants to actually send the letter, make it optional and adult-approved.** Many officials respond to letters from young people, but practice letters and fictional audiences are also valid.
 :::
 
 ## Preview of Next Week

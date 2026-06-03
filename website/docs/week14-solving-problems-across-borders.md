@@ -305,7 +305,20 @@ Some problems are so big that no single country can fix them alone — things li
 
 ---
 
-## Discussion Norms for This Week
+## Civil Discussion Moves
+
+Learners can use sentence frames such as:
+
+- "I see it differently because..."
+- "One reason I think that is..."
+- "Can you explain what you mean by...?"
+- "What evidence supports that?"
+- "Who might be affected by this?"
+- "I agree with this part, but I wonder about..."
+- "Another perspective might be..."
+- "I changed my thinking because..."
+
+The goal is not to force agreement. The goal is to help learners practice listening, giving reasons, asking better questions, and treating people with dignity while discussing shared problems.
 
 :::info Ground Rules for Global Issues Discussions
 Global problems can trigger strong feelings — especially climate change, poverty, and conflict. Before starting:

@@ -52,6 +52,10 @@ The big idea:
 Elections are where civic literacy becomes personal. This week's lesson should feel **empowering**, not procedural. The student should leave thinking: "Someday I'll get to do this — and it actually matters." Keep the tone forward-looking and participatory. Remember: **strictly nonpartisan.** Use fictional candidates. Focus on the process, not any party or real candidate.
 :::
 
+:::info Guided or extension note
+For ages 8-9, focus on why voting exists, what makes an election fair, and how a secret ballot works. Detailed voting-rights history, campaign-message analysis, and the Electoral College are guided or optional extensions for older learners.
+:::
+
 ---
 
 ## Guided Session 1
@@ -355,7 +359,20 @@ Elections are how people in a democracy choose their leaders. When you vote, you
 
 ---
 
-## Discussion Norms for This Week
+## Civil Discussion Moves
+
+Learners can use sentence frames such as:
+
+- "I see it differently because..."
+- "One reason I think that is..."
+- "Can you explain what you mean by...?"
+- "What evidence supports that?"
+- "Who might be affected by this?"
+- "I agree with this part, but I wonder about..."
+- "Another perspective might be..."
+- "I changed my thinking because..."
+
+The goal is not to force agreement. The goal is to help learners practice listening, giving reasons, asking better questions, and treating people with dignity while discussing shared problems.
 
 :::info Ground Rules for Election Discussions
 Elections can touch on real family experiences and opinions. Before any discussion:
@@ -364,7 +381,67 @@ Elections can touch on real family experiences and opinions. Before any discussi
 2. **Respect that people vote differently — and that's the point.** Democracy depends on people making different choices based on different values.
 3. **Use "I think" language.** Say "I think this system is fair because…" rather than "This is obviously the right way."
 4. **It's OK to not have an opinion yet.** On something like the Electoral College, saying "I'm still thinking about it" is a perfectly good answer.
+5. **No one needs to share family voting habits or political beliefs.** Use fictional candidates, public examples, and process questions instead.
 :::
+
+---
+
+## Civic Checkpoint
+
+When learners see a rule, announcement, claim, poster, news story, policy idea, or civic message, they can ask:
+
+- Who created this rule, message, or announcement?
+- Who is it for?
+- What does it want people to think, feel, do, or understand?
+- What claim is being made?
+- What evidence, reasons, or examples are shown?
+- Who benefits?
+- Who is affected?
+- Who might be missing or left out?
+- How might money, power, popularity, identity, media, or special interests shape this message?
+- What should I check before I trust, share, repeat, or act on this?
+
+## Civic Information Balance Moves
+
+When a civic message, news story, feed, or conversation starts to feel one-sided, learners can:
+
+- look for another source on the same topic
+- compare a school, local, and national source when appropriate
+- ask whether the message shows facts, opinions, feelings, or persuasion
+- check whether an important group or perspective is missing
+- ask who benefits if people believe or share the message
+- pause before assuming "everyone thinks this"
+- talk with a trusted adult before sharing or acting on confusing civic information
+
+Online feeds are shaped by many signals: what people click, watch, search, share, and react to, as well as what platforms are designed to promote. A feed can be useful, but it is not the whole community and not the whole truth.
+
+## Influence Behind Civic Messages
+
+A civic message can be helpful and still be shaped by money, power, popularity, identity, or a group's goals. The question is not "Is this message bad?" The better question is: "What might shape what this message says, and what should I check?"
+
+Learners can ask:
+
+- Who made or paid for this message?
+- Is a group, campaign, business, influencer, or organization connected to it?
+- What does the message want people to believe or do?
+- Who benefits if people agree?
+- Who might disagree or be affected differently?
+- What evidence would help me judge this fairly?
+
+Use age-appropriate examples such as student council posters, school policy flyers, a community petition, or a local campaign sign.
+
+## AI-Generated Civic Media Awareness
+
+Some civic messages may include AI-generated or AI-edited images, voices, videos, comments, screenshots, articles, or summaries. That does not automatically make them bad or false, but it does mean we should check carefully before trusting, sharing, repeating, or acting on them.
+
+Learners can ask:
+
+- Who made this?
+- Where did it come from?
+- Is another trusted source saying the same thing?
+- Does it show evidence?
+- Could the image, voice, video, quote, screenshot, or comment be edited or AI-generated?
+- What should I check with a trusted adult first?
 
 ---
 

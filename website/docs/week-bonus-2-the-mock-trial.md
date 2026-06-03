@@ -333,7 +333,20 @@ This week, you run your own courtroom! You take on roles like judge, lawyer, wit
 
 ---
 
-## Discussion Norms for This Week
+## Civil Discussion Moves
+
+Learners can use sentence frames such as:
+
+- "I see it differently because..."
+- "One reason I think that is..."
+- "Can you explain what you mean by...?"
+- "What evidence supports that?"
+- "Who might be affected by this?"
+- "I agree with this part, but I wonder about..."
+- "Another perspective might be..."
+- "I changed my thinking because..."
+
+The goal is not to force agreement. The goal is to help learners practice listening, giving reasons, asking better questions, and treating people with dignity while discussing shared problems.
 
 :::info Ground Rules for the Mock Trial
 The mock trial can get competitive. Before starting:
