@@ -21,6 +21,7 @@ jobs:
           cache-dependency-path: ./website/package-lock.json
       - run: npm ci
       - run: npm run build
+      - run: npm run validate:build
 
   lint-links:
     needs: build
@@ -35,6 +36,7 @@ jobs:
       - run: npm ci
         working-directory: ./website
       - run: npm run build
+      - run: npm run validate:build
         working-directory: ./website
       - name: Mirror build under site base path for lychee
         run: |
