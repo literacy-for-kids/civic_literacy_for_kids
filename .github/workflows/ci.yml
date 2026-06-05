@@ -36,6 +36,7 @@ jobs:
       - run: npm ci
         working-directory: ./website
       - run: npm run build
+        working-directory: ./website
       - run: npm run validate:build
         working-directory: ./website
       - name: Mirror build under site base path for lychee
@@ -44,9 +45,8 @@ jobs:
           mkdir -p ./.lychee-root/civic_literacy_for_kids
           cp -R ./website/build/. ./.lychee-root/civic_literacy_for_kids/
           rm -f ./.lychee-root/civic_literacy_for_kids/404.html
-          find ./.lychee-root/civic_literacy_for_kids -type f -name '*.html' \
-            ! -name 'index.html' ! -name '404.html' | while read -r file; do
-            route_dir="${file%.html}"
+          find ./.lychee-root/civic_literacy_for_kids -type f -name '*.html'             ! -name 'index.html' ! -name '404.html' | while read -r file; do
+            route_dir="$(echo "$file" | sed '"'"'s/\.html$//'"'"')"
             mkdir -p "$route_dir"
             mv "$file" "$route_dir/index.html"
           done
@@ -59,6 +59,7 @@ jobs:
             --retry-wait-time 5
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
+            --exclude 'https://literacy-for-kids.github.io'
             --exclude 'https://www.congress.gov'
             --exclude 'https://bensguide.gpo.gov'
             --exclude 'https://www.c-span.org'
