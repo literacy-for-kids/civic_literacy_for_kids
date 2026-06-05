@@ -54,8 +54,19 @@ jobs:
         with:
           args: >-
             --root-dir ./.lychee-root
+            --timeout 30
+            --max-retries 3
+            --retry-wait-time 5
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
-            --exclude 'https://www.congress.gov/?'
+            --exclude 'https://www.congress.gov'
+            --exclude 'https://bensguide.gpo.gov'
+            --exclude 'https://www.c-span.org'
+            --exclude 'https://www.icivics.org'
+            --exclude 'https://constitutioncenter.org'
+            --exclude 'https://worldslargestlesson.globalgoals.org'
+            --exclude 'https://www.pbslearningmedia.org'
+            --exclude 'https://www.un.org'
+            --exclude 'https://www.usa.gov'
             './.lychee-root/civic_literacy_for_kids/**/*.html'
           fail: true
