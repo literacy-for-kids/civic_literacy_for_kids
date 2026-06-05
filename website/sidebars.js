@@ -103,6 +103,21 @@ const sidebars = {
           .map(c => ({type: 'link', label: c.label, href: c.href})),
       ],
     },
+    {
+      type: 'category',
+      label: 'Facilitator Resources',
+      description: 'Guides, tools, and planning support for parents, teachers, and facilitators',
+      collapsed: true,
+      items: [
+        'facilitator-guide',
+        'curriculum-map',
+        'scenario-cards',
+        'exit-ticket-bank',
+        'checks-for-understanding',
+        'skills-alignment',
+        'offline-use',
+      ],
+    },
     'license',
   ],
 };
