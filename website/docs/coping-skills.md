@@ -22,6 +22,16 @@ A strong feeling is a **signal, not a command.** It can tell you something matte
 
 Coping skills help you speak more clearly, listen better, and stay in the conversation instead of blowing it up or walking away. They don't ask you to stop caring or to give in — they help you turn a hot feeling into a useful contribution.
 
+## When this shows up
+
+These tools come in handy in everyday civic moments:
+
+- When a group decision does not go your way
+- When a rule feels unfair
+- When someone disagrees with you strongly
+- When you really want to interrupt
+- When a community problem feels too big to fix
+
 ## Tools that help in civic moments
 
 - **Pause before speaking** — one breath before you respond.
