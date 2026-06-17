@@ -36,6 +36,10 @@ Understanding *why* rules exist is the first step toward understanding how commu
 - [Independent Session](#independent-session)
 :::
 
+:::tip Coping Skill Moment
+When a rule feels unfair, the frustration is a signal worth noticing — and a reason to pause, not explode. Before reacting, ask: *"What is the rule, what is the reason for it, and what question can I ask clearly?"* (More on the [Coping Skills for Disagreement and Fairness](./coping-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

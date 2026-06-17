@@ -33,6 +33,10 @@ The big idea:
 - [Independent Session](#independent-session)
 :::
 
+:::tip Coping Skill Moment
+When you care about your case and someone pushes back, the urge to interrupt or talk louder is strong. Pause before speaking: one breath, then *"I disagree because…"* said calmly. If you do cut someone off, a quick repair — *"Sorry, please finish"* — keeps the discussion working. (More on the [Coping Skills for Disagreement and Fairness](./coping-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

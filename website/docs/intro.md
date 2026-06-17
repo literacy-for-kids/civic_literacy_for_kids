@@ -12,6 +12,8 @@ slug: /intro
 
 Many children grow up in communities without understanding how decisions are made, how laws work, or how they can participate. This curriculum changes that — not through memorization, but through exploration, discussion, and real-world projects.
 
+Civic life involves disagreement, fairness, and strong feelings. The short [Coping Skills for Disagreement and Fairness](./coping-skills.md) page introduces simple tools for pausing, listening, and staying in the conversation — so people can keep working on hard problems together.
+
 Over 18 weeks (plus an optional bonus module), students ages 8–12 discover:
 
 - Why communities need rules and agreements

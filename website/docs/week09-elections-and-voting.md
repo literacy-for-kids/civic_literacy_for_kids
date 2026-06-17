@@ -37,6 +37,10 @@ The big idea:
 - [Independent Session](#independent-session)
 :::
 
+:::tip Coping Skill Moment
+Losing a vote can sting, even when the process was fair. That disappointment is a feeling to ride out, not proof the system is broken. Take a breath, name it, and remember a vote you lose today can be revisited — staying in the group is how things change over time. (More on the [Coping Skills for Disagreement and Fairness](./coping-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

@@ -35,6 +35,10 @@ The big idea:
 - [Independent Session](#independent-session)
 :::
 
+:::tip Coping Skill Moment
+Noticing what's unfair or broken in a community can bring up real frustration. That feeling means you care — but it can also feel overwhelming. Turn it into one useful action: *"What is one problem, small enough to actually work on, that I could help with?"* (More on the [Coping Skills for Disagreement and Fairness](./coping-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

@@ -35,6 +35,10 @@ The big idea:
 - [Independent Session](#independent-session)
 :::
 
+:::tip Coping Skill Moment
+When groups want different things, it's easy to argue past each other. Before making your point, try one reset breath and ask: *"What does the other side care about?"* Understanding what someone wants is not the same as agreeing — but it's where real solutions start. (More on the [Coping Skills for Disagreement and Fairness](./coping-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin
