@@ -39,6 +39,10 @@ The big idea:
 Noticing what's unfair or broken in a community can bring up real frustration. That feeling means you care — but it can also feel overwhelming. Turn it into one useful action: *"What is one problem, small enough to actually work on, that I could help with?"* (More on the [Coping Skills for Disagreement and Fairness](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+A community problem is easier to act on once you can state it clearly. Try: "The problem is ___, and it affects ___." Defining the problem in plain words helps other people understand it, care about it, and join you in solving it. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

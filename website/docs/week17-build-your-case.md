@@ -37,6 +37,10 @@ The big idea:
 When you care about your case and someone pushes back, the urge to interrupt or talk louder is strong. Pause before speaking: one breath, then *"I disagree because…"* said calmly. If you do cut someone off, a quick repair — *"Sorry, please finish"* — keeps the discussion working. (More on the [Coping Skills for Disagreement and Fairness](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+A strong case is evidence plus a clear explanation. Build the bridge: "I think we should ___ because ___, and my evidence is ___." Reasons and evidence let people weigh your idea on its merits instead of just how loudly you argue it. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

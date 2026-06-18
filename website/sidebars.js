@@ -12,6 +12,7 @@ const sidebars = {
     'intro',
     'curriculum-overview',
     'coping-skills',
+    'communication-skills',
     {
       type: 'category',
       label: 'Unit 1: The Logic of Cooperation',

@@ -40,6 +40,10 @@ Understanding *why* rules exist is the first step toward understanding how commu
 When a rule feels unfair, the frustration is a signal worth noticing — and a reason to pause, not explode. Before reacting, ask: *"What is the rule, what is the reason for it, and what question can I ask clearly?"* (More on the [Coping Skills for Disagreement and Fairness](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+Rules make more sense once you understand their purpose. Instead of just objecting, ask a clear question: "Why does this rule exist — what problem is it trying to solve?" A good question helps everyone discuss a rule instead of just fighting about it. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

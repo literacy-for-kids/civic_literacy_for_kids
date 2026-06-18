@@ -39,6 +39,10 @@ The big idea:
 When groups want different things, it's easy to argue past each other. Before making your point, try one reset breath and ask: *"What does the other side care about?"* Understanding what someone wants is not the same as agreeing — but it's where real solutions start. (More on the [Coping Skills for Disagreement and Fairness](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+Solving a problem across borders means understanding that different groups need different things. Ask it directly: "What matters most to you in this?" Listening for another group's real needs — not just your own — is the communication move that makes shared solutions possible. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin
