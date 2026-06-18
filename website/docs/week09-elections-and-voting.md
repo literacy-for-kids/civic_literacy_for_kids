@@ -45,9 +45,6 @@ Losing a vote can sting, even when the process was fair. That disappointment is 
 Voting works best when people explain their choices respectfully. Try "I'm voting for ___ because ___," and listen to others do the same. Explaining your reasons — and hearing theirs — keeps an election about ideas, even when people disagree. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-People often vote for different solutions because they're naming different problems. Sorting facts from guesses helps a group agree on what they're actually trying to solve before they vote on how. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
 
 ## Facilitator Preparation
 
@@ -72,6 +69,11 @@ For ages 8-9, focus on why voting exists, what makes an election fair, and how a
 
 ## Guided Session 1
 ### Why We Vote
+
+:::tip Problem Solving Moment
+People often vote for different solutions because they're naming different problems. Sorting facts from guesses helps a group agree on what they're actually trying to solve before they vote on how. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 #### Learning Goal
 By the end of this session, the student can:
 
