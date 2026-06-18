@@ -43,6 +43,10 @@ When groups want different things, it's easy to argue past each other. Before ma
 Solving a problem across borders means understanding that different groups need different things. Ask it directly: "What matters most to you in this?" Listening for another group's real needs — not just your own — is the communication move that makes shared solutions possible. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+A global problem is too big to solve in one move. Break it into parts and pick one part a group could actually work on — a small shared step beats a giant plan nobody can start. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

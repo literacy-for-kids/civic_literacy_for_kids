@@ -45,6 +45,10 @@ Losing a vote can sting, even when the process was fair. That disappointment is 
 Voting works best when people explain their choices respectfully. Try "I'm voting for ___ because ___," and listen to others do the same. Explaining your reasons — and hearing theirs — keeps an election about ideas, even when people disagree. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+People often vote for different solutions because they're naming different problems. Sorting facts from guesses helps a group agree on what they're actually trying to solve before they vote on how. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

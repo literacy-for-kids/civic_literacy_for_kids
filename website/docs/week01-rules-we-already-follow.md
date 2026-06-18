@@ -44,6 +44,10 @@ When a rule feels unfair, the frustration is a signal worth noticing — and a r
 Rules make more sense once you understand their purpose. Instead of just objecting, ask a clear question: "Why does this rule exist — what problem is it trying to solve?" A good question helps everyone discuss a rule instead of just fighting about it. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+Every rule was written to solve some problem. Ask "What problem is this rule trying to fix?" — naming the problem makes the rule easier to understand, follow, or improve. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

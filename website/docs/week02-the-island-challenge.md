@@ -41,6 +41,10 @@ This is one of the most important ideas in civic life: communities work because 
 Designing a community together starts with listening, not deciding. Before settling on a rule, ask: "What does everyone here need?" Hearing each person out first — even when you already have an idea — leads to rules a group will actually accept. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+Before designing a community rule, ask "Who is affected, and what problem are we solving for them?" Public problems look different from different seats, so map who the problem touches first. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

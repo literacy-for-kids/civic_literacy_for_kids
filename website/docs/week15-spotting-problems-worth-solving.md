@@ -43,6 +43,10 @@ Noticing what's unfair or broken in a community can bring up real frustration. T
 A community problem is easier to act on once you can state it clearly. Try: "The problem is ___, and it affects ___." Defining the problem in plain words helps other people understand it, care about it, and join you in solving it. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+Before proposing a solution, write a clear problem statement. A well-named problem is half-solved; a vague one wastes everyone's effort solving the wrong thing. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin

@@ -41,6 +41,10 @@ When you care about your case and someone pushes back, the urge to interrupt or 
 A strong case is evidence plus a clear explanation. Build the bridge: "I think we should ___ because ___, and my evidence is ___." Reasons and evidence let people weigh your idea on its merits instead of just how loudly you argue it. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+A strong case separates facts from guesses. Mark what you can show evidence for and what is still an assumption — then go find the missing information before you argue. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Facilitator Preparation
 
 :::info Before You Begin
