@@ -8,7 +8,7 @@
 A structured, nonpartisan **civic literacy curriculum** for ages 8–12 that teaches young learners how communities organize, how governments work, and how citizens participate — through exploration, discussion, and real-world projects.
 
 🌐 **View the curriculum website:**  
-https://literacy-for-kids.github.io/civic_literacy_for_kids/
+https://civic.literacy-for-kids.com/
 
 ---
 
@@ -35,7 +35,7 @@ Each week uses three sessions (two teacher-led, one student-led) and can be adap
 
 ### Live Site
 
-Visit the curriculum: **[Civic Literacy for Kids](https://literacy-for-kids.github.io/civic_literacy_for_kids/)**
+Visit the curriculum: **[Civic Literacy for Kids](https://civic.literacy-for-kids.com/)**
 
 ---
 

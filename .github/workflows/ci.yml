@@ -60,7 +60,7 @@ jobs:
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
             --exclude '^/'
-            --exclude 'https://literacy-for-kids.github.io'
+            --exclude 'literacy-for-kids\.com'
             --exclude 'https://www.congress.gov'
             --exclude 'https://bensguide.gpo.gov'
             --exclude 'https://www.c-span.org'

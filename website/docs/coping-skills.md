@@ -10,7 +10,7 @@ slug: /coping-skills
 
 This curriculum is about how communities make rules, share decisions, and solve problems together. That work is full of **feelings**: the frustration of an unfair rule, the heat of a disagreement, the disappointment of losing a vote, the urge to interrupt when you feel strongly.
 
-This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills), connected to the civic skills this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://www.literacy-for-kids.com/docs/toolkits/coping-skills), connected to the civic skills this curriculum builds.
 
 ## Civic life involves disagreement
 
@@ -53,4 +53,4 @@ These are everyday coping and self-management tools, not therapy or medical advi
 
 The full toolkit has short lessons on noticing signals, pausing, grounding, breathing, body resets, checking your thoughts, asking for help, and building a personal coping menu:
 
-- [Coping Skills Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills)
+- [Coping Skills Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/coping-skills)

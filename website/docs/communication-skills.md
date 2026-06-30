@@ -10,7 +10,7 @@ slug: /communication-skills
 
 This curriculum is about how people live together — rules, fairness, voting, leadership, and solving shared problems. None of that works without communication. Civic life is built out of listening, disagreeing, explaining, questioning, and deciding together.
 
-This page is the local doorway into the Literacy for Kids [Communication Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication), connected to the civic thinking this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Communication Toolkit](https://www.literacy-for-kids.com/docs/toolkits/communication), connected to the civic thinking this curriculum builds.
 
 ## A few core ideas
 
@@ -47,4 +47,4 @@ These are everyday communication and self-management tools, not therapy or medic
 
 The full toolkit has short lessons on active listening, clarifying questions, explaining your thinking, disagreeing without attacking, asking for help, using feedback, and repairing misunderstandings:
 
-- [Communication Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication)
+- [Communication Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/communication)
