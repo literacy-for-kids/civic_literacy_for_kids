@@ -11,9 +11,20 @@ const sidebars = {
   curriculumSidebar: [
     'intro',
     'curriculum-overview',
-    'coping-skills',
-    'communication-skills',
-    'problem-solving-skills',
+    {
+      type: 'category',
+      label: 'Shared Skills',
+      collapsed: true,
+      items: [
+        'coping-skills',
+        'communication-skills',
+        'problem-solving-skills',
+        'learning-how-to-learn',
+        'executive-function',
+        'collaboration-skills',
+        'information-organization',
+      ],
+    },
     {
       type: 'category',
       label: 'Unit 1: The Logic of Cooperation',

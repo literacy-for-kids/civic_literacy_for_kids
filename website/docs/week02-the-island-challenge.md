@@ -41,10 +41,6 @@ This is one of the most important ideas in civic life: communities work because 
 Designing a community together starts with listening, not deciding. Before settling on a rule, ask: "What does everyone here need?" Hearing each person out first — even when you already have an idea — leads to rules a group will actually accept. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-Before designing a community rule, ask "Who is affected, and what problem are we solving for them?" Public problems look different from different seats, so map who the problem touches first. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -214,6 +210,10 @@ Let the student choose which method they think is best and explain why.
 ---
 
 ## Independent Session
+
+:::tip Problem Solving Moment
+Before designing a community rule, ask "Who is affected, and what problem are we solving for them?" Public problems look different from different seats, so map who the problem touches first. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 ### Island Constitution Writer
 #### Instruction
 You are the founder of your island community. Your job is to write the **Island Agreement** — the official rules for how your community will work.
@@ -261,6 +261,12 @@ This week is all about imagining you're stranded on a deserted island with a gro
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Feedback makes a system design better, not worse. After a first try, ask: "What did this attempt teach us, and what should the next version change?" Learning happens in Version 2.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 - Why did your island community need rules even though nobody was "in charge"?
 - What was the hardest part about creating rules for your island? Why?
 - Why is compromise important when people in a group disagree?

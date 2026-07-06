@@ -269,6 +269,12 @@ Every law starts as someone's idea for how to solve a problem. That idea gets wr
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+A multi-step process like how a law is made is easier to follow as a checklist. Write the steps in order and check them off — the order stops living only in your head.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 - What is the difference between a bill and a law?
 - Why does the lawmaking process have so many steps instead of just letting one person decide?
 - What is compromise, and why is it important when making laws?

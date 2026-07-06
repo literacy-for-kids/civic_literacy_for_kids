@@ -281,6 +281,12 @@ Your local government is the team of people who take care of your town — they 
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+Planning a local proposal is easier with visible roles and steps. Write who is doing what, and by when, so the shared work keeps moving.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 - What are three things your local government is responsible for?
 - How is a mayor similar to — and different from — the President of the United States?
 - Why do communities collect taxes? What would happen if they didn't?

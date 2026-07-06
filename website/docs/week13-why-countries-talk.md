@@ -151,6 +151,12 @@ Explain:
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+A problem shared by many countries has many kinds of information. Try a category map: who is affected, what each side needs, what has been tried, and what questions remain. Sorted information makes a big problem discussable.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### The Trade Game
 #### Learning Goal
 By the end of this session, the student can:
@@ -329,6 +335,12 @@ Countries can't do everything on their own — they need to trade with each othe
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+A huge shared problem gets startable when you pick one first step. Ask: what is one small part we could work on first? You do not have to solve the whole thing at once.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 - Why can't most countries produce everything they need on their own?
 - What is the difference between a treaty and an alliance?
 - In the Trade Game, what made a deal feel "fair"? What made it feel unfair?

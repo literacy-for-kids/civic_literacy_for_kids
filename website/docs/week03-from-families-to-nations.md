@@ -136,6 +136,12 @@ Explain:
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+Cooperation at different sizes is easier to compare with categories: family, neighborhood, town, nation. Sort one example of cooperation into each level — the pattern across levels is the lesson.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Why Bigger Groups Need More Structure
 #### Learning Goal
 By the end of this session, the student can:

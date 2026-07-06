@@ -54,6 +54,12 @@ Ages 8-9 should research with a facilitator and use a few carefully chosen sourc
 ---
 
 ## Guided Session 1
+
+:::tip Information Organization Moment
+An argument is stronger when its evidence is organized. Build a small table: each claim next to its source and support. If a claim has an empty row, that is your next research target.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Researching the Facts
 #### Learning Goal
 By the end of this session, the student can:
@@ -261,6 +267,12 @@ This week, you dig into your community problem like a real researcher! You find 
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Civic ideas often get clearer after feedback. When someone asks a question about your proposal, treat it as useful information: "What did their question show me I need to explain better?"
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 - Why is it important to use facts and evidence in a proposal instead of just saying how you feel about a problem?
 - What makes a source reliable? How can you tell if information is trustworthy?
 - What is one objection someone might raise to your proposal, and how would you respond?

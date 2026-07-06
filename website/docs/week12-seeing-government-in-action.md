@@ -54,6 +54,12 @@ Public comment, letter-writing, and meeting research should stay guided. No lear
 ---
 
 ## Guided Session 1
+
+:::tip Collaboration Moment
+Observing as a group works better with roles. One person can watch who speaks, one can track decisions, one can note questions. Afterward, combine what each role saw — the group notices more than any one watcher.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### How Citizens Participate
 #### Learning Goal
 By the end of this session, the student can:

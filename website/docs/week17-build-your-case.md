@@ -37,10 +37,6 @@ The big idea:
 When you care about your case and someone pushes back, the urge to interrupt or talk louder is strong. Pause before speaking: one breath, then *"I disagree because…"* said calmly. If you do cut someone off, a quick repair — *"Sorry, please finish"* — keeps the discussion working. (More on the [Coping Skills for Disagreement and Fairness](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-A strong case is evidence plus a clear explanation. Build the bridge: "I think we should ___ because ___, and my evidence is ___." Reasons and evidence let people weigh your idea on its merits instead of just how loudly you argue it. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 
 ## Facilitator Preparation
 
@@ -172,6 +168,10 @@ Mark any sections that need revision. The student can revise during the independ
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+A strong case is evidence plus a clear explanation. Build the bridge: "I think we should ___ because ___, and my evidence is ___." Reasons and evidence let people weigh your idea on its merits instead of just how loudly you argue it. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### Practice Your Presentation
 #### Learning Goal
 By the end of this session, the student can:
@@ -321,6 +321,12 @@ This week, you put everything together! You write your full proposal — explain
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Feedback is information that improves your argument. Ask one person for a single change: "What is one part that was unclear?" Then build a stronger Version 2 of your case.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 - Why is it important to address objections in your proposal instead of ignoring them?
 - What is the difference between reading your proposal out loud and giving a presentation?
 - Which piece of evidence in your proposal do you think is the strongest? Why?

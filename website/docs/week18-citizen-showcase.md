@@ -122,6 +122,12 @@ After each presentation, collect feedback:
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+Civic work often means people disagree and still keep building. Try asking: "What part of our shared goal do we agree on?" That gives the group a place to continue.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Looking Back, Looking Forward
 #### Learning Goal
 By the end of this session, the student can:
@@ -274,6 +280,12 @@ This is the big finish! You present your Community Patch proposal to a real audi
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+Before a showcase, run a done-enough check: what was the purpose, what parts matter most, and what can wait? Done enough for the audience beats endless tinkering.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 - Looking back at the whole course, what is the most important thing you learned about how communities work?
 - How has your idea of what it means to be a "citizen" changed since Week 1?
 - What civic skill that you practiced in this course do you think you'll use the most in your everyday life?

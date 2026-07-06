@@ -139,6 +139,12 @@ The key insight: **Both are agreements that a community made about how to govern
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+A founding document is a lot of information. Sorting it into three piles — rules, roles, and rights — makes the structure visible. The same three-pile sort works on any set of rules you meet.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### The Bill of Rights — Protections for You
 #### Learning Goal
 By the end of this session, the student can:

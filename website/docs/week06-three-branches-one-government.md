@@ -53,6 +53,12 @@ Avoid making this a memorization exercise. The goal is for the student to unders
 ---
 
 ## Guided Session 1
+
+:::tip Collaboration Moment
+The three branches are roles at a national scale: different jobs, one shared system. When your group works together, try the same move — visible roles with different powers, all aimed at the same goal.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Who Does What?
 #### Learning Goal
 By the end of this session, the student can:

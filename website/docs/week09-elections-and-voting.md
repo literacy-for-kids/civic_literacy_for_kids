@@ -41,10 +41,6 @@ The big idea:
 Losing a vote can sting, even when the process was fair. That disappointment is a feeling to ride out, not proof the system is broken. Take a breath, name it, and remember a vote you lose today can be revisited — staying in the group is how things change over time. (More on the [Coping Skills for Disagreement and Fairness](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-Voting works best when people explain their choices respectfully. Try "I'm voting for ___ because ___," and listen to others do the same. Explaining your reasons — and hearing theirs — keeps an election about ideas, even when people disagree. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 
 ## Facilitator Preparation
 
@@ -177,6 +173,10 @@ Key insight: Elections depend on a powerful custom: **accepting the results — 
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+Voting works best when people explain their choices respectfully. Try "I'm voting for ___ because ___," and listen to others do the same. Explaining your reasons — and hearing theirs — keeps an election about ideas, even when people disagree. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### The Right to Vote — A History
 #### Learning Goal
 By the end of this session, the student can:
@@ -334,6 +334,12 @@ Elections are how people in a democracy choose their leaders. When you vote, you
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Process steps like how voting works stick better when you recall them without looking. Cover the steps, say them from memory, then check — practice the fuzzy ones again.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 - Why do democracies use elections instead of just letting someone pick themselves as leader?
 - Name two ways that voting rights have expanded since the United States was founded.

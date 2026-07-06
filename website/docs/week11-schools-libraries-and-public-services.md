@@ -270,6 +270,12 @@ Public services are the things your community shares — like schools, libraries
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+A proposal is easier to finish when the job is clear. Ask: "What problem are we addressing, what is our first step, and what would count as done enough for this draft?"
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 - Name three public services you used today. Who provides them?
 - What is the difference between a public service and a private service?
 - Why might a community choose to make something a public service instead of leaving it private?

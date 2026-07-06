@@ -141,6 +141,12 @@ Ask:
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+A social contract is a shared goal written down: what we give, what we get, and what we owe each other. When your group makes an agreement, say the shared goal out loud so everyone is signing up for the same thing.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Is It Fair?
 #### Learning Goal
 By the end of this session, the student can:

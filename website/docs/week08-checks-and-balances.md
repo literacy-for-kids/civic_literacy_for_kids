@@ -148,6 +148,12 @@ Ask after each:
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+Checks and balances work because no single voice decides everything. Groups can borrow that idea: make sure every member has a real way to question a plan before it becomes final.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### What If the System Fails?
 #### Learning Goal
 By the end of this session, the student can:

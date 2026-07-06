@@ -40,10 +40,6 @@ Understanding *why* rules exist is the first step toward understanding how commu
 When a rule feels unfair, the frustration is a signal worth noticing — and a reason to pause, not explode. Before reacting, ask: *"What is the rule, what is the reason for it, and what question can I ask clearly?"* (More on the [Coping Skills for Disagreement and Fairness](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-Rules make more sense once you understand their purpose. Instead of just objecting, ask a clear question: "Why does this rule exist — what problem is it trying to solve?" A good question helps everyone discuss a rule instead of just fighting about it. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 
 ## Facilitator Preparation
 
@@ -151,6 +147,10 @@ Ask:
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+Rules make more sense once you understand their purpose. Instead of just objecting, ask a clear question: "Why does this rule exist — what problem is it trying to solve?" A good question helps everyone discuss a rule instead of just fighting about it. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### What Happens Without Rules?
 #### Learning Goal
 By the end of this session, the student can:
@@ -277,6 +277,12 @@ This week is all about noticing the rules you already follow every single day �
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Civic ideas make more sense after a teach-back. Try: "This rule exists because ___, and an example is ___." If the example is hard to explain, that is the part to practice next.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 - Why do most rules exist? Can you name at least two reasons?
 - Pick a rule you follow at home or school. What problem does that rule solve?
 - If you could remove one rule for a day, what do you think would happen? Would things get better or worse?

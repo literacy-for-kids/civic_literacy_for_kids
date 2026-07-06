@@ -39,10 +39,6 @@ The big idea:
 Noticing what's unfair or broken in a community can bring up real frustration. That feeling means you care — but it can also feel overwhelming. Turn it into one useful action: *"What is one problem, small enough to actually work on, that I could help with?"* (More on the [Coping Skills for Disagreement and Fairness](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-A community problem is easier to act on once you can state it clearly. Try: "The problem is ___, and it affects ___." Defining the problem in plain words helps other people understand it, care about it, and join you in solving it. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 
 ## Facilitator Preparation
 
@@ -141,6 +137,10 @@ Go through the list and mark which problems pass all three filters. Circle the b
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+A community problem is easier to act on once you can state it clearly. Try: "The problem is ___, and it affects ___." Defining the problem in plain words helps other people understand it, care about it, and join you in solving it. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### Choosing Your Problem and Understanding Who's in Charge
 #### Learning Goal
 By the end of this session, the student can:
@@ -273,6 +273,12 @@ This week, you become a community detective! You take a walk through your neighb
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+Before taking on a civic problem, clear the job: what problem are we solving, and what does done look like? A clear target keeps a big project from feeling impossible to start.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 - What makes a community problem "worth solving"? Why can't you pick any problem in the world?
 - Who are the stakeholders for the problem you chose? How does the problem affect them?
 - What is the difference between noticing a problem and doing something about it?

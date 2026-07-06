@@ -39,10 +39,6 @@ The big idea:
 When groups want different things, it's easy to argue past each other. Before making your point, try one reset breath and ask: *"What does the other side care about?"* Understanding what someone wants is not the same as agreeing — but it's where real solutions start. (More on the [Coping Skills for Disagreement and Fairness](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-Solving a problem across borders means understanding that different groups need different things. Ask it directly: "What matters most to you in this?" Listening for another group's real needs — not just your own — is the communication move that makes shared solutions possible. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 
 ## Facilitator Preparation
 
@@ -134,6 +130,10 @@ Share real examples of progress:
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+Solving a problem across borders means understanding that different groups need different things. Ask it directly: "What matters most to you in this?" Listening for another group's real needs — not just your own — is the communication move that makes shared solutions possible. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### Building Global Solutions
 #### Learning Goal
 By the end of this session, the student can:
@@ -288,6 +288,12 @@ Some problems are so big that no single country can fix them alone — things li
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Big, many-sided problems get easier when you revisit one part at a time. Learn one country's view or one part of the system, check it, then add the next piece — small passes beat one giant one.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 - Name two global challenges that cannot be solved by one country acting alone. Why not?
 - What are the Sustainable Development Goals, and why did countries agree to them?
 - What is the "free rider problem" in international cooperation? Why is it such a challenge?
