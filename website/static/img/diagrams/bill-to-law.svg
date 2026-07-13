@@ -1,0 +1,76 @@
+<svg viewBox="0 0 860 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="blTitle">
+  <title id="blTitle">How a bill becomes a law: problem, bill written, committee, House vote, Senate vote, then the President signs or vetoes; Congress can override a veto with a two-thirds vote</title>
+  <defs>
+    <marker id="blA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#4338ca"/>
+    </marker>
+    <marker id="blR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="438" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">How a Bill Becomes a Law</text>
+
+  <!-- row 1 -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13" text-anchor="middle">
+    <g>
+      <rect x="30" y="75" width="140" height="60" rx="10" fill="#eef2ff" stroke="#4338ca" stroke-width="2"/>
+      <text x="100" y="100" font-weight="700" fill="#4338ca">1 &#183; Problem</text>
+      <text x="100" y="120" fill="#1e293b">someone has an idea</text>
+    </g>
+    <g>
+      <rect x="196" y="75" width="140" height="60" rx="10" fill="#eef2ff" stroke="#4338ca" stroke-width="2"/>
+      <text x="266" y="100" font-weight="700" fill="#4338ca">2 &#183; Bill written</text>
+      <text x="266" y="120" fill="#1e293b">the idea on paper</text>
+    </g>
+    <g>
+      <rect x="362" y="75" width="140" height="60" rx="10" fill="#eef2ff" stroke="#4338ca" stroke-width="2"/>
+      <text x="432" y="100" font-weight="700" fill="#4338ca">3 &#183; Committee</text>
+      <text x="432" y="120" fill="#1e293b">studies + can change it</text>
+    </g>
+    <g>
+      <rect x="528" y="75" width="140" height="60" rx="10" fill="#eef2ff" stroke="#4338ca" stroke-width="2"/>
+      <text x="598" y="100" font-weight="700" fill="#4338ca">4 &#183; House votes</text>
+      <text x="598" y="120" fill="#1e293b">debate, then vote</text>
+    </g>
+    <g>
+      <rect x="694" y="75" width="140" height="60" rx="10" fill="#eef2ff" stroke="#4338ca" stroke-width="2"/>
+      <text x="764" y="100" font-weight="700" fill="#4338ca">5 &#183; Senate votes</text>
+      <text x="764" y="120" fill="#1e293b">debate, then vote</text>
+    </g>
+  </g>
+  <g stroke="#4338ca" stroke-width="2.5">
+    <line x1="170" y1="105" x2="192" y2="105" marker-end="url(#blA)"/>
+    <line x1="336" y1="105" x2="358" y2="105" marker-end="url(#blA)"/>
+    <line x1="502" y1="105" x2="524" y2="105" marker-end="url(#blA)"/>
+    <line x1="668" y1="105" x2="690" y2="105" marker-end="url(#blA)"/>
+  </g>
+
+  <!-- elbow to president -->
+  <path d="M764,135 L764,165 L430,165 L430,188" fill="none" stroke="#4338ca" stroke-width="2.5" marker-end="url(#blA)"/>
+
+  <!-- president -->
+  <rect x="330" y="192" width="200" height="56" rx="10" fill="#4338ca"/>
+  <text x="430" y="216" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700" fill="#ffffff">6 &#183; The President decides</text>
+  <text x="430" y="236" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#c7d2fe">sign it&#8230; or veto it?</text>
+
+  <!-- sign branch -->
+  <path d="M530,220 L600,220 L600,308" fill="none" stroke="#16a34a" stroke-width="2.5" marker-end="url(#blA)"/>
+  <text x="618" y="260" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" fill="#16a34a">signs it</text>
+  <rect x="530" y="312" width="140" height="54" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="2.5"/>
+  <text x="600" y="345" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="18" font-weight="800" fill="#166534">LAW!</text>
+
+  <!-- veto branch -->
+  <path d="M330,220 L240,220 L240,308" fill="none" stroke="#dc2626" stroke-width="2.5" marker-end="url(#blR)"/>
+  <text x="252" y="260" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" fill="#dc2626">vetoes it</text>
+  <rect x="130" y="312" width="220" height="54" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+  <text x="240" y="335" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="700" fill="#dc2626">Veto</text>
+  <text x="240" y="354" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#1e293b">sent back to Congress</text>
+
+  <!-- override -->
+  <line x1="350" y1="339" x2="526" y2="339" stroke="#4338ca" stroke-width="2.5" stroke-dasharray="7 6" marker-end="url(#blA)"/>
+  <text x="438" y="330" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#4338ca">override: &#8532; of Congress</text>
+  <text x="438" y="358" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#4338ca">votes yes again</text>
+
+  <text x="430" y="412" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">A bill can be changed or stopped at almost every step &#8212; that is by design.</text>
+</svg>

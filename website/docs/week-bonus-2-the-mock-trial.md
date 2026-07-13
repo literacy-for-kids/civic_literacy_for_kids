@@ -44,7 +44,7 @@ The big idea:
   - **5+ people:** Full roles — judge, prosecutor, defense attorney, witnesses, and jury.
 - Read through the case below (The Case of the Missing Library Books) and prepare the role cards.
 - Print or write out the case summary and role assignments.
-- Set up a "courtroom" — a table at the front for the judge, chairs for the jury, tables for the lawyers.
+- Set up a "courtroom" — a table at the front for the judge, chairs for the jury, tables for the lawyers. Use the [courtroom layout diagram](/img/diagrams/courtroom-layout.svg) from the Understanding Courts module as your seating guide.
 - Prepare a visual timer for sessions.
 :::
 

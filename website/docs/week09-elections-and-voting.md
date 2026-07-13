@@ -222,6 +222,8 @@ Walk through the major milestones. For each one, ask: *"Who was left out before 
 | **1964–1965** | Real enforcement of voting rights for Black Americans | **24th Amendment** (banned poll taxes) and **Voting Rights Act of 1965** (banned literacy tests and other barriers) |
 | **1971** | 18-year-olds gained the right to vote | **26th Amendment** — during the Vietnam War, people argued: "If you're old enough to fight, you're old enough to vote" |
 
+![Timeline of the expanding right to vote in the United States, from 1789 to 1971](/img/diagrams/voting-rights-timeline.svg)
+
 After the timeline, draw or describe the expanding circle:
 
 > "Imagine a circle. In 1789, it was tiny — just a few people. Over almost 200 years, that circle kept expanding. Today, **most adult U.S. citizens** have the right to vote — but access is not perfectly equal everywhere, and some groups still face barriers. Every expansion happened because people organized and fought for it, and that work is ongoing."

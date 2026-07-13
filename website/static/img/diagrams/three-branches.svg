@@ -1,0 +1,74 @@
+<svg viewBox="0 0 860 430" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tbTitle">
+  <title id="tbTitle">The three branches of government: legislative makes the laws, executive carries out the laws, judicial interprets the laws</title>
+  <defs>
+    <marker id="tbA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#4338ca"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="428" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+
+  <!-- constitution -->
+  <rect x="290" y="30" width="280" height="54" rx="10" fill="#4338ca"/>
+  <text x="430" y="53" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="700" fill="#ffffff">The Constitution</text>
+  <text x="430" y="72" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#c7d2fe">one system &#183; three jobs</text>
+
+  <g stroke="#4338ca" stroke-width="2.5" fill="none">
+    <path d="M340,84 L165,84 L165,116" marker-end="url(#tbA)"/>
+    <line x1="430" y1="84" x2="430" y2="116" marker-end="url(#tbA)"/>
+    <path d="M520,84 L695,84 L695,116" marker-end="url(#tbA)"/>
+  </g>
+
+  <!-- legislative -->
+  <g>
+    <rect x="45" y="120" width="240" height="250" rx="12" fill="#eef2ff" stroke="#4338ca" stroke-width="2"/>
+    <!-- capitol icon: dome + base -->
+    <g transform="translate(165 168)">
+      <rect x="-46" y="14" width="92" height="10" fill="#4338ca"/>
+      <rect x="-38" y="24" width="8" height="18" fill="#4338ca"/><rect x="-20" y="24" width="8" height="18" fill="#4338ca"/><rect x="-4" y="24" width="8" height="18" fill="#4338ca"/><rect x="12" y="24" width="8" height="18" fill="#4338ca"/><rect x="30" y="24" width="8" height="18" fill="#4338ca"/>
+      <path d="M-26,14 A26,26 0 0 1 26,14 Z" fill="#4338ca"/>
+      <rect x="-3" y="-22" width="6" height="12" fill="#4338ca"/>
+    </g>
+    <text x="165" y="248" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="17" font-weight="700" fill="#4338ca">LEGISLATIVE</text>
+    <text x="165" y="274" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14.5" font-weight="600" fill="#1e293b">Makes the laws</text>
+    <text x="165" y="300" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#475569">Congress: Senators +</text>
+    <text x="165" y="318" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#475569">Representatives</text>
+    <text x="165" y="346" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#94a3b8">Capitol Building</text>
+  </g>
+
+  <!-- executive -->
+  <g>
+    <rect x="310" y="120" width="240" height="250" rx="12" fill="#eef2ff" stroke="#4338ca" stroke-width="2"/>
+    <!-- white house icon: pediment + columns -->
+    <g transform="translate(430 168)">
+      <polygon points="-34,-2 34,-2 0,-24" fill="#4338ca"/>
+      <rect x="-42" y="0" width="84" height="8" fill="#4338ca"/>
+      <rect x="-34" y="8" width="9" height="26" fill="#4338ca"/><rect x="-13" y="8" width="9" height="26" fill="#4338ca"/><rect x="8" y="8" width="9" height="26" fill="#4338ca"/><rect x="27" y="8" width="9" height="26" fill="#4338ca"/>
+      <rect x="-42" y="34" width="84" height="8" fill="#4338ca"/>
+    </g>
+    <text x="430" y="248" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="17" font-weight="700" fill="#4338ca">EXECUTIVE</text>
+    <text x="430" y="274" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14.5" font-weight="600" fill="#1e293b">Carries out the laws</text>
+    <text x="430" y="300" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#475569">The President</text>
+    <text x="430" y="318" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#475569">and their team</text>
+    <text x="430" y="346" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#94a3b8">White House</text>
+  </g>
+
+  <!-- judicial -->
+  <g>
+    <rect x="575" y="120" width="240" height="250" rx="12" fill="#eef2ff" stroke="#4338ca" stroke-width="2"/>
+    <!-- scales icon -->
+    <g transform="translate(695 172)" stroke="#4338ca" stroke-width="4" fill="none" stroke-linecap="round">
+      <line x1="0" y1="-24" x2="0" y2="30"/>
+      <line x1="-30" y1="-14" x2="30" y2="-14"/>
+      <path d="M-30,-14 L-40,6 A11,8 0 0 0 -20,6 Z" fill="#4338ca" stroke="none"/>
+      <path d="M30,-14 L20,6 A11,8 0 0 0 40,6 Z" fill="#4338ca" stroke="none"/>
+      <line x1="-14" y1="30" x2="14" y2="30"/>
+    </g>
+    <text x="695" y="248" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="17" font-weight="700" fill="#4338ca">JUDICIAL</text>
+    <text x="695" y="274" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14.5" font-weight="600" fill="#1e293b">Interprets the laws</text>
+    <text x="695" y="300" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#475569">Judges and the</text>
+    <text x="695" y="318" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#475569">Supreme Court</text>
+    <text x="695" y="346" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#94a3b8">Courthouses</text>
+  </g>
+
+  <text x="430" y="405" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Different jobs, one shared system &#8212; so no single person holds all the power.</text>
+</svg>

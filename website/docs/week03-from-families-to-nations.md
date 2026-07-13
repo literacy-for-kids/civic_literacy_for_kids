@@ -113,9 +113,7 @@ Help the student see that:
 
 Draw concentric circles (like a target) with the student at the center:
 
-```
-You → Family → School → Town → State → Country
-```
+![Concentric circles of community: you at the center, then family, school, town or city, state, and country](/img/diagrams/community-circles.svg)
 
 For each layer, write:
 - Who makes the rules?

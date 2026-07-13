@@ -118,15 +118,9 @@ If the President vetoes the bill, Congress can still pass it with a two-thirds v
 
 **3. Map It Out** *(8 minutes)*
 
-Draw a simple flowchart together:
+Draw a simple flowchart together, using this one as your model:
 
-```
-Problem → Bill Written → Committee → House Vote → Senate Vote → President Signs → LAW!
-                                                                  ↓
-                                                               Veto?
-                                                                  ↓
-                                                         Congress Override?
-```
+![How a bill becomes a law: problem, bill written, committee, House vote, Senate vote, then the President signs or vetoes — and Congress can override a veto with a two-thirds vote](/img/diagrams/bill-to-law.svg)
 
 Point to each step and ask:
 

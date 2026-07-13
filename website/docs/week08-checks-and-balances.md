@@ -117,7 +117,9 @@ Instead of listing all the checks at once, learn them in blocks and practice eac
 
 *Quick practice:* "Congress passes a law that violates the First Amendment. Who can stop it?" (The courts — judicial review.)
 
-Draw arrows between the branches showing each check.
+Draw arrows between the branches showing each check. When you're done, compare your drawing to this diagram:
+
+![Checks and balances: each branch of government can limit the other two — Congress, the President, and the Courts](/img/diagrams/checks-and-balances.svg)
 
 ---
 

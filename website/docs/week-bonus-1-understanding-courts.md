@@ -86,21 +86,9 @@ There are two main types of cases:
 
 **2. The Court System** *(8 minutes)*
 
-Draw a diagram showing two parallel court systems:
+Show or draw a diagram of the two parallel court systems:
 
-```
-              [U.S. Supreme Court]
-               /              \
-    Federal System         State System
-    ──────────────         ────────────
-  [Courts of Appeal]   [State Supreme Court]
-         |                      |
-  [District Courts]    [State Appeals Courts]
-                                |
-                       [State Trial Courts]
-                                |
-                       [Local / Municipal Courts]
-```
+![Two parallel court systems: state courts and federal courts, with the U.S. Supreme Court at the top of both](/img/diagrams/court-systems.svg)
 
 :::info Important
 State courts and federal courts are two **separate, parallel** systems. Most cases — including most criminal and civil cases — stay entirely in the state system. Federal courts handle cases involving federal laws, disputes between states, or constitutional questions. The U.S. Supreme Court sits at the top of **both** systems and can review decisions from either one.
@@ -134,6 +122,10 @@ Introduce the key roles:
 | **Defendant** | The person being accused or sued. |
 | **Witnesses** | People who saw something or have relevant information. They testify (tell their story under oath). |
 | **Bailiff** | Keeps order in the courtroom. |
+
+Show where everyone sits:
+
+![Courtroom layout seen from above: judge's bench at the front with the witness stand and clerk beside it, jury box on the side, prosecution and defense tables facing the bench, bailiff near the front, and the public gallery at the back](/img/diagrams/courtroom-layout.svg)
 
 >> "Every person in the courtroom has a specific job. Together, they make up the system that decides what's fair."
 
