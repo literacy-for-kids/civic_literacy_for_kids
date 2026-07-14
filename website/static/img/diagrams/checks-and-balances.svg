@@ -27,7 +27,7 @@
   <!-- Congress <-> President (left side) -->
   <path d="M340,155 C260,220 200,320 170,432" fill="none" stroke="#4338ca" stroke-width="2.5" marker-end="url(#cbA)"/>
   <path d="M205,435 C245,330 300,230 375,152" fill="none" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#cbA)"/>
-  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5">
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" stroke="#ffffff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">
     <text x="150" y="255" fill="#4338ca" font-weight="600">Congress checks the President:</text>
     <text x="150" y="273" fill="#475569">approves the budget &#183; can override</text>
     <text x="150" y="291" fill="#475569">a veto (&#8532;) &#183; can impeach</text>
@@ -38,7 +38,7 @@
   <!-- Congress <-> Courts (right side) -->
   <path d="M520,155 C600,220 660,320 690,432" fill="none" stroke="#4338ca" stroke-width="2.5" marker-end="url(#cbA)"/>
   <path d="M655,435 C615,330 560,230 485,152" fill="none" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#cbA)"/>
-  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5">
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" stroke="#ffffff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">
     <text x="710" y="255" fill="#4338ca" font-weight="600" text-anchor="end">Congress checks the Courts:</text>
     <text x="710" y="273" fill="#475569" text-anchor="end">the Senate confirms judges</text>
     <text x="575" y="330" fill="#64748b" font-weight="600" text-anchor="end">Courts check Congress:</text>
@@ -49,7 +49,7 @@
   <!-- President <-> Courts (bottom) -->
   <path d="M272,458 C380,430 480,430 586,458" fill="none" stroke="#4338ca" stroke-width="2.5" marker-end="url(#cbA)"/>
   <path d="M586,492 C480,522 380,522 272,492" fill="none" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#cbA)"/>
-  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" text-anchor="middle">
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" text-anchor="middle" stroke="#ffffff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">
     <text x="430" y="418" fill="#4338ca" font-weight="600">President checks the Courts: nominates judges</text>
     <text x="430" y="545" fill="#64748b" font-weight="600">Courts check the President: can rule actions unconstitutional</text>
   </g>
