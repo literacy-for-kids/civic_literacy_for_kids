@@ -173,6 +173,8 @@ Explain:
 
 > "Think of checks and balances like a fence around a garden. The fence doesn't grow the vegetables — but without it, animals will eat everything."
 
+![The broken fence analogy: a maintained fence keeps rabbits out of the garden, but when the fence is neglected and boards fall, the rabbits get in and eat the vegetables](/img/diagrams/broken-fence.svg)
+
 The checks don't do the work of governing. But without them, **power can be misused**.
 
 Ask:

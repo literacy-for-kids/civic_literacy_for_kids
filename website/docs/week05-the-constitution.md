@@ -315,6 +315,8 @@ Starting this week, the curriculum introduces a simple **Civic Inquiry Routine**
 > 3. **Where does the information come from?** (Is it an official source, an opinion, or something else?)
 > 4. **How could I check?** (Where else could I look to confirm or challenge this?)
 
+![The civic inquiry routine as four steps in a row: claim, evidence, source, check](/img/diagrams/civic-inquiry-routine.svg)
+
 **This week's practice:** The Constitution itself is a source. When someone says "You have the right to free speech," ask:
 
 - *Where in the Constitution does that come from?* (The First Amendment)
