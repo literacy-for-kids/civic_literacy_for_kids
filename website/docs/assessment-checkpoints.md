@@ -61,210 +61,174 @@ When learners see a rule, announcement, claim, poster, news story, policy idea, 
 
 Use the same routine in observations, conferences, quick writes, project check-ins, and final reflections. For the full routine set, see [Civic Checkpoint and Discussion Routines](/docs/civic-checkpoint).
 
-## Phase Checkpoint: Foundations of Civic Life
+## Checkpoint Timing and Scope
 
-### What this checkpoint is for
+Use the checkpoint after its listed lessons, or after those lessons in a flexible schedule. The prompts below assess taught core content; unrelated health, civic, media, or social topics and optional extensions are discussion opportunities, not advancement requirements. Accept drawings, speech, AAC, dictation, or model demonstrations.
 
-This checkpoint helps facilitators see whether learners understand that communities use rules, roles, and shared responsibilities to solve problems and help people live together. It is not a test. Learners may answer by talking, drawing, sorting cards, writing short notes, or explaining their thinking to a partner.
+| After lessons | Unit |
+|---|---|
+| Weeks 1–4 | The Logic of Cooperation |
+| Weeks 5–9 | The Architecture of Government |
+| Weeks 10–12 | Your Local Government |
+| Weeks 13–14 | The Global Community |
+| Weeks 15–18 | The Community Patch |
 
-### Look-fors
+Fictional or supplied examples are sufficient; personal records and private experiences are never necessary to demonstrate a concept. Use a later or alternate check if a learner passes.
 
-Learners are ready to move on when they can:
+### Shared Progress Scale
 
-- name rules from familiar settings and explain why they exist
-- identify at least one decision-maker in a classroom, school, library, club, or community space
-- describe a responsibility that helps a group work well
-- explain how a rule can support safety, fairness, or order
+- **Beginning:** Needs the concept modeled with a concrete example.
+- **Developing:** Explains part of the mechanism with prompts.
+- **Secure:** Explains the core relationship using the selected accessible response format.
+- **Extending:** Applies it to a new example and names assumptions or limits.
 
-### Checkpoint questions
+Use the phase-specific answer guidance below. Extension vocabulary, polished writing, and speed are not readiness criteria.
 
-- Why do groups make rules?
-- Who makes decisions in this setting?
-- What happens when a group has no shared expectations?
+## Phase Checkpoint: The Logic of Cooperation (Weeks 1–4)
 
-### Ready to move on
+### Lessons Assessed
 
-The learner can explain a familiar rule, who made it, and what problem it solves without relying only on memorized vocabulary.
+- [Week 1: Rules We Already Follow](./week01-rules-we-already-follow.md)
+- [Week 2: The Island Challenge](./week02-the-island-challenge.md)
+- [Week 3: From Families to Nations](./week03-from-families-to-nations.md)
+- [Week 4: The Social Contract](./week04-the-social-contract.md)
 
-### Reteach moves
+### Evidence to Use
 
-- Sort picture cards into home, school, library, club, and community rules.
-- Compare one written rule with one unwritten expectation.
-- Use a fictional classroom or playground problem and ask learners to design one fair rule.
-- Revisit Week 1 and Week 2 examples with drawing or acting instead of writing.
+An island-rule example and a rights/responsibilities explanation.
 
-### Checkpoint snapshot
+### Checkpoint Questions and Look-Fors
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Explains why rules exist | Needs help naming the purpose of a rule | Names one purpose with support | Explains how a rule supports safety, fairness, or order | Compares how one rule may solve more than one problem |
-| Identifies decision-makers | Needs prompts to name who decides | Names a decision-maker in one setting | Names decision-makers in multiple familiar settings | Explains how decision-making changes across settings |
-| Connects roles and responsibilities | Lists roles without explaining them | Describes a role or responsibility with support | Explains how roles and responsibilities help a group function | Explains what may happen when responsibilities are ignored |
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 1 | What problem might an everyday rule address? | Connect a rule to a purpose and distinguish a rule from a law at the learner's level. |
+| Week 2 | How can an island group decide how to share scarce supplies? | Describe an agreement, roles, and a tradeoff instead of assuming a single perfect rule. |
+| Week 3 | Why do families, towns, and nations need different scales of coordination? | Give a simple example of which level handles a shared problem. |
+| Week 4 | A child breaks a classroom rule. Do safety, education, and fair treatment still matter? | Yes. Responsibilities support rights; basic rights are not earned rewards. Address harm through support and fair consequences. |
 
-## Phase Checkpoint: Rights, Responsibilities, Rules, and Fairness
+### Ready to Move On
 
-Use one fictional check: "A child broke a classroom rule. Do they still deserve safety, education, and fair treatment?" Look for yes, with support or fair consequences that address the behavior without making basic rights conditional.
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-### What this checkpoint is for
+### Reteach Moves
 
-This checkpoint helps facilitators see whether learners can distinguish between rules, rights, responsibilities, and laws, and whether they can talk about fairness and tradeoffs without treating every disagreement as a fight.
+Compare two island rules and reuse the fictional rights question. Revisit Week 4 when rights are described as a payment for behavior.
 
-### Look-fors
+## Phase Checkpoint: The Architecture of Government (Weeks 5–9)
 
-Learners are ready to move on when they can:
+### Lessons Assessed
 
-- explain the difference between a right, a responsibility, a rule, and a law
-- explain that breaking a rule does not erase someone's basic rights
-- describe one fairness question or tradeoff in a public decision
-- explain why shared power and public procedures matter
-- use a respectful sentence frame during disagreement or debate
+- [Week 5: The Constitution — Our Founding Agreement](./week05-the-constitution.md)
+- [Week 6: Three Branches, One Government](./week06-three-branches-one-government.md)
+- [Week 7: How a Law Is Made](./week07-how-a-law-is-made.md)
+- [Week 8: Checks and Balances](./week08-checks-and-balances.md)
+- [Week 9: Elections and Voting](./week09-elections-and-voting.md)
 
-### Checkpoint questions
+### Evidence to Use
 
-- What is the difference between a rule and a law?
-- Why can a fair decision still involve tradeoffs?
-- Why do communities divide power instead of giving all power to one person?
+A branch diagram, law-making sequence, and fair-election example.
 
-### Ready to move on
+### Checkpoint Questions and Look-Fors
 
-The learner can explain one civic tradeoff and use civic vocabulary accurately enough to compare two examples.
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 5 | What does a constitution do? | It sets a framework for government and protections; it is more than an ordinary daily rule. |
+| Week 6 | What are the three branches' basic jobs? | Legislative makes laws, executive carries them out, judicial interprets laws and resolves cases; use child language. |
+| Week 7 | How can an idea become a law? | Order the main lesson steps and recognize that proposals may change or fail. |
+| Week 8 | How can one branch limit another? | Give a taught check-and-balance example and explain why shared power matters. |
+| Week 9 | What helps make an election fair? | Explain a taught feature such as clear rules, access, counting, or a secret ballot; no eligible voting or political preference disclosure is required. |
 
-### Reteach moves
+### Ready to Move On
 
-- Use a T-chart for rule versus law and right versus responsibility.
-- Role-play a small disagreement and practice civil discussion sentence frames.
-- Revisit a budget or compromise scenario with only two options at first.
-- Use school or library examples before state or national examples.
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-### Checkpoint snapshot
+### Reteach Moves
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Uses civic vocabulary | Mixes up rules, laws, rights, and responsibilities | Uses some terms correctly with support | Explains the terms in their own words | Applies the terms accurately in new situations |
-| Notices fairness and tradeoffs | Treats one choice as obviously right | Names a tradeoff with support | Explains why different people may choose differently | Compares several tradeoffs and their effects on different groups |
-| Participates in discussion | Needs reminders to listen and respond respectfully | Uses one sentence frame with support | Uses respectful discussion moves independently | Builds on another view and revises thinking with evidence |
+Sort branch-job cards, sequence a pretend bill, and review a mock ballot. Do not require detailed constitutional history or optional court content.
 
-## Phase Checkpoint: Civic Information and Source Checking
+## Phase Checkpoint: Your Local Government (Weeks 10–12)
 
-### What this checkpoint is for
+### Lessons Assessed
 
-This checkpoint helps facilitators see whether learners can slow down, identify a civic claim, look for evidence, and decide what should be checked before trusting or sharing information. It is not a test. Learners may answer by talking, drawing, sorting cards, writing short notes, or explaining their thinking to a partner.
+- [Week 10: Your Town, Your Rules](./week10-your-town-your-rules.md)
+- [Week 11: Schools, Libraries, and Public Services](./week11-schools-libraries-and-public-services.md)
+- [Week 12: Seeing Government in Action](./week12-seeing-government-in-action.md)
 
-### Look-fors
+### Evidence to Use
 
-Learners are ready to move on when they can:
+A local-role map, fictional public-service budget, and observation record.
 
-- identify who created a civic message
-- separate a claim from evidence or opinion
-- name at least one missing perspective or unanswered question
-- compare the message with another source or example
-- explain what they would check before sharing or acting
+### Checkpoint Questions and Look-Fors
 
-### Checkpoint questions
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 10 | Who could make a decision about a town service? | Name a relevant local role and how to find its actual responsibilities. |
+| Week 11 | Why can a public budget force a tradeoff? | Resources are limited while several services matter; explain one choice without treating access to basic rights as a reward. |
+| Week 12 | What did the government observation show, and what still needs checking? | Distinguish the observation from a guess and connect it to a local role or service. A recorded or supplied example can replace a field visit. |
 
-- What claim is this message making?
-- What evidence is shown?
-- What is missing or worth checking?
+### Ready to Move On
 
-### Ready to move on
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-The learner can use the Civic Checkpoint to explain why a message feels trustworthy, incomplete, or still worth checking.
+### Reteach Moves
 
-### Reteach moves
+Use a pretend town budget and a supplied meeting record. Match a public concern to a relevant decision maker before proposing action.
 
-- Use two fictional community posters side by side and underline the claims.
-- Sort cards into fact, opinion, feeling, and question.
-- Give learners sentence frames for asking what is missing.
-- Model checking a claim with one additional source.
+## Phase Checkpoint: The Global Community (Weeks 13–14)
 
-### Checkpoint snapshot
+### Lessons Assessed
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Identifies the civic message | Needs help naming the message or issue | Names the message with support | Clearly names the message and audience | Explains how audience affects the message |
-| Uses evidence | Gives an opinion without evidence | Points to one clue or reason | Uses relevant evidence from the example | Compares evidence across examples |
-| Checks before trusting | Trusts or rejects quickly | Names one thing to check with support | Explains what should be checked and why | Compares multiple sources or perspectives |
+- [Week 13: Diplomacy and Trade](./week13-why-countries-talk.md)
+- [Week 14: Solving Problems Across Borders](./week14-solving-problems-across-borders.md)
 
-## Phase Checkpoint: Civic Participation and Community Decision-Making
+### Evidence to Use
 
-### What this checkpoint is for
+A diplomacy example and a shared cross-border problem map.
 
-This checkpoint helps facilitators see whether learners can connect civic participation to real community decisions, identify appropriate audiences, and discuss disagreement respectfully.
+### Checkpoint Questions and Look-Fors
 
-### Look-fors
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 13 | Why might countries negotiate or trade rather than act alone? | Describe a shared interest, difference, and possible agreement; cooperation can involve tradeoffs. |
+| Week 14 | Why can a problem across borders require cooperation? | Explain connected effects and a realistic shared response, with limits to what one country or organization can do. |
 
-Learners are ready to move on when they can:
+### Ready to Move On
 
-- identify at least two ways people participate in community decision-making
-- explain who is responsible for a local issue or service
-- use respectful discussion moves when comparing solutions
-- describe how a meeting, letter, petition, or public comment could fit a specific issue
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-### Checkpoint questions
+### Reteach Moves
 
-- Who could make or influence this decision?
-- What is one respectful way to speak up about this issue?
-- Who else might be affected or have a different view?
+Use the taught negotiation activity and one shared-problem story. Detailed international law, organization powers, and policy debate are extensions.
 
-### Ready to move on
+## Phase Checkpoint: The Community Patch (Weeks 15–18)
 
-The learner can connect a real or fictional community problem to an audience, a participation method, and at least one tradeoff.
+### Lessons Assessed
 
-### Reteach moves
+- [Week 15: Spotting Problems Worth Solving](./week15-spotting-problems-worth-solving.md)
+- [Week 16: Research and Plan Your Proposal](./week16-research-and-plan.md)
+- [Week 17: Build Your Case](./week17-build-your-case.md)
+- [Week 18: Citizen Showcase](./week18-citizen-showcase.md)
 
-- Match issue cards to likely decision-makers.
-- Practice one short public comment or letter using a template.
-- Compare two meeting agendas and identify which item matters to a learner's example.
-- Use a school, library, park, transit, or apartment-building example before a citywide issue.
+### Evidence to Use
 
-### Checkpoint snapshot
+A problem statement, research notes, realistic proposal, and revision.
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Connects issue to decision-maker | Cannot yet identify who is responsible | Names a possible decision-maker with support | Identifies a realistic decision-maker or institution | Explains how more than one group may share responsibility |
-| Chooses participation method | Suggests action without matching it to the issue | Chooses a possible action with support | Matches a realistic civic action to the issue | Compares several participation options and their strengths |
-| Uses respectful civic reasoning | Reacts without reasons or listening | Gives a reason with prompting | Gives reasons, listens, and asks clarifying questions | Weighs evidence, tradeoffs, and perspectives in discussion |
+### Checkpoint Questions and Look-Fors
 
-## Phase Checkpoint: Civic Action Project
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 15 | What makes this problem specific and worth investigating? | Name an observable community need and affected people without claiming to know every perspective. |
+| Week 16 | What evidence and decision maker fit the proposal? | Identify relevant sources, distinguish observations from assumptions, and choose an appropriate audience. |
+| Week 17 | How does the proposal connect evidence to a feasible action? | Explain a concrete request, resources, tradeoffs, and uncertainties without exaggerating. |
+| Week 18 | What changed after feedback? | Explain one revision and a supported next step, giving credit for outside sources and help. |
 
-### What this checkpoint is for
+### Ready to Move On
 
-This checkpoint helps facilitators see whether learners can carry a community issue from observation to research, proposal, presentation, and reflection. It is a project checkpoint, not a high-stakes performance task.
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-### Look-fors
+### Reteach Moves
 
-Learners are ready to move on when they can:
-
-- describe a clear issue, need, rule, decision, or community problem
-- explain who is affected and who the audience is
-- support claims with evidence, examples, or sources
-- mention more than one perspective, tradeoff, or limitation
-- present or revise a plan respectfully and honestly
-
-### Checkpoint questions
-
-- What is the problem, and who is affected?
-- What evidence supports your proposal?
-- What tradeoff, concern, or missing perspective should you still think about?
-
-### Ready to move on
-
-The learner can present a realistic civic action idea that is honest about what they know, what they still need to check, and what audience they are trying to reach.
-
-### Reteach moves
-
-- Shrink the project to a more specific problem, setting, or audience.
-- Highlight claims in one color and evidence in another.
-- Practice answering one audience question with a sentence frame.
-- Use the Honest Civic Action Project Checklist before revising.
-
-### Checkpoint snapshot
-
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Defines the issue and audience | Topic is broad or unclear | Names an issue with support | Clearly defines the issue and intended audience | Explains why the audience and setting matter |
-| Supports claims with evidence | Relies mostly on opinion | Uses one example or source with support | Uses relevant evidence, examples, or sources | Weighs evidence from multiple sources or perspectives |
-| Revises and reflects | Resists revision or cannot explain next steps | Revises when prompted | Revises respectfully and explains what changed | Reflects on tradeoffs, limits, and future action steps |
+Narrow the proposal to one concern, one audience, and one action. Add a source and one tradeoff before polishing the showcase.
 
 ## Related Pages
 
