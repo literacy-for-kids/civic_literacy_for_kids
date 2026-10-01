@@ -236,3 +236,7 @@ Narrow the proposal to one concern, one audience, and one action. Add a source a
 - [Civic Checkpoint and Discussion Routines](/docs/civic-checkpoint)
 - [Learner Self-Assessment](/docs/self-assessment)
 - [Assessment Framework](/docs/assessment-framework)
+
+## Week 8 Institutional-Failure Check in Unit 2
+
+Use the [three fictional failure cases](./week08-checks-and-balances.md#what-if-the-system-fails). Ask for the rule or promise, evidence of the gap, affected people, responsible institution, and one follow-up that would show improvement. Expected: implementation, access, or disclosure failure; a realistic accountability route; no guarantee that a complaint fixes the problem. Revisit the case evidence if learners assume a rule's existence proves it works. Rights do not depend on the institution performing well.

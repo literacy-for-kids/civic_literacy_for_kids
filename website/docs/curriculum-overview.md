@@ -275,3 +275,7 @@ This curriculum teaches **how the system works**, not **what to think about it**
 Students are encouraged to form their own opinions, ask their own questions, and evaluate information critically. At no point does the curriculum advocate for any political party, candidate, or ideological position.
 
 The goal is to produce **informed, engaged citizens** — not to tell them what to believe.
+
+## Practical Core Skills
+
+[Week 8 includes complete fictional institutional-failure cases](./week08-checks-and-balances.md#what-if-the-system-fails): implementation gaps, inaccessible participation, and failed disclosure. Learners examine evidence and realistic accountability limits. Each activity includes materials, timing, a worked example, and a learning check. Follow the suggested substitution or add a meeting rather than fitting every activity into one short session.

@@ -28,3 +28,11 @@ sidebar_label: Curriculum Map
 | 18 | Citizen Showcase | What does it mean to be an active citizen? | Civic reflection and synthesis | citizen, participation, community, change | What is one thing you would do differently in your proposal if you started over? | Find out who in your real community you could present this to |
 | Bonus 1 | Understanding Courts | How do courts decide what is fair? | Court system analysis | court, judge, plaintiff, defendant, verdict | What is the difference between a criminal and a civil court case? | Research one landmark Supreme Court case |
 | Bonus 2 | The Mock Trial | How does a fair trial work? | Mock trial participation | trial, evidence, opening statement, verdict | After the trial: was the process fair? What would you change? | Research how jury selection works |
+
+## Practical Core Activities
+
+These activities are integrated into the existing weeks. Use the lesson's suggested substitution or add a meeting; they do not add new curriculum weeks.
+
+| Week | Added core skill | Evidence to collect |
+|---|---|---|
+| 8 | Institutional failures | Identify promise, evidence gap, responsibility, response limits |

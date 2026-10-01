@@ -12,7 +12,7 @@ You've learned that government is divided into three branches: legislative, exec
 
 But what happens if one branch tries to do something unfair? Who stops them?
 
-The answer: **the other branches**.
+Other branches can sometimes limit that action. But checks depend on people, procedures, access, and enforcement; they can fail.
 
 The founders designed a system where each branch has the power to **check** (limit or block) the others. This system is called **checks and balances**.
 
@@ -185,20 +185,23 @@ It breaks down. The same is true of checks and balances — they only work if pe
 
 ---
 
-**2. Historical Example (Simplified)** *(8 minutes)*
+**2. Failure Cases: A Check Can Be Missing or Ineffective** *(15–20 minutes; replace the vague historical overview)*
 
-Share a simple, nonpartisan example:
+These are **fictional town cases**, not claims about a real government. Each includes enough evidence to identify the failure and a possible response. Rights remain valid when institutions fail to protect them.
 
-> "There have been times in American history when people in power tried to do things the Constitution didn't allow. Sometimes the courts stopped them. Sometimes Congress stopped them. And sometimes ordinary citizens spoke up and demanded change."
+| Case and evidence card | What failed? | Possible response, with a limit |
+|---|---|---|
+| **A: The ignored inspection.** A town rule requires repairing unsafe playground equipment. An inspector reports a broken climbing rail. The service office records the report but does not arrange a repair; the rail is still broken a month later. | Implementation failed: a rule and report exist, but action did not follow. A promise is not evidence of repair. | With adult help, use the verified service-report route; ask who is responsible, what interim protection is needed, and when a follow-up will occur. A report does not guarantee prompt action; keep children away from the hazard and adults responsible for safety. |
+| **B: The inaccessible hearing.** A fictional council invites public comment only in an upstairs room with no accessible route. A wheelchair user cannot reach it. The council says, "Everyone was invited." | Access failed: an invitation did not give everyone an effective way to participate. | Ask the council to provide an accessible location or another usable comment route and check that it works. Adults can help escalate through the applicable access/complaint process. A new invitation alone does not solve the barrier. |
+| **C: The hidden contract.** A fictional town policy requires leaders to disclose conflicts before choosing a supplier. A committee member helps choose a company owned by their sibling but does not disclose the connection. The only evidence is a public ownership record and the meeting minutes; there is no evidence yet about price or quality. | Oversight/transparency failed: the required disclosure is missing. A connection is a reason to review the process, not proof that every part of the contract was corrupt. | Request review by an independent authorized body using the records. Ask whether the member should have stepped aside under the applicable rules. Investigation may clarify what happened; do not promise a specific verdict. |
 
-This connects all the way back to the One-Person Thought Experiment in Week 6 and the power discussions since Week 2. The founders didn't just *hope* no one would abuse power — they built a system to prevent it.
+For each case, ask: **What was supposed to happen? What did the evidence show? Who had power or access? Who was affected? Which check could help, and what could still go wrong?**
 
-Examples:
+**Paper task:** choose one case and complete: rule/promise ___; observed gap ___; affected people ___; responsible office ___; safe request ___; follow-up evidence ___. A useful follow-up is an actual repair, an accessible meeting that people can use, or a documented independent review — not just "we care."
 
-- When a President tried to ignore Congress's power over spending, the courts stepped in.
-- When Congress passed laws that weren't fair to everyone, citizens marched and protested until the laws were changed.
+**Answer guide:** A is a failure to carry out a rule; B is a participation barrier; C is a disclosure/oversight failure. Learners need not name a real official or contact anyone. For younger learners, act out A with a toy playground and a paper report. Older learners can distinguish what the evidence establishes from what still needs investigation.
 
-The system works — **but it needs active people to keep it working**.
+Checks and balances can reduce abuse, but do not always prevent it. Institutions may delay, exclude people, lack resources, share the same conflict, or ignore a check. Citizens and residents can seek accountability; responsibility for making the institution work does not fall on one child.
 
 ---
 
@@ -208,7 +211,7 @@ Ask:
 
 > "Can regular people act as a check on the government?"
 
-The answer is **yes**. Citizens check the government through:
+The answer is **yes**, though opportunities and results vary. Citizens and residents can seek accountability through:
 
 - **Voting** — choosing who leads
 - **Protesting** — speaking up when something is wrong
@@ -218,7 +221,7 @@ The answer is **yes**. Citizens check the government through:
 
 Write these down. Explain:
 
-> "The most important check on government isn't any branch — it's **the people**."
+> "People can seek accountability alongside institutional checks. Neither public pressure nor a written rule guarantees a fair result."
 
 ---
 
