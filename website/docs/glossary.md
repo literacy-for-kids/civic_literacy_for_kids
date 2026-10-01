@@ -336,7 +336,7 @@ A duty or something you are expected to do, such as following rules, helping you
 *Used in: Week 4, Week 15*
 
 **Right**
-A freedom that is protected by law, such as the right to speak freely, practice a religion, or have a fair trial.
+A protected freedom or entitlement, such as freedom of religion or fair treatment. Basic rights are not earned through good behavior; exact legal protections vary by place.
 *Used in: Week 1, Week 2, Week 4, Week 5, Week 6, Week 8, Week 9, Week 10, Week 12, Week 14, Week 15, Week 17, Week 18, Bonus Week 1, Bonus Week 2*
 
 **Rule**
@@ -356,7 +356,7 @@ The principle of dividing government into separate branches — legislative, exe
 *Used in: Week 6, Week 8*
 
 **Social contract**
-An agreement—often unwritten—between people and their government: the people follow the rules, and the government protects their rights.
+A way of thinking about government's duties to protect rights and people's responsibilities in community life. Basic rights are not rewards for following rules.
 *Used in: Week 4, Week 5, Week 14*
 
 **State government**

@@ -155,7 +155,7 @@ After each attempt, fill in together:
 
 | Unit | Big Idea |
 |------|----------|
-| **The Logic of Cooperation** | Rules exist for reasons. Communities need agreements. Rights come with responsibilities. |
+| **The Logic of Cooperation** | Rules exist for reasons. Communities need agreements. Rights protect everyone. |
 | **The Architecture of Government** | The Constitution is our founding agreement. Power is divided and checked. |
 | **Your Local Government** | Local government affects you the most. Showing up is a civic superpower. |
 | **The Global Community** | Global problems need global cooperation. Countries are like neighbors on a planet. |
@@ -173,7 +173,7 @@ Review the core mental models the student has been building all semester:
 
 1. **Rules Exist for Reasons** — Every rule was created to solve a problem. Understanding *why* rules exist helps you evaluate whether they're working.
 
-2. **Rights Come with Responsibilities** — In any community, members have protections *and* duties. These work together.
+2. **Rights Protect Everyone** — People have basic rights, and everyone has responsibilities to respect the rights of others. Rights are not rewards for good behavior.
 
 3. **Power Flows from the People** — In a democracy, authority comes from the consent of the governed. Leaders serve because people choose them.
 
@@ -376,7 +376,7 @@ The curriculum is over, but your civic life is just beginning. Here are ways to 
 - **Notice.** Look at your community with a citizen's eye — the same way you did during the Community Walk.
 - **Ask questions.** When you hear a claim about government, ask: "Is that what the system actually allows, or is that what someone wants it to allow?"
 - **Show up.** The people who participate are the people who get heard. That's been true since Week 1.
-- **Keep learning.** The five mental models you've built — Rules Exist for Reasons, Rights Come with Responsibilities, Power Flows from the People, Shared Power Prevents Abuse, and Participation Keeps Communities Healthy — will keep working for you in every civic moment you encounter.
+- **Keep learning.** The five mental models you've built — Rules Exist for Reasons, Rights Protect Everyone, Power Flows from the People, Shared Power Prevents Abuse, and Participation Keeps Communities Healthy — will keep working for you in every civic moment you encounter.
 
 You are not a bystander. You are a citizen. **Keep going.**
 :::

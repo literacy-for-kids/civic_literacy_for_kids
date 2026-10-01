@@ -2,11 +2,11 @@
 sidebar_position: 6
 sidebar_label: "Week 4: The Social Contract"
 title: "Week 4: The Social Contract"
-description: "Understand the idea that citizens and government have a two-way agreement: rights in exchange for responsibilities."
+description: "Explore how governments protect rights and how shared responsibilities support community life without making basic rights conditional on behavior."
 ---
 
 # Week 4: The Social Contract  
-*The Deal Between People and Government*
+*Protecting Rights and Sharing Responsibilities*
 
 Over the past three weeks, you've discovered something important:
 
@@ -20,11 +20,15 @@ But there's a deeper question we haven't answered yet:
 
 The answer lies in one of the most important ideas in civic life:
 
-**The Social Contract** — an unwritten agreement between the people and their government. The government promises to protect your rights and provide services. In return, you agree to follow the laws and contribute to the community.
+**The Social Contract** — a way of thinking about how people and government should live together. Government has duties to protect people's rights and provide public services. People also have responsibilities, such as respecting others' rights, following fair laws, and caring for shared spaces.
 
-If either side breaks the deal, the system stops working.
+These ideas connect, but basic rights are **not a payment for good behavior**. A child who breaks a rule still deserves safety, education, dignity, and fair treatment. Fair consequences can address what happened without erasing those protections.
 
-Think back to the island community from Week 2. Your islanders made rules and gave up some freedom in exchange for safety and fairness. That was a social contract in miniature — and every real community works the same way.
+Think back to the island community from Week 2. Your islanders made an agreement about sharing space and decisions. That is one model for discussing community responsibilities; a real government is more complex than a club agreement.
+
+:::note Rights Are Not Rewards
+Responsibilities help protect rights. They do not buy them. If someone fails a responsibility, ask what support or fair consequence is needed while keeping their basic rights protected. Exact legal protections vary by place; this lesson teaches the distinction between rights and rewards.
+:::
 
 ---
 
@@ -51,7 +55,7 @@ Think back to the island community from Week 2. Your islanders made rules and ga
 :::
 
 :::tip Teaching Mindset
-This is one of the most important weeks in the curriculum. The idea that rights and responsibilities are **connected** — that you cannot have one without the other — is the foundation for everything that comes next.
+This is one of the most important weeks in the curriculum. The key distinction is that people **have rights**, and people also **have responsibilities to respect others' rights**. Do not present safety, education, or fair treatment as rewards a child earns.
 
 Keep it concrete and personal. Use examples from the student's own life.
 :::
@@ -64,7 +68,7 @@ Keep it concrete and personal. Use examples from the student's own life.
 By the end of this session, the student can:
 
 - identify rights they have as members of a community
-- analyze the connection between each right and a corresponding responsibility
+- explain how responsibilities help protect rights without making those rights conditional
 - compare rights and responsibilities in different settings (home, school, country)
 
 ---
@@ -95,7 +99,7 @@ Explain:
 
 Ask:
 
-> "What are you expected to do in return?"
+> "What can people do to help protect everyone's rights?"
 
 Build a second list:
 
@@ -108,42 +112,44 @@ Build a second list:
 
 ---
 
-**3. The Two-Way Street** *(10 minutes)*
+**3. Protecting Rights Together** *(10 minutes)*
 
-Draw two columns:
+Draw two columns. These are protections and supporting actions, not a price list.
 
-| What You Get (Rights) | What You Give (Responsibilities) |
+| Right or community protection | Responsibility that helps protect it |
 |---|---|
-| Safe streets | Follow traffic laws |
-| Free school | Show up, try your best |
-| Freedom to speak | Speak honestly, listen to others |
-| Fair treatment | Treat others fairly |
-| Public parks and libraries | Take care of shared spaces |
+| Safety | Follow safety rules and ask for help when someone is in danger |
+| Education | Adults provide access and support; learners respect others' opportunity to learn |
+| Freedom to express ideas | Respect others' rights and do not threaten or harass people |
+| Fair treatment | Treat others fairly and use fair processes when a rule is broken |
+| Access to shared community spaces | Care for shared spaces and follow reasonable safety rules |
 
 Explain:
 
-> "This is the deal. The government and the community provide things you need. In return, you do your part. This two-way agreement is called **the social contract**."
+> "A community works better when government protects rights and people help protect each other. This is one way to think about **the social contract**. Your basic rights are still yours when you make a mistake."
 
 Ask:
 
-> "What happens if one side breaks the deal?"
+> "What should happen when someone does not meet a responsibility?"
 
-- If the government stops protecting rights → people lose trust and may push for change.
-- If people stop following responsibilities → the community breaks down.
+- If government fails to protect rights, people can seek support, accountability, and change. The failure does not mean those rights no longer matter.
+- If someone breaks a rule, use support and a fair process to address the harm. Their basic rights still need protection.
+
+Try a fictional example: a learner damages a library book. They may need to help repair the harm under a fair policy. They still deserve safety and fair treatment. Ask: "What consequence could address the damage without taking away those rights?"
 
 ---
 
 #### Reflection Questions
 - "Which right do you think is most important? Why?"
-- "Why can't you have rights without responsibilities?"
-- "What happens to a community when people take rights but ignore responsibilities?"
+- "Does breaking a rule erase a person's basic rights? Why not?"
+- "How can we address an ignored responsibility while protecting everyone's rights?"
 
 ---
 
 ## Guided Session 2
 
 :::tip Collaboration Moment
-A social contract is a shared goal written down: what we give, what we get, and what we owe each other. When your group makes an agreement, say the shared goal out loud so everyone is signing up for the same thing.
+A group agreement can name a shared goal, the protections everyone needs, and the responsibilities that help the group work. Say the goal out loud and ask whose needs are missing. Basic rights do not depend on signing an agreement.
 (More on the [Collaboration Skills](./collaboration-skills.md) page.)
 :::
 
@@ -223,7 +229,7 @@ There is no single correct answer. The act of defining it is the lesson.
 You've now completed Unit 1 — The Logic of Cooperation. Before moving on, name the two big mental models the student has been building:
 
 1. **Rules Exist for Reasons** — Every rule was created to solve a problem. Understanding *why* rules exist helps you evaluate whether they're working.
-2. **Rights Come with Responsibilities** — In any community, members have protections *and* duties. These work together.
+2. **Rights Protect Everyone** — People have basic rights, and everyone has responsibilities to respect the rights of others. Rights are not rewards for good behavior.
 
 Ask the student: *"Can you explain each of these in your own words?"* These ideas will keep coming back throughout the course.
 :::
@@ -238,19 +244,19 @@ Write or draw **Your Social Contract** — a personal agreement between you and 
 Your social contract should include:
 
 1. **At least 3 rights** you believe you should have as a member of your community.
-2. **At least 3 responsibilities** you agree to in return.
+2. **At least 3 responsibilities** that help protect everyone's rights.
 3. **A fairness statement** — one sentence about what fairness means to you.
 
 You can write it as a formal document, draw it as a poster, or create it as a two-column chart.
 
-Sign it at the bottom to make it official.
+You may sign it as a reminder of your intentions. A signature does not create or remove anyone's basic rights. Add this sentence: "Our basic rights stay protected even when someone makes a mistake."
 
 Be ready to explain why the rights and responsibilities you chose are the most important ones.
 
 ---
 
 #### Skills Reinforced
-- connecting rights to corresponding responsibilities
+- explaining how responsibilities help protect everyone's rights
 - evaluating fairness using multiple perspectives
 - articulating civic values in their own words
 - creating a personal civic commitment
@@ -265,16 +271,16 @@ Be ready to explain why the rights and responsibilities you chose are the most i
 ---
 
 :::info Key Vocabulary
-- **Social contract** — The unwritten deal between people and their government where both sides agree to do their part.
+- **Social contract** — A way of thinking about government's duties to protect rights and people's responsibilities in community life.
 - **Right** — Something you are allowed to do or have, like going to school or being safe.
-- **Responsibility** — Something you are expected to do in return, like following rules or being honest.
+- **Responsibility** — Something people should do to help keep a community safe and fair, such as respecting others' rights.
 - **Consent** — Agreeing to something by choice, not because you were forced.
 - **Freedom** — Being able to make your own choices without someone unfairly stopping you.
 - **Obligation** — Something you must do because it is part of an agreement or a duty.
 :::
 
 :::tip Kid-Friendly Summary
-This week is all about the big deal between people and their community — called the social contract. You get important things like safety, education, and fair treatment. In return, you agree to follow the rules, treat others with respect, and do your part. It's a two-way street: if either side stops holding up their end, the whole thing falls apart.
+This week explores the social contract: how government should protect rights and how people help their community work. Responsibilities matter, but safety, education, dignity, and fair treatment are not prizes for behaving well. When someone breaks a rule, use a fair process and address the harm while keeping their basic rights protected.
 :::
 
 ---
@@ -282,7 +288,7 @@ This week is all about the big deal between people and their community — calle
 ## Check for Understanding
 - In your own words, what is the social contract?
 - Can you give an example of one right you have and the responsibility that goes with it?
-- What happens when people take their rights but ignore their responsibilities?
+- If someone ignores a responsibility, what rights must still be protected?
 - Why is it important that both sides — the people and the government — keep their part of the deal?
 
 ---
@@ -290,7 +296,7 @@ This week is all about the big deal between people and their community — calle
 ## Core vs. Stretch
 
 **Core:**
-- Match at least three rights to their corresponding responsibilities using the two-column chart.
+- Explain how three responsibilities help protect rights, and explain why rights are not earned rewards.
 - Explain the social contract in their own words using a simple example from their life.
 - Create a personal social contract with at least three rights and three responsibilities.
 
@@ -350,15 +356,15 @@ This lesson needs no technology at all. Draw the two-column Rights vs. Responsib
 ---
 
 ## Local Adaptation Note
-Ask your learner: "What rights do you have at school? What responsibilities come with them?" or "What does our town provide for us, and what do people do in return?" Use real local examples — like public libraries, parks, or crossing guards — to show the social contract in action right where you live.
+Ask your learner: "What rights do people have at school, and what actions help protect everyone's rights?" or "What does our town provide, and how can people care for shared spaces?" Use real local examples — like public libraries, parks, or crossing guards — to show the social contract in action right where you live.
 
 ---
 
 :::caution Facilitator Notes
-- The social contract can feel abstract. Keep it concrete: "You get to go to school for free — that's a right. Showing up and trying your best — that's your responsibility."
+- The social contract can feel abstract. Keep it concrete: "You have a right to education. Adults must help make learning accessible, and learners can help by respecting others' chance to learn. Struggling or making a mistake does not erase the right."
 - Some kids may say, "But I never agreed to this deal!" Great observation. Use it to discuss consent and why communities revisit their agreements over time.
 - The fairness scenarios may spark strong opinions. Let kids disagree — the goal is to practice reasoning, not arrive at one "correct" answer.
-- This is the Unit 1 wrap-up. Celebrate what the learner has built: they can now explain why rules exist and why rights come with responsibilities.
+- This is the Unit 1 wrap-up. Celebrate what the learner has built: they can now explain why rules exist, how responsibilities help, and why basic rights are not rewards.
 :::
 
 ## Preview of Next Week

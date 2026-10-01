@@ -59,7 +59,7 @@ By the end of this unit, learners should be able to:
 1. Explain why groups of people create rules and what happens without them.
 2. Describe how cooperation helps people accomplish things they can't do alone.
 3. Explain how rules need to change as groups get larger (from families to nations).
-4. Define "social contract" in their own words and give an example of one.
+4. Define "social contract" in their own words, give an example, and explain why basic rights are not rewards for good behavior.
 
 ### Unit 2: The Architecture of Government (Weeks 5–9)
 

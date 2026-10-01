@@ -103,6 +103,8 @@ The learner can explain a familiar rule, who made it, and what problem it solves
 
 ## Phase Checkpoint: Rights, Responsibilities, Rules, and Fairness
 
+Use one fictional check: "A child broke a classroom rule. Do they still deserve safety, education, and fair treatment?" Look for yes, with support or fair consequences that address the behavior without making basic rights conditional.
+
 ### What this checkpoint is for
 
 This checkpoint helps facilitators see whether learners can distinguish between rules, rights, responsibilities, and laws, and whether they can talk about fairness and tradeoffs without treating every disagreement as a fight.
@@ -112,6 +114,7 @@ This checkpoint helps facilitators see whether learners can distinguish between 
 Learners are ready to move on when they can:
 
 - explain the difference between a right, a responsibility, a rule, and a law
+- explain that breaking a rule does not erase someone's basic rights
 - describe one fairness question or tradeoff in a public decision
 - explain why shared power and public procedures matter
 - use a respectful sentence frame during disagreement or debate

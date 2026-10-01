@@ -37,7 +37,7 @@ Every lesson in the curriculum connects to one or more of these five ideas:
 | # | Mental Model | What It Means |
 |---|-------------|--------------|
 | 1 | **Rules Exist for Reasons** | Every rule was created to solve a problem. Understanding *why* rules exist helps you evaluate whether they're working. |
-| 2 | **Rights Come with Responsibilities** | In any community, members have protections *and* duties. These two things work together. |
+| 2 | **Rights Protect Everyone** | People have basic rights, and everyone has responsibilities to respect the rights of others. Rights are not rewards for good behavior. |
 | 3 | **Power Flows from the People** | In a democracy, authority comes from the consent of the governed. Leaders serve because people choose them. |
 | 4 | **Shared Power Prevents Abuse** | When power is divided and checked, it's harder for any person or group to act unfairly. |
 | 5 | **Participation Keeps Communities Healthy** | A community that nobody maintains eventually breaks down. Voting, speaking up, and serving keep the system working. |
@@ -107,7 +107,7 @@ Advanced ideas such as elections, campaign messages, detailed budget tradeoffs, 
 | 1 | [Rules We Already Follow](/docs/week1) | Why rules exist; discovering the rules you already live by |
 | 2 | [The Island Challenge](/docs/week02-the-island-challenge) | Designing rules from scratch; voting, compromise, and conflict |
 | 3 | [From Families to Nations](/docs/week03-from-families-to-nations) | How cooperation scales from small groups to large ones |
-| 4 | [The Social Contract](/docs/week04-the-social-contract) | Rights and responsibilities; what we give and what we get |
+| 4 | [The Social Contract](/docs/week04-the-social-contract) | Rights and responsibilities; protections are not earned rewards |
 
 ### Unit 2: The Architecture of Government (Weeks 5–9)
 

@@ -64,8 +64,8 @@ export default function HomepageFeatures() {
               description="Every rule was created to solve a problem. Understanding why helps you evaluate whether it's working."
             />
             <FeatureCard
-              title="2. Rights Come with Responsibilities"
-              description="Members of a community have protections and duties. These two things work together."
+              title="2. Rights Protect Everyone"
+              description="People have basic rights. Responsibilities help protect everyone’s rights; rights are not rewards for good behavior."
             />
             <FeatureCard
               title="3. Power Flows from the People"

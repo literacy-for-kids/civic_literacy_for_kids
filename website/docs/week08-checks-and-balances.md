@@ -235,7 +235,7 @@ You've now completed Unit 2 — The Architecture of Government. Add two more men
 
 Ask: *"Can you explain how the three branches and checks and balances connect to these ideas?"*
 
-Running list so far: (1) Rules Exist for Reasons, (2) Rights Come with Responsibilities, (3) Power Flows from the People, (4) Shared Power Prevents Abuse.
+Running list so far: (1) Rules Exist for Reasons, (2) Rights Protect Everyone, (3) Power Flows from the People, (4) Shared Power Prevents Abuse.
 :::
 
 ---

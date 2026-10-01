@@ -215,7 +215,7 @@ You've now completed Unit 3 — Your Local Government. Add the fifth and final m
 
 Ask: *"How did this week's activities — watching a meeting, writing a letter, practicing public comment — connect to this idea?"*
 
-Full set: (1) Rules Exist for Reasons, (2) Rights Come with Responsibilities, (3) Power Flows from the People, (4) Shared Power Prevents Abuse, (5) Participation Keeps Communities Healthy.
+Full set: (1) Rules Exist for Reasons, (2) Rights Protect Everyone, (3) Power Flows from the People, (4) Shared Power Prevents Abuse, (5) Participation Keeps Communities Healthy.
 :::
 
 ---

@@ -13,7 +13,7 @@ Before diving into Unit 2, take a moment to recall what you've built:
 - **Rules exist for reasons** — every rule was created to solve a problem (Week 1).
 - **Communities need agreements** — your island community proved that even small groups need shared rules (Week 2).
 - **Bigger communities need more structure** — families talk it out, but nations need representatives, written laws, and processes (Week 3).
-- **Rights come with responsibilities** — the social contract is a two-way deal between people and their community (Week 4).
+- **Rights protect everyone** — people have basic rights, and responsibilities help protect others' rights. Those rights are not rewards for good behavior (Week 4).
 
 Now we zoom in on **how the United States set up its side of that deal**.
 :::

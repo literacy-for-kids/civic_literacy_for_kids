@@ -47,7 +47,7 @@ Every lesson connects back to five ideas that build on each other throughout the
 
 1. **Rules Exist for Reasons** — Every rule was created to solve a problem. Understanding *why* rules exist helps you evaluate whether they're working.
 
-2. **Rights Come with Responsibilities** — In any community, members have protections *and* duties. These two things work together.
+2. **Rights Protect Everyone** — People have basic rights, and everyone has responsibilities to respect the rights of others. Rights are not rewards for good behavior.
 
 3. **Power Flows from the People** — In a democracy, authority comes from the consent of the governed. Leaders serve because people choose them.
 
