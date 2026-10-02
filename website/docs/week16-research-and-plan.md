@@ -83,7 +83,7 @@ Before diving in, plan where to look:
 | **Other communities** | What has a nearby city done about this issue? | Model solutions |
 | **Data** | Census data, budget numbers, traffic counts | Hard evidence |
 
-For the student's specific problem, identify which sources are most likely to be useful. Start with 2-3 sources.
+For the student's specific problem, identify which sources are most likely to be useful. Start with 2-3 sources, then trace the evidence behind them. Several pages may repeat one original report; page count is not independent confirmation.
 
 ---
 
@@ -93,7 +93,7 @@ As the student researches, fill in this organizer:
 
 **My Problem:** ________________________
 
-| Question | What I Found | Source |
+| Question | What I Found | Source and underlying evidence |
 |----------|-------------|--------|
 | How long has this problem existed? | | |
 | How many people are affected? | | |
@@ -109,15 +109,27 @@ Not every question will have an answer yet — that's okay. The point is to know
 
 **3. Evaluating Sources** *(8 minutes)*
 
-Teach the student to ask three questions about any source:
+Teach the student to ask:
 
-1. **Who said this?** (Is it an official source? A news organization? Someone's opinion?)
-2. **How recent is it?** (Is the information current?)
-3. **Can I verify it?** (Can I find the same information from a second source?)
+1. **Who said this, and what evidence do they show?** Find the original observation, record, or report behind the claim.
+2. **When and where does that evidence apply?** A dated record may be useful for a past event but not today's schedule.
+3. **Is another source independent?** Check whether it gathered separate evidence or copied the same report. Different websites can share one source.
+4. **What does the evidence actually support?** Notice conflicts, gaps, and limits; an official label or several agreeing pages is not a guarantee.
 
-> "Good research isn't about finding one perfect source. It's about gathering information from several places and checking whether they agree."
+**Supplied fictional case — no searching needed:** The claim is "The library reading room is closed for all of November."
 
-Practice: Take one piece of information from their research and try to verify it with a second source.
+| Card | Material and origin |
+|---|---|
+| A: Town post, November 1 | Says the room is closed all month; based on an unnamed message, with no record shown. |
+| B: Neighborhood blog, November 2 | Repeats the claim and links to A; no separate evidence. |
+| C: Newsletter, November 3 | Repeats B's wording and cites B; no separate evidence. |
+| D: Facilities schedule, issued October 30 | Original maintenance record: reading room closed November 3, 10 a.m.–noon; otherwise its usual opening schedule applies. |
+
+Ask: "How many independent evidence origins are behind A, B, and C? What does D support? What still needs checking?"
+
+**Facilitator notes:** A → B → C is one report chain, not three confirmations. D supplies a separate original record that contradicts an *all-month scheduled closure*. It supports the stated maintenance plan, not proof that the room actually opened every day or that no later change occurred. Check for a newer notice before making a real visit.
+
+Next, take one piece of the learner's project research and trace its origin with the same routine. If the origin is missing, label the claim unverified rather than treating repetition as proof.
 
 ---
 
@@ -281,7 +293,7 @@ Civic ideas often get clearer after feedback. When someone asks a question about
 :::
 
 - Why is it important to use facts and evidence in a proposal instead of just saying how you feel about a problem?
-- What makes a source reliable? How can you tell if information is trustworthy?
+- Why are reading-room cards A, B, and C one report chain? What separate evidence does D supply, and what does it not prove?
 - What is one objection someone might raise to your proposal, and how would you respond?
 - How did your understanding of the problem change after doing research?
 
@@ -291,7 +303,7 @@ Civic ideas often get clearer after feedback. When someone asks a question about
 
 **Core:**
 - Complete the Research Organizer with at least 4 answered questions
-- Identify 2-3 sources of information about your problem
+- Identify 2-3 relevant sources about your problem and trace their evidence origins; do not count copied reports as independent confirmations
 - Brainstorm at least 2 possible solutions and pick the strongest one
 
 **Stretch:**

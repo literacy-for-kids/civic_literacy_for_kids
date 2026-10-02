@@ -31,7 +31,7 @@ Learners should be able to:
 - compare two community decisions and identify possible tradeoffs
 - identify claims, evidence, opinions, and missing perspectives in civic messages
 - participate in respectful civic discussion using sentence frames and evidence
-- check a civic claim with more than one source or example
+- check a civic claim by tracing its evidence origin and distinguishing copied reports from independent evidence
 - design a simple civic action project for a school, library, neighborhood, or community issue
 
 ### Ages 11-13: Optional extension
@@ -218,7 +218,7 @@ A problem statement, research notes, realistic proposal, and revision.
 | Taught in | Prompt | Expected core reasoning |
 |---|---|---|
 | Week 15 | What makes this problem specific and worth investigating? | Name an observable community need and affected people without claiming to know every perspective. |
-| Week 16 | What evidence and decision maker fit the proposal? | Identify relevant sources, distinguish observations from assumptions, and choose an appropriate audience. |
+| Week 16 | What evidence and decision maker fit the proposal? | Trace the reading-room cards' shared report chain and separate maintenance record; explain its limits, distinguish observations from assumptions, and choose an appropriate audience. |
 | Week 17 | How does the proposal connect evidence to a feasible action? | Explain a concrete request, resources, tradeoffs, and uncertainties without exaggerating. |
 | Week 18 | What changed after feedback? | Explain one revision and a supported next step, giving credit for outside sources and help. |
 
