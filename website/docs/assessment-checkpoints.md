@@ -133,7 +133,7 @@ A branch diagram, law-making sequence, and fair-election example.
 | Taught in | Prompt | Expected core reasoning |
 |---|---|---|
 | Week 5 | What does a constitution do? | It sets a framework for government and protections; it is more than an ordinary daily rule. |
-| Week 6 | What are the three branches' basic jobs? | Legislative makes laws, executive carries them out, judicial interprets laws and resolves cases; use child language. |
+| Week 6 | What are the three branches' basic jobs, and which chambers make up Congress? | Legislative makes laws, executive carries them out, judicial interprets laws and resolves cases. Place both House and Senate under Congress; the Speaker leads the House. Use child language; current officeholder names and detailed leadership roles are optional. |
 | Week 7 | How can an idea become a law? | Order the main lesson steps and recognize that proposals may change or fail. |
 | Week 8 | How can one branch limit another? | Give a taught check-and-balance example and explain why shared power matters. |
 | Week 9 | What helps make an election fair? | Explain a taught feature such as clear rules, access, counting, or a secret ballot; no eligible voting or political preference disclosure is required. |

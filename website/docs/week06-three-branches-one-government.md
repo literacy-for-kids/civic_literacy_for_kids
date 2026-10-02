@@ -94,9 +94,11 @@ Remember the island community from Week 2? Your islanders had to figure out who 
 
 | Branch | Job | Who's In It | Where |
 |--------|-----|------------|-------|
-| **Legislative** (Congress) | Makes the laws | Senators and Representatives | Capitol Building |
+| **Legislative** (Congress) | Makes the laws | House of Representatives and Senate | Capitol Building |
 | **Executive** | Carries out the laws | President and their team | White House |
 | **Judicial** | Interprets the laws and settles disputes | Judges and the Supreme Court | Courthouses |
+
+**Congress has two chambers:** representatives serve in the **House of Representatives**, and senators serve in the **Senate**. The **Speaker of the House** leads the House, not the Senate or all of Congress. The three-branch diagram shows different functions; it does not mean each branch has the same leadership structure.
 
 For each branch, give a simple example:
 
@@ -229,7 +231,7 @@ Create a **Three Branches Poster** or explainer that shows how the U.S. governme
 Your poster should include:
 
 1. **The name of each branch** and its main job.
-2. **Who leads each branch** (at least one key role).
+2. **Which people or institutions belong in each branch:** put both the House of Representatives and Senate under Congress; put the President and executive agencies under executive; put the Supreme Court and other federal courts under judicial. Detailed leadership roles are an optional extension below.
 3. **One real-world example** of each branch in action.
 4. **A title and a sentence** explaining why power is divided.
 
@@ -278,6 +280,7 @@ The U.S. government is split into three parts so no one person or group has all 
 ## Check for Understanding
 
 - What are the three branches of government and what does each one do?
+- Which two chambers make up Congress? Does the Speaker of the House lead the Senate too? (Look for: House of Representatives and Senate; the Speaker leads the House.)
 - Why did the founders choose to split power into three branches instead of giving it all to one person?
 - Can you think of a real-world example where each branch does its job?
 - How is dividing government power similar to how jobs are divided at a school?
@@ -294,7 +297,7 @@ The U.S. government is split into three parts so no one person or group has all 
 **Stretch:**
 - Research one branch in more detail and present three facts about it that weren't covered in the lesson.
 - Explain what could go wrong if two branches were combined into one. Give a specific example.
-- Find out who currently leads each branch (the President, the Speaker of the House, and the Chief Justice) and describe one thing each has done recently.
+- Use the role chart below to investigate current officeholders with an adult. Distinguish the President, House and Senate leadership roles, and the Chief Justice's Supreme Court role; do not look for one person who leads all of Congress. Record a source and date if you look up a name.
 
 ---
 
@@ -307,12 +310,23 @@ The U.S. government is split into three parts so no one person or group has all 
 :::
 
 :::tip For Older Learners (Ages ~10–12)
-- After introducing the branches, ask: *"Who currently leads each branch?"* Have them look it up and write one sentence about each leader's role.
+- After introducing the branches, compare the roles in the chart below. Ask: *"Which institution does each role belong to, and what is the limit of that role?"* Current-name research is optional and needs adult guidance.
 - In the One-Person Thought Experiment, ask them to write a short paragraph: *"What specific rights could be at risk if one person controlled all three branches?"*
 - Preview checks and balances (Week 8): *"If the President proposes something Congress disagrees with, what happens?"*
 :::
 
 ---
+
+### Optional Leadership Role Chart
+
+| Role | Institution and limit |
+|---|---|
+| President | Heads the executive branch; does not lead Congress or decide court cases. |
+| Speaker of the House | Leads the House of Representatives; does not lead the Senate. |
+| Senate majority and minority leaders | Coordinate their parties' work in the Senate. The majority leader helps schedule floor business; neither is the Speaker or a single leader of all Congress. |
+| Chief Justice of the United States | Presides over the Supreme Court and serves alongside the associate justices. The justices decide cases together; the Chief Justice does not decide every federal case alone. |
+
+**Facilitator references, checked October 2, 2026:** [The House Explained](https://www.house.gov/the-house-explained), [Senate party leadership](https://www.senate.gov/about/parties-leadership/majority-minority-leaders.htm), and [Supreme Court procedures](https://www.supremecourt.gov/about/procedures.aspx). Names and recent events can change; understanding the institutions does not require memorizing current officeholders.
 
 ## 🔍 Civic Inquiry Spotlight: Who Said That?
 

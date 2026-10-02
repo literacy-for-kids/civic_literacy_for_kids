@@ -1,5 +1,5 @@
 <svg viewBox="0 0 860 430" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tbTitle">
-  <title id="tbTitle">The three branches of government: legislative makes the laws, executive carries out the laws, judicial interprets the laws</title>
+  <title id="tbTitle">The three branches: Congress includes the House and Senate and makes laws; the executive carries out laws; the judicial branch interprets laws</title>
   <defs>
     <marker id="tbA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
       <path d="M0,0 L10,5 L0,10 z" fill="#4338ca"/>
@@ -30,8 +30,8 @@
     </g>
     <text x="165" y="248" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="17" font-weight="700" fill="#4338ca">LEGISLATIVE</text>
     <text x="165" y="274" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14.5" font-weight="600" fill="#1e293b">Makes the laws</text>
-    <text x="165" y="300" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#475569">Congress: Senators +</text>
-    <text x="165" y="318" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#475569">Representatives</text>
+    <text x="165" y="300" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#475569">Congress: House + Senate</text>
+    <text x="165" y="318" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#475569">Representatives + Senators</text>
     <text x="165" y="346" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#94a3b8">Capitol Building</text>
   </g>
 
