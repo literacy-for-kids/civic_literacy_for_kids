@@ -410,3 +410,13 @@ The legal protections that make sure every eligible citizen can vote without bei
 **Zoning**
 Local government rules about what can be built or done in different areas of a community — for example, separating areas for homes, businesses, and parks.
 *Used in: Week 10*
+
+## Practical and Optional-Depth Vocabulary
+
+These entries align the worked examples and added practical activities with the core lessons. Optional-module vocabulary is not required for core progression.
+
+| Term | Meaning and limit | Taught in |
+|---|---|---|
+| **Implementation gap** | A difference between a rule or promise and what the responsible institution actually does. | Week 8 |
+| **Participation barrier** | A condition that prevents meaningful access even when people are nominally invited. | Week 8 |
+| **Accountability** | A process for explaining decisions, reviewing conduct, and addressing failures; a complaint does not guarantee a remedy. | Week 8 |

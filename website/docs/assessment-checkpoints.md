@@ -240,3 +240,7 @@ Narrow the proposal to one concern, one audience, and one action. Add a source a
 ## Week 8 Institutional-Failure Check in Unit 2
 
 Use the [three fictional failure cases](./week08-checks-and-balances.md#what-if-the-system-fails). Ask for the rule or promise, evidence of the gap, affected people, responsible institution, and one follow-up that would show improvement. Expected: implementation, access, or disclosure failure; a realistic accountability route; no guarantee that a complaint fixes the problem. Revisit the case evidence if learners assume a rule's existence proves it works. Rights do not depend on the institution performing well.
+
+## Using Worked Responses Without Expanding the Core Assessment
+
+The [worked-example cards](./worked-examples-and-optional-depth.md) offer an illustrative response for each core week. Use the scenario to check the already taught idea and reasoning; sample wording is not a scoring key. Additional depth questions, technical vocabulary, and optional modules are enrichment, not requirements for moving to the next core week. External research, a new account, real-world contact, private disclosure, or public presentation is not required by these practice cards. If a core idea remains unclear, reteach it before adding depth. Accept oral, drawn, sorted, or written evidence appropriate to the learner.

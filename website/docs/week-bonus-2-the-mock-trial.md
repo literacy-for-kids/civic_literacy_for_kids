@@ -35,6 +35,24 @@ The big idea:
 - [Independent Session](#independent-session)
 :::
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After the Understanding Courts optional lesson: allegations, evidence, fair hearings.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — A complete short hearing:** Use these fictional classroom rules: borrowed books must be returned by 4, and returns recorded. E1: the return shelf holds Lee’s borrowed book at 3:50; E2: Lee’s return log is blank. Witness Kim saw Lee place that book on the shelf at 3:45; witness Ari checked the blank log at 4. Lee agrees the book was returned and the log forgotten. One party alleges late return and missing log; the other accepts only the log issue. Choose a neutral facilitator and hear each allegation separately.
+
+**Illustrative response and reasoning:** Run: 2 minutes to read rules and evidence, 3 for each side, 3 for factual questions, 3 for reasons, 5 for reflection. Under the fictional record and a stated classroom more-likely-than-not standard, late return is not established and missing log is established. Record the reported return time honestly as entered later; clarify the future process. Do not add a theft finding or a real criminal penalty.
+
+**Optional depth question:** Compare with the longer Alex library-book case below, which uses a different fictional allegation and proof standard. State the selected case and standard first; do not mix evidence or rules between cases. Learners can do this short hearing on paper or with two people.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -68,7 +86,7 @@ By the end of this session, the student can:
 #### Activities
 **1. The Case: The Missing Library Books** *(10 minutes)*
 
-Read this case aloud:
+Read this fictional case aloud. Use only the supplied facts; witnesses should not invent admissions, alibis, or new observations. A role-play is not a real accusation against a learner:
 
 ---
 
@@ -86,7 +104,7 @@ Alex's friend, **Sam Washington**, says Alex would never steal anything and has 
 
 The library has no footage of anyone actually taking books. The missing books have not been found in Alex's possession.
 
-**The Charge:** Alex Rivera is accused of stealing library books — a violation of town ordinance 42.7 (theft of public property).
+**Fictional classroom charge:** Alex Rivera is accused of stealing library books under invented town ordinance 42.7. This number is not an actual legal citation. The classroom case uses a beyond-reasonable-doubt standard for the theft allegation; it is separate from the short book-return hearing above. Real offences, procedures, and proof rules depend on jurisdiction.
 
 **Alex's Plea:** Not guilty.
 

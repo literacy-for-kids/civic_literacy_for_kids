@@ -15,7 +15,7 @@ sidebar_label: Curriculum Map
 | 5 | The Constitution | Why did the US need a founding document? | Constitutional analysis | constitution, amendment, Bill of Rights | Name two things the Bill of Rights protects | Research how a constitutional amendment was passed |
 | 6 | Three Branches, One Government | Why is government power divided? | Separation of powers analysis | legislative, executive, judicial, separation of powers | What does each branch do? Which branch makes laws? | Find one example of each branch in action this week |
 | 7 | How a Law Is Made | How does an idea become a law? | Legislative process mapping | bill, vote, veto, compromise | Describe the path of a bill from idea to signed law | Follow a real proposed law through its current stage in Congress |
-| 8 | Checks and Balances | How do the branches keep each other in check? | Checks and balances analysis | check, balance, override, review | Give one example of one branch checking another | Find a recent news example of checks and balances in action |
+| 8 | Checks and Balances | How do the branches keep each other in check? | Checks and balances analysis | check, balance, override, review, implementation gap, access, accountability | Give one example of one branch checking another; Identify a failed check and evidence of actual follow-up | Find a recent news example of checks and balances in action |
 | 9 | Elections and Voting | How does "power flows from the people" actually work? | Electoral system analysis | election, vote, representative, suffrage | How did the right to vote expand over US history? | Research one expansion of voting rights |
 | 10 | Your Town, Your Rules | How are decisions made in your local community? | Local government analysis | mayor, city council, ordinance, public meeting | Name one local official and one decision they make | Attend or watch a local government meeting |
 | 11 | Schools, Libraries, and Public Services | What services does your community provide, and how? | Public services analysis | public service, tax, commons, funding | Name three public services you use. Who provides them? | Research how your local library or school is funded |
@@ -36,3 +36,7 @@ These activities are integrated into the existing weeks. Use the lesson's sugges
 | Week | Added core skill | Evidence to collect |
 |---|---|---|
 | 8 | Institutional failures | Identify promise, evidence gap, responsibility, response limits |
+
+## Optional-Work Status Key
+
+The map’s extension column is enrichment, not core assessment. An invitation to locate or construct missing source, current-case, interview, or tool-activity material is an **open research prompt** needing adult selection, verification, and additional preparation. Supplied tool instructions remain supplied teaching, with their stated setup needs. For a **supplied practice** alternative, use the [weekly worked examples](./worked-examples-and-optional-depth.md), which include the fictional scenario, illustrative response, and bounded depth question. Choose one activity after the corresponding core teaching; do not require both routes.

@@ -35,6 +35,24 @@ The big idea:
 - [Independent Session](#independent-session)
 :::
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After Weeks 5–8: authority, rules, branches, and limits.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — Read a fictional dispute record:** A fictional community room rule says borrowers return chairs to the room by 4. A claim says Dana returned at 4:20. Evidence E1 is a time-stamped 3:55 return log; E2 is the claimant’s 4:20 sighting of Dana walking outside without chairs. Separate allegation from evidence.
+
+**Illustrative response and reasoning:** The return log supports a return before 4; the later sighting does not itself establish when chairs were returned. A decision-maker should hear both sides and check the record’s reliability. This is a fictional dispute exercise, not a real court judgment.
+
+**Optional depth question:** State what additional evidence might challenge the log, without inventing it. Explain why a confident accusation does not prove the allegation.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## Facilitator Preparation
 
 :::info Before You Begin
