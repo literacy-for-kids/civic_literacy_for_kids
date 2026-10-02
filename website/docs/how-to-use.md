@@ -266,7 +266,7 @@ That's completely normal and actually a great teaching moment. Say, "I'm not sur
 
 ### Can multiple facilitators share the teaching?
 
-Absolutely. In co-ops, each parent or caregiver can take a different week. In schools, classroom teachers and specialists can divide units. Each week's Teacher Preparation section is self-contained — a new facilitator can pick up any week with about 15 minutes of prep.
+Absolutely. In co-ops, each parent or caregiver can take a different week. In schools, classroom teachers and specialists can divide units. Use each week’s Teacher Preparation section to plan the handoff, check earlier concepts, and gather the listed materials. Preparation varies: a selected discussion may need only a brief read-through, while source activities, simulations, and projects need additional setup.
 
 ### How long does the full curriculum take?
 
